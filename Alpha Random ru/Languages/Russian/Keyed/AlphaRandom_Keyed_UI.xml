@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: An inert fate manipulator has transformed into a {0}! -->
+	<ARandom_NewManipulator>Инертный манипулятор судьбы превратился в {0}!</ARandom_NewManipulator>
+
+	<!-- EN: The {0} triggered the {1} event! -->
+	<ARandom_IncidentCaused>{0} вызвал событие «{1}»!</ARandom_IncidentCaused>
+
+	<!-- EN: The archotechs have blessed {0} with knowledge of {1}! -->
+	<ARandom_BoonSkillsLearned>Архотеки благословили {0}, даровав знание навыка «{1}»!</ARandom_BoonSkillsLearned>
+
+	<!-- EN: The archotechs have inspired {0}! -->
+	<ARandom_BoonInspiration>Архотеки вдохновили {0}!</ARandom_BoonInspiration>
+
+	<!-- EN: The archotechs have blessed {0}! -->
+	<ARandom_BoonHediff>Архотеки благословили {0}!</ARandom_BoonHediff>
+
+	<!-- EN: The archotechs have mutated {0} with {1}! -->
+	<ARandom_BoonGene>Архотеки мутировали {0}, добавив ген «{1}»!</ARandom_BoonGene>
+
+	<!-- EN: The archotechs have completely reshuffled {0}'s personality! -->
+	<ARandom_BoonTraits>Архотеки полностью перекроили личность {0}!</ARandom_BoonTraits>
+
+	<!-- EN: The archotechs have given {0} preternatural sight! The whole map has been revealed. -->
+	<ARandom_BoonSight>Архотеки даровали {0} сверхъестественное зрение! Вся карта раскрыта.</ARandom_BoonSight>
+
+	<!-- EN: The archotechs have turned {0}'s possessions into pure gold! -->
+	<ARandom_BoonMidasTouch>Архотеки превратили имущество {0} в чистое золото!</ARandom_BoonMidasTouch>
+
+	<!-- EN: The archotechs have cleaned filth and repaired buildings in the colony's home area! -->
+	<ARandom_BoonCleaningRepairing>Архотеки очистили грязь и полностью отремонтировали постройки в домашней зоне колонии!</ARandom_BoonCleaningRepairing>
+
+	<!-- EN: The archotechs have increased the quality of {0}'s equipment! -->
+	<ARandom_BoonQuality>Архотеки повысили качество снаряжения {0}!</ARandom_BoonQuality>
+
+	<!-- EN: The archotechs... ▌egg 0101▌▌feather-collapse ▌▌[TIME] inexhaustible ███nesting [REDACTED] GRAVITY ▌▌do not. -->
+	<ARandom_BoonChickens>Архотеки... ▌яйцо 0101▌▌коллапс перьев ▌▌[ВРЕМЯ] неисчерпаемо ███гнездование [УДАЛЕНО] ГРАВИТАЦИЯ ▌▌не.</ARandom_BoonChickens>
+
+	<!-- EN: Market value range (base) -->
+	<ARandom_TotalMarketValueRange>Диапазон рыночной стоимости (базовый)</ARandom_TotalMarketValueRange>
+
+	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. -->
+	<ARandom_TotalMarketValueRange_Desc>Общий диапазон рыночной стоимости (минимум и максимум) предметов, которые можно получить при открытии этого лутбокса.</ARandom_TotalMarketValueRange_Desc>
+
+	<!-- EN: Market value range (by quality) -->
+	<ARandom_TotalMarketValueRange_Quality>Диапазон рыночной стоимости (с учётом качества)</ARandom_TotalMarketValueRange_Quality>
+
+	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0} -->
+	<ARandom_TotalMarketValueRange_Quality_Desc>Общий диапазон рыночной стоимости (минимум и максимум) предметов, которые можно получить при открытии этого лутбокса. Качество коробки изменяет базовую стоимость с коэффициентом {0}.</ARandom_TotalMarketValueRange_Quality_Desc>
+
+	<!-- EN: Add random lootboxes to raiders -->
+	<ARandom_AddLootboxesToRaiders>Добавлять случайные лутбоксы рейдерам</ARandom_AddLootboxesToRaiders>
+
+	<!-- EN: With this on, all raiders coming into your base have a chance to carry a random loot box. -->
+	<ARandom_AddLootboxesToRaidersDesc>Если включено, у всех рейдеров, приходящих на базу, есть шанс нести с собой случайный лутбокс.</ARandom_AddLootboxesToRaidersDesc>
+
+	<!-- EN: Raider lootbox chance -->
+	<ARandom_LootboxCommonality>Шанс лутбокса у рейдеров</ARandom_LootboxCommonality>
+
+	<!-- EN: By default, only 1% of raiders will arrive with a lootbox on their inventory, but you can tweak that. -->
+	<ARandom_LootboxCommonalityDesc>По умолчанию только 1% рейдеров прибывают с лутбоксом в инвентаре, но это значение можно изменить.</ARandom_LootboxCommonalityDesc>
+
+	<!-- EN: Reset -->
+	<ARandom_Reset>Сброс</ARandom_Reset>
+</LanguageData>
