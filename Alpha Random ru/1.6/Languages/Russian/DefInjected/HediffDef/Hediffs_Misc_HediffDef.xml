@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\Hediffs_Misc.xml -->
+	<!--                     EN: archotech boon -->
+	<ARandom_ArchotechBoon.label>благословение архотеков</ARandom_ArchotechBoon.label>
+
+	<!--                           EN: This person has been blessed by an unknowable archotech entity. -->
+	<ARandom_ArchotechBoon.description>Этот персонаж был благословлён непостижимой сущностью архотеков.</ARandom_ArchotechBoon.description>
+</LanguageData>

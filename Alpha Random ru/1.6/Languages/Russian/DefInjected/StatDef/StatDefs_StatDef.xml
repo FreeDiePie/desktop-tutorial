@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\StatDefs\StatDefs.xml -->
+
+	<!-- EN: archotech boon chance -->
+	<ARandom_ArchotechBoonChance.label>шанс благословения архотеков</ARandom_ArchotechBoonChance.label>
+
+	<!-- EN: The chance that this manipulator will trigger an archotech boon instead of a random event. -->
+	<ARandom_ArchotechBoonChance.description>Вероятность того, что этот манипулятор вместо случайного события вызовет благословение архотеков.</ARandom_ArchotechBoonChance.description>
+</LanguageData>
