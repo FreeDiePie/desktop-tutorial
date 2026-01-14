@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\as1aw_morehunterdrones\LemonSkin_MoreHunterDrones_Packs28.xml -->
+	<!--                        EN: hunter pack (toxic) -->
+	<Apparel_PackHunter_Toxic.label>hunter pack (toxic)</Apparel_PackHunter_Toxic.label>
+	<!--                                   EN: hunter pack (antigrain warhead) -->
+	<Apparel_PackHunter_AntigrainWarhead.label>hunter pack (antigrain warhead)</Apparel_PackHunter_AntigrainWarhead.label>
+	<!--                             EN: hunter pack (incendiary) -->
+	<Apparel_PackHunter_Incendiary.label>hunter pack (incendiary)</Apparel_PackHunter_Incendiary.label>
+	<!--                      EN: hunter pack (EMP) -->
+	<Apparel_PackHunter_EMP.label>hunter pack (EMP)</Apparel_PackHunter_EMP.label>
+	<!--                        EN: hunter pack (smoke) -->
+	<Apparel_PackHunter_Smoke.label>hunter pack (smoke)</Apparel_PackHunter_Smoke.label>
+	<!--                      EN: hunter trap (toxic) -->
+	<Drone_HunterToxic_Trap.label>hunter trap (toxic)</Drone_HunterToxic_Trap.label>
+	<!--                                 EN: hunter pack (antigrain warhead) -->
+	<Drone_HunterAntigrainWarhead_Trap.label>hunter pack (antigrain warhead)</Drone_HunterAntigrainWarhead_Trap.label>
+	<!--                           EN: hunter pack (incendiary) -->
+	<Drone_HunterIncendiary_Trap.label>hunter pack (incendiary)</Drone_HunterIncendiary_Trap.label>
+	<!--                    EN: hunter pack (EMP) -->
+	<Drone_HunterEMP_Trap.label>hunter pack (EMP)</Drone_HunterEMP_Trap.label>
+	<!--                      EN: hunter pack (smoke) -->
+	<Drone_HunterSmoke_Trap.label>hunter pack (smoke)</Drone_HunterSmoke_Trap.label>
+</LanguageData>

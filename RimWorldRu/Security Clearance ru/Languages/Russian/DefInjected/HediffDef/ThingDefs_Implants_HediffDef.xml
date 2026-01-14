@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Implants.xml -->
+	
+	<!--                              EN: Alpha clearance microchip -->
+	<SecurityClearanceImplant_Alpha.label>микрочип доступа «Альфа»</SecurityClearanceImplant_Alpha.label>
+	<!--                                    EN: Standard security microchip implant granting access to Alpha, Beta, Gamma, Delta, and Epsilon clearance doors. -->
+	<SecurityClearanceImplant_Alpha.description>Стандартный микрочип доступа, предоставляющий доступ к дверям уровней допуска «Альфа», «Бета», «Гамма», «Дельта» и «Эпсилон».</SecurityClearanceImplant_Alpha.description>
+	
+	<!--                             EN: Beta clearance microchip -->
+	<SecurityClearanceImplant_Beta.label>микрочип доступа «Бета»</SecurityClearanceImplant_Beta.label>
+	<!--                                   EN: Standard security microchip implant granting access to Beta, Gamma, Delta, and Epsilon clearance doors. -->
+	<SecurityClearanceImplant_Beta.description>Стандартный микрочип доступа, предоставляющий доступ к дверям уровней допуска «Бета», «Гамма», «Дельта» и «Эпсилон».</SecurityClearanceImplant_Beta.description>
+	
+	<!--                              EN: Gamma clearance microchip -->
+	<SecurityClearanceImplant_Gamma.label>микрочип доступа «Гамма»</SecurityClearanceImplant_Gamma.label>
+	<!--                                    EN: Standard security microchip implant granting access to Gamma, Delta, and Epsilon clearance doors. -->
+	<SecurityClearanceImplant_Gamma.description>Стандартный микрочип доступа, предоставляющий доступ к дверям уровней допуска «Гамма», «Дельта» и «Эпсилон».</SecurityClearanceImplant_Gamma.description>
+	
+	<!--                              EN: Delta clearance microchip -->
+	<SecurityClearanceImplant_Delta.label>микрочип доступа «Дельта»</SecurityClearanceImplant_Delta.label>
+	<!--                                    EN: Standard security microchip implant granting access to Delta and Epsilon clearance doors. -->
+	<SecurityClearanceImplant_Delta.description>Стандартный микрочип доступа, предоставляющий доступ к дверям уровней допуска «Дельта» и «Эпсилон».</SecurityClearanceImplant_Delta.description>
+	
+	<!--                                EN: Epsilon clearance microchip -->
+	<SecurityClearanceImplant_Epsilon.label>микрочип доступа «Эпсилон»</SecurityClearanceImplant_Epsilon.label>
+	<!--                                      EN: Standard security microchip implant granting access to Epsilon clearance doors. -->
+	<SecurityClearanceImplant_Epsilon.description>Стандартный микрочип доступа, предоставляющий доступ к дверям уровня допуска «Эпсилон».</SecurityClearanceImplant_Epsilon.description>
+	
+	<!--                              EN: Theta special clearance microchip -->
+	<SecurityClearanceImplant_Theta.label>микрочип особого допуска «Тета»</SecurityClearanceImplant_Theta.label>
+	<!--                                    EN: Security microchip implant granting access to Theta special clearance doors. -->
+	<SecurityClearanceImplant_Theta.description>Микрочип доступа, предоставляющий доступ к дверям особого допуска «Тета».</SecurityClearanceImplant_Theta.description>
+	
+	<!--                               EN: Lambda special clearance microchip -->
+	<SecurityClearanceImplant_Lambda.label>микрочип особого допуска «Лямбда»</SecurityClearanceImplant_Lambda.label>
+	<!--                                     EN: Security microchip implant granting access to Lambda special clearance doors. -->
+	<SecurityClearanceImplant_Lambda.description>Микрочип доступа, предоставляющий доступ к дверям особого допуска «Лямбда».</SecurityClearanceImplant_Lambda.description>
+	
+	<!--                            EN: Tau special clearance microchip -->
+	<SecurityClearanceImplant_Tau.label>микрочип особого допуска «Тау»</SecurityClearanceImplant_Tau.label>
+	<!--                                  EN: Security microchip implant granting access to Tau special clearance doors. -->
+	<SecurityClearanceImplant_Tau.description>Микрочип доступа, предоставляющий доступ к дверям особого допуска «Тау».</SecurityClearanceImplant_Tau.description>
+	
+	<!--                            EN: Phi special clearance microchip -->
+	<SecurityClearanceImplant_Phi.label>микрочип особого допуска «Фи»</SecurityClearanceImplant_Phi.label>
+	<!--                                  EN: Security microchip implant granting access to Phi special clearance doors. -->
+	<SecurityClearanceImplant_Phi.description>Микрочип доступа, предоставляющий доступ к дверям особого допуска «Фи».</SecurityClearanceImplant_Phi.description>
+	
+	<!--                              EN: Omega clearance microchip -->
+	<SecurityClearanceImplant_Omega.label>микрочип доступа «Омега»</SecurityClearanceImplant_Omega.label>
+	<!--                                    EN: Security microchip implant granting full access to all doors. -->
+	<SecurityClearanceImplant_Omega.description>Микрочип доступа, предоставляющий полный доступ ко всем дверям.</SecurityClearanceImplant_Omega.description>
+</LanguageData>

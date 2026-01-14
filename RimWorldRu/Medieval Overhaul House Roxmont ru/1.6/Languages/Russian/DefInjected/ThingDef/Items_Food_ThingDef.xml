@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Items\Items_Food.xml -->
+	<!--                          EN: roxwood cheese -->
+	<DankPyon_MealRoxwoodCheese.label>роквудский сыр</DankPyon_MealRoxwoodCheese.label>
+	<!--                                EN: Rox cheese is a creamy, artisanal delight crafted from the rich milk of the rox. Its smooth texture and slightly tangy flavor make it a prized addition to any feast, perfect for pairing with rustic bread and hearty ales. -->
+	<DankPyon_MealRoxwoodCheese.description>Рокс-сыр — это сливочное, изготовленное вручную лакомство из богатого молока рокса. Его гладкая текстура и слегка пикантный вкус делают его ценным дополнением к любому пиру, идеально сочетаясь с деревенским хлебом и крепким элем.</DankPyon_MealRoxwoodCheese.description>
+	
+	<!--                     EN: rox roast -->
+	<DankPyon_MealRoxRoast.label>жаркое из рокса</DankPyon_MealRoxRoast.label>
+	<!--                           EN: Thick-cut chunks of seared meat arranged on a wooden stake, making for an easily-eaten, tasty meal. -->
+	<DankPyon_MealRoxRoast.description>Крупные куски обжаренного мяса, нанизанные на деревянный шампур, создающие лёгкую в употреблении вкусную еду.</DankPyon_MealRoxRoast.description>
+	
+	<!--                     EN: rox feast -->
+	<DankPyon_MealRoxFeast.label>пир из рокса</DankPyon_MealRoxFeast.label>
+	<!--                           EN: A rich meal consisting of spiced steak with toasted potatoes, sauteed in its own beef broth. A delightfully rich and bold-tasting meal. -->
+	<DankPyon_MealRoxFeast.description>Сытное блюдо, состоящее из приправленного стейка с поджаренным картофелем, тушёного в собственном говяжьем бульоне. Восхитительно насыщенное и яркое по вкусу блюдо.</DankPyon_MealRoxFeast.description>
+</LanguageData>

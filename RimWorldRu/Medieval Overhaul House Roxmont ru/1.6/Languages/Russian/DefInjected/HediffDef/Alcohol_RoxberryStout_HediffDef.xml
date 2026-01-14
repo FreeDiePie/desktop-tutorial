@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Defs\Drugs\Alcohol_RoxberryStout.xml -->
+	
+	<!--                           EN: drank roxberry stout -->
+	<DankPyon_DrankRoxberryStout.label>выпил роксберийский стаут</DankPyon_DrankRoxberryStout.label>
+	<!--                                 EN: Drank roxberry stout, energizing the body. Slightly boosts workspeed and gets the blood pumping. -->
+	<DankPyon_DrankRoxberryStout.description>Выпил роксберийский стаут, заряжающий тело энергией. Немного увеличивает скорость работы и заставляет кровь циркулировать быстрее.</DankPyon_DrankRoxberryStout.description>
+</LanguageData>

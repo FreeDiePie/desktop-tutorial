@@ -1,0 +1,62 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\HediffDefs_BasicProsthetics.xml -->
+	<!--       EN: metallic arm -->
+	<IronArm.label>металлическая рука</IronArm.label>
+	<!--           EN: a metallic arm -->
+	<IronArm.labelNoun>металлическая рука</IronArm.labelNoun>
+	<!--             EN: An installed metallic arm. -->
+	<IronArm.description>Установленная металлическая рука.</IronArm.description>
+	<!--                       EN: iron fist -->
+	<IronArm.comps.0.tools.0.label>железный кулак</IronArm.comps.0.tools.0.label>
+	
+	<!--              EN: prosthetic hook -->
+	<ProstheticHook.label>протез-крюк</ProstheticHook.label>
+	<!--                  EN: a prosthetic hook -->
+	<ProstheticHook.labelNoun>протез-крюк</ProstheticHook.labelNoun>
+	<!--                    EN: An installed prosthetic hook. -->
+	<ProstheticHook.description>Установленный протез-крюк.</ProstheticHook.description>
+	<!--                              EN: prosthetic hook -->
+	<ProstheticHook.comps.0.tools.0.label>протез-крюк</ProstheticHook.comps.0.tools.0.label>
+	
+	<!--          EN: wooden foot -->
+	<WoodenFoot.label>деревянная стопа</WoodenFoot.label>
+	<!--              EN: a wooden foot -->
+	<WoodenFoot.labelNoun>деревянная стопа</WoodenFoot.labelNoun>
+	<!--                EN: An installed wooden foot. -->
+	<WoodenFoot.description>Установленная деревянная стопа.</WoodenFoot.description>
+	
+	<!--         EN: wooden toe -->
+	<WoodenToe.label>деревянный палец ноги</WoodenToe.label>
+	<!--             EN: a wooden toe -->
+	<WoodenToe.labelNoun>деревянный палец ноги</WoodenToe.labelNoun>
+	<!--               EN: An installed wooden toe. -->
+	<WoodenToe.description>Установленный деревянный палец ноги.</WoodenToe.description>
+	
+	<!--            EN: wooden finger -->
+	<WoodenFinger.label>деревянный палец</WoodenFinger.label>
+	<!--                EN: a wooden finger -->
+	<WoodenFinger.labelNoun>деревянный палец</WoodenFinger.labelNoun>
+	<!--                  EN: An installed wooden finger. -->
+	<WoodenFinger.description>Установленный деревянный палец.</WoodenFinger.description>
+	
+	<!--          EN: wooden nose -->
+	<WoodenNose.label>деревянный нос</WoodenNose.label>
+	<!--              EN: a wooden nose -->
+	<WoodenNose.labelNoun>деревянный нос</WoodenNose.labelNoun>
+	<!--                EN: An installed wooden nose. -->
+	<WoodenNose.description>Установленный деревянный нос.</WoodenNose.description>
+	
+	<!--        EN: eye patch -->
+	<EyePatch.label>глазная повязка</EyePatch.label>
+	<!--            EN: an eye patch -->
+	<EyePatch.labelNoun>глазная повязка</EyePatch.labelNoun>
+	<!--              EN: An installed eye patch. -->
+	<EyePatch.description>Установленная глазная повязка.</EyePatch.description>
+	
+	<!--        EN: ear patch -->
+	<EarPatch.label>ушная повязка</EarPatch.label>
+	<!--            EN: an ear patch -->
+	<EarPatch.labelNoun>ушная повязка</EarPatch.labelNoun>
+	<!--              EN: An installed ear patch. -->
+	<EarPatch.description>Установленная ушная повязка.</EarPatch.description>
+</LanguageData>

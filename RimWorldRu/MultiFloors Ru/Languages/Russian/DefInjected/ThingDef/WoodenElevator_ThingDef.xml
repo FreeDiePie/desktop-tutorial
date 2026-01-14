@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\WoodenElevator.xml -->
+	<!--                  EN: wooden elevator -->
+	<MF_WoodenElevatorA.label>деревянный лифт</MF_WoodenElevatorA.label>
+	<!--                        EN: A crude, creaky lift built from timber and powered by a ingenious pulley. Slow but steady. -->
+	<MF_WoodenElevatorA.description>Грубый, скрипучий подъёмник из дерева, приводимый в действие хитроумным блоком. Медленный, но надёжный.</MF_WoodenElevatorA.description>
+</LanguageData>

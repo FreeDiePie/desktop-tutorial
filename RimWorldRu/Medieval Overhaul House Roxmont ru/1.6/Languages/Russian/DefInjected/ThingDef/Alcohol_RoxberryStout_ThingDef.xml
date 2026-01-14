@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- 1.6\Defs\Drugs\Alcohol_RoxberryStout.xml -->
+	<!--                      EN: roxberry stout -->
+	<DankPyon_RoxberryStout.label>роксберийский стаут</DankPyon_RoxberryStout.label>
+	<!--                            EN: Fermented beverage of deep golden colouring, a real lifeblood of social life in these parts. Few mugs in the tavern are all what's needed to forget about hardships of field work, dangers awaiting on the road or ill-considered marriage vows. Let the warm haze of drunkenness embrace you, no need to worry about anything. Not today. -->
+	<DankPyon_RoxberryStout.description>Ферментированный напиток глубокого золотистого цвета, настоящая жизненная сила местной социальной жизни. Несколько кружек в таверне — всё, что нужно, чтобы забыть о тяготах полевых работ, опасностях на дороге или необдуманных брачных клятвах. Позвольте тёплому туману опьянения обнять вас, не нужно ни о чём беспокоиться. Не сегодня.</DankPyon_RoxberryStout.description>
+	<!--                                               EN: Drink {0} -->
+	<DankPyon_RoxberryStout.ingestible.ingestCommandString>Выпить {0}</DankPyon_RoxberryStout.ingestible.ingestCommandString>
+	<!--                                              EN: Drinking {0}. -->
+	<DankPyon_RoxberryStout.ingestible.ingestReportString>Пьёт {0}.</DankPyon_RoxberryStout.ingestible.ingestReportString>
+	
+	<!--                           EN: roxberry stout wort -->
+	<DankPyon_Wort_RoxberryStout.label>затор роксберийского стаута</DankPyon_Wort_RoxberryStout.label>
+	<!--                                 EN: Crushed berries infused with rox milk. -->
+	<DankPyon_Wort_RoxberryStout.description>Раздавленные ягоды, настоянные на рокс-молоке.</DankPyon_Wort_RoxberryStout.description>
+</LanguageData>

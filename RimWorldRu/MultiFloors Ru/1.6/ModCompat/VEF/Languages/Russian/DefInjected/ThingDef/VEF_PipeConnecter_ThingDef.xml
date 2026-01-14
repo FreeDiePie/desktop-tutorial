@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\VEF\Defs\ThingDefs_Buildings\VEF_PipeConnecter.xml -->
+	<!--                   EN: pipe connector VE -->
+	<MF_VEFPipeConnector.label>соединитель труб VE</MF_VEFPipeConnector.label>
+	<!--                         EN: Connect pipes on two levels together. Pulling resource from the exporter and push it into the receiver net.\n- Levels must be direct neighbors.\n- Connectors from both side should connect to pipe network of selected resource.\n- Both networks should have containers.\n - Work for pipe network in Vanilla Expanded Framework. -->
+	<MF_VEFPipeConnector.description>Соединяет трубы на двух уровнях. Извлекает ресурс из экспортёра и передаёт его в приёмную сеть.\n- Уровни должны быть непосредственными соседями.\n- Соединители с обеих сторон должны подключаться к сети труб выбранного ресурса.\n- Обе сети должны иметь контейнеры.\n - Работает с сетью труб в Vanilla Expanded Framework.</MF_VEFPipeConnector.description>
+</LanguageData>

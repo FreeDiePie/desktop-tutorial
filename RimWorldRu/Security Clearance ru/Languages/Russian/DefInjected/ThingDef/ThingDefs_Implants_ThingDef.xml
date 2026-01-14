@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Implants.xml -->
+
+	<!--                            EN: programmable security microchip -->
+	<SecurityClearanceChipImplant.label>программируемый микрочип доступа</SecurityClearanceChipImplant.label>
+
+	<!--                                  EN: A hand-implantable microchip that can act as a security keycard. Clearance level is programmed onto the chip during installation, and cannot be changed until it is removed. -->
+	<SecurityClearanceChipImplant.description>Ручной имплант, выполняющий функцию ключ-карты доступа. Уровень допуска записывается на чип при установке и не может быть изменён до его удаления.</SecurityClearanceChipImplant.description>
+</LanguageData>

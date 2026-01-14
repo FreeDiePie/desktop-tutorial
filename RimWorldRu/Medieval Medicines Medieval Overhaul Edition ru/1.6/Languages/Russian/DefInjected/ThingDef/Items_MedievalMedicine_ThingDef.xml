@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_MedievalMedicine.xml -->
+	<!--                       EN: early medieval medicine -->
+	<MedicineEarlyMedievalMM.label>Ящик c травами</MedicineEarlyMedievalMM.label>
+	<!--                             EN: A box containing various herbs, tinctures, a trepanation kit, and strips of clean cloth. -->
+	<MedicineEarlyMedievalMM.description>Ящик, содержащий различные травы, настойки, набор для трепанации и полосы чистой ткани.</MedicineEarlyMedievalMM.description>
+	
+	<!--                      EN: late medieval medicine -->
+	<MedicineLateMedievalMM.label>Врачебный набор</MedicineLateMedievalMM.label>
+	<!--                            EN: A doctor's kit containing a wide variety of herbs and tinctures, a medical manuscript, alcohol-soaked bandages, and various complex tools for cutting and releasing pressure. -->
+	<MedicineLateMedievalMM.description>Врачебный набор, содержащий широкий ассортимент трав и настоек, медицинский манускрипт, пропитанные спиртом повязки и различные сложные инструменты для разрезов и снятия давления.</MedicineLateMedievalMM.description>
+	
+	<!--                  EN: Paresian medicine -->
+	<MedicineParesianMM.label>продвинутый медицинский набор</MedicineParesianMM.label>
+	<!--                        EN: An incredibly advanced kit of medical supplies including sterilized bandages, mixes of chemicals and herbs, complex tools for suturing, cutting and drilling, a detailed manual of the human anatomy, and perhaps even a sprinkle of magic mixed in. -->
+	<MedicineParesianMM.description>Невероятно продвинутый медицинский набор, включающий стерилизованные повязки, смеси химических веществ и трав, сложные инструменты для сшивания, разрезов и сверления, подробное руководство по анатомии человека и, возможно, даже щепоть магии.</MedicineParesianMM.description>
+</LanguageData>

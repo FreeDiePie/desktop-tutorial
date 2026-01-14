@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\ChemicalDef_ManaPotions.xml -->
+	
+	<!--                   EN: mana potion -->
+	<Chemical_ManaPotion.label>зелье маны</Chemical_ManaPotion.label>
+	<!--                         EN: Because of a mana potion addiction, this person needs to regularly consume mana potion to avoid withdrawal symptoms. -->
+	<Chemical_ManaPotion.description>Из-за зависимости от зелья маны этому персонажу необходимо регулярно употреблять зелье маны, чтобы избежать симптомов ломки.</Chemical_ManaPotion.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\Items_ManaPotions.xml -->
+
+	<!--                    EN: Lesser Mana Potion -->
+	<Joe_LesserManaPotion.label>малое зелье маны</Joe_LesserManaPotion.label>
+	<!--                          EN: Ancient tribesfolk concocted an elixir that replenishes a modest amount of mana and significantly amplifies the arcane load dispersal for those who imbibe it. However, there is a slight risk that individuals may fall under its addictive spell. -->
+	<Joe_LesserManaPotion.description>Древние племена создали эликсир, восполняющий небольшое количество маны и значительно усиливающий рассеивание магической нагрузки у тех, кто его употребляет. Однако существует небольшой риск привыкания.</Joe_LesserManaPotion.description>
+	<!--                                             EN: Drink {0} -->
+	<Joe_LesserManaPotion.ingestible.ingestCommandString>Выпить {0}</Joe_LesserManaPotion.ingestible.ingestCommandString>
+	<!--                                            EN: Drinking {0}. -->
+	<Joe_LesserManaPotion.ingestible.ingestReportString>Пьёт {0}.</Joe_LesserManaPotion.ingestible.ingestReportString>
+	
+	<!--                   EN: Minor Mana Potion -->
+	<Joe_MinorManaPotion.label>зелье маны</Joe_MinorManaPotion.label>
+	<!--                         EN: Esteemed alchemists of the noble houses have concocted a potion that replenishes a moderate amount of mana and significantly amplifies the arcane load dispersal for those who partake. However, there is a slight risk that individuals may become ensnared by its addictive properties. -->
+	<Joe_MinorManaPotion.description>Уважаемые алхимики знатных домов создали зелье, восполняющее умеренное количество маны и значительно усиливающее рассеивание магической нагрузки у тех, кто его употребляет. Однако существует небольшой риск привыкания.</Joe_MinorManaPotion.description>
+	<!--                                            EN: Drink {0} -->
+	<Joe_MinorManaPotion.ingestible.ingestCommandString>Выпить {0}</Joe_MinorManaPotion.ingestible.ingestCommandString>
+	<!--                                           EN: Drinking {0}. -->
+	<Joe_MinorManaPotion.ingestible.ingestReportString>Пьёт {0}.</Joe_MinorManaPotion.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_LesserHealingPotion.xml -->
+	<!--                       EN: Lesser Healing Potion -->
+	<Joe_LesserHealingPotion.label>малое лечебное зелье</Joe_LesserHealingPotion.label>
+	<!--                             EN: Ancient tribesfolk brewed an elixir that significantly enhances the natural healing abilities of those who consume it. However, it induces a troubling malaise in the bowels, an unsettling unease that weakens the kidneys due to heightened blood pressure. -->
+	<Joe_LesserHealingPotion.description>Древние племена варили эликсир, значительно усиливающий естественные способности к заживлению у тех, кто его употребляет. Однако он вызывает тревожное кишечное недомогание — неприятное состояние, ослабляющее почки из-за повышенного кровяного давления.</Joe_LesserHealingPotion.description>
+	<!--                                                EN: Drink {0} -->
+	<Joe_LesserHealingPotion.ingestible.ingestCommandString>Выпить {0}</Joe_LesserHealingPotion.ingestible.ingestCommandString>
+	<!--                                               EN: Drinking {0}. -->
+	<Joe_LesserHealingPotion.ingestible.ingestReportString>Пьёт {0}.</Joe_LesserHealingPotion.ingestible.ingestReportString>
+</LanguageData>

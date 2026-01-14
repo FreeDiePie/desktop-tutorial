@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Core\Defs\Tailor benches.xml -->
+	<!--                 EN: vanity table -->
+	<Ferny_VanityTable.label>vanity table</Ferny_VanityTable.label>
+	<!--                       EN: A workbench for tailoring feminine fashion by hand. -->
+	<Ferny_VanityTable.description>A workbench for tailoring feminine fashion by hand.</Ferny_VanityTable.description>
+	
+	<!--                    EN: costuming table -->
+	<Ferny_CostumingTable.label>costuming table</Ferny_CostumingTable.label>
+	<!--                          EN: A workbench for tailoring costumes by hand. -->
+	<Ferny_CostumingTable.description>A workbench for tailoring costumes by hand.</Ferny_CostumingTable.description>
+</LanguageData>

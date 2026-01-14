@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- 1.6\Defs\TerrainDefs\UpperLevelFoundation.xml -->
+	<!--                               EN: supported stony foundation -->
+	<MF_SurfaceStonyRoofedFoundation.label>каменный фундамент с опорой</MF_SurfaceStonyRoofedFoundation.label>
+	
+	<!--                                        EN: supported sandstone foundation -->
+	<MF_SurfaceStonyRoofedFoundationSandstone.label>песчаниковый фундамент с опорой</MF_SurfaceStonyRoofedFoundationSandstone.label>
+	<!--                                              EN: A sandstone platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationSandstone.description>Песчаниковая платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationSandstone.description>
+	
+	<!--                                      EN: supported granite foundation -->
+	<MF_SurfaceStonyRoofedFoundationGranite.label>гранитный фундамент с опорой</MF_SurfaceStonyRoofedFoundationGranite.label>
+	<!--                                            EN: A granite platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationGranite.description>Гранитная платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationGranite.description>
+	
+	<!--                                        EN: supported limestone foundation -->
+	<MF_SurfaceStonyRoofedFoundationLimestone.label>известняковый фундамент с опорой</MF_SurfaceStonyRoofedFoundationLimestone.label>
+	<!--                                              EN: A limestone platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationLimestone.description>Известняковая платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationLimestone.description>
+	
+	<!--                                    EN: supported slate foundation -->
+	<MF_SurfaceStonyRoofedFoundationSlate.label>сланцевый фундамент с опорой</MF_SurfaceStonyRoofedFoundationSlate.label>
+	<!--                                          EN: A slate platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationSlate.description>Сланцевая платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationSlate.description>
+	
+	<!--                                     EN: supported marble foundation -->
+	<MF_SurfaceStonyRoofedFoundationMarble.label>мраморный фундамент с опорой</MF_SurfaceStonyRoofedFoundationMarble.label>
+	<!--                                           EN: A marble platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationMarble.description>Мраморная платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationMarble.description>
+	
+	<!--                                EN: supported wooden foundation -->
+	<MF_SurfaceWoodenRoofedFoundation.label>деревянный фундамент с опорой</MF_SurfaceWoodenRoofedFoundation.label>
+	<!--                                      EN: A wooden platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceWoodenRoofedFoundation.description>Деревянная платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, позволяя безопасно возводить здания и дополнительные полы выше. При разрушении постройки на ней падают на нижний уровень.</MF_SurfaceWoodenRoofedFoundation.description>
+	
+	<!--                        EN: supported transparent foundation -->
+	<MF_TransparentFoundation.label>прозрачный фундамент с опорой</MF_TransparentFoundation.label>
+	<!--                              EN: A transparent platform built atop the roof of a lower level, which reveals the level below. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_TransparentFoundation.description>Прозрачная платформа, построенная поверх крыши нижнего уровня, позволяющая видеть уровень ниже. При разрушении постройки на ней падают на нижний уровень.</MF_TransparentFoundation.description>
+</LanguageData>

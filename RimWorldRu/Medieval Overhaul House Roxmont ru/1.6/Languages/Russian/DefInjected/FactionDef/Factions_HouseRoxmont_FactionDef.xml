@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\FactionDefs\Factions_HouseRoxmont.xml -->
+	<!--                          EN: civil noble house -->
+	<DankPyon_NobleHouseRoxmont.label>гражданский знатный дом</DankPyon_NobleHouseRoxmont.label>
+	<!--                                EN: House Roxmont was founded in an older era of strife and hardship. While other Houses rose and fell, house Roxmont endured. Settled in the cold dark forests, they prefer not to meddle in social affairs, leaving them isolated from the other noble families. -->
+	<DankPyon_NobleHouseRoxmont.description>Дом Роксмонт был основан в более раннюю эпоху раздоров и трудностей. В то время как другие дома поднимались и падали, дом Роксмонт выстоял. Поселившись в холодных тёмных лесах, они предпочитают не вмешиваться в общественные дела, что оставляет их изолированными от других знатных семей.</DankPyon_NobleHouseRoxmont.description>
+	<!--                              EN: House Roxmont -->
+	<DankPyon_NobleHouseRoxmont.fixedName>Дом Роксмонт</DankPyon_NobleHouseRoxmont.fixedName>
+	<!--                                 EN: участник -->
+	<DankPyon_NobleHouseRoxmont.pawnSingular>член дома</DankPyon_NobleHouseRoxmont.pawnSingular>
+	<!--                                EN: лидер -->
+	<DankPyon_NobleHouseRoxmont.leaderTitle>лидер</DankPyon_NobleHouseRoxmont.leaderTitle>
+</LanguageData>

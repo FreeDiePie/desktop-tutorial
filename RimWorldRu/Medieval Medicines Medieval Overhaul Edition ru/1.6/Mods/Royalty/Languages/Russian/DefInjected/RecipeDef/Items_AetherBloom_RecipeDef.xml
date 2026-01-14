@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\Items_AetherBloom.xml -->
+	
+	<!--                      EN: make aether extract -->
+	<Joe_Make_AetherExtract.label>Создать эфирный экстракт</Joe_Make_AetherExtract.label>
+	<!--                            EN: Make aether extract. -->
+	<Joe_Make_AetherExtract.description>Создать эфирный экстракт.</Joe_Make_AetherExtract.description>
+	<!--                          EN: Making aether extract. -->
+	<Joe_Make_AetherExtract.jobString>Создаёт эфирный экстракт.</Joe_Make_AetherExtract.jobString>
+	
+	<!--                          EN: make aether extract x5 -->
+	<Joe_Make_AetherExtractBulk.label>Создать эфирный экстракт ×5</Joe_Make_AetherExtractBulk.label>
+	<!--                                EN: Make aether extract x5. -->
+	<Joe_Make_AetherExtractBulk.description>Создать эфирный экстракт ×5.</Joe_Make_AetherExtractBulk.description>
+	<!--                              EN: Making aether extract x5. -->
+	<Joe_Make_AetherExtractBulk.jobString>Создаёт эфирный экстракт ×5.</Joe_Make_AetherExtractBulk.jobString>
+	
+	<!--                               EN: make aether extract x10 -->
+	<Joe_Make_AetherExtractBulkExtra.label>Создать эфирный экстракт ×10</Joe_Make_AetherExtractBulkExtra.label>
+	<!--                                     EN: Make aether extract x10. -->
+	<Joe_Make_AetherExtractBulkExtra.description>Создать эфирный экстракт ×10.</Joe_Make_AetherExtractBulkExtra.description>
+	<!--                                   EN: Making aether extract x10. -->
+	<Joe_Make_AetherExtractBulkExtra.jobString>Создаёт эфирный экстракт ×10.</Joe_Make_AetherExtractBulkExtra.jobString>
+</LanguageData>

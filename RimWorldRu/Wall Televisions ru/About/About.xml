@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>Wall Televisions ru</name>
+	<author>FreeDiePie</author>
+	<packageId>FDP.Xercaine.WallTelevisions</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/FDPLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>Xercaine.WallTelevisions</packageId>
+			<displayName>Wall Televisions</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3582096423</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Xercaine.WallTelevisions</li>
+	</loadAfter>
+	<description>
+		Перевод Wall Televisions
+
+		Мод, добавляющий настенные телевизоры.
+	</description>
+</ModMetaData>

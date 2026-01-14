@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- haul across level designator -->
+	<!-- EN: Haul to {0} -->
+	<MF_DesignatorHaulTo>Перенести на {0}</MF_DesignatorHaulTo>
+	<!-- EN: Haul to -->
+	<MF_DesignatorHaulToDestMapLabel>Перенести на</MF_DesignatorHaulToDestMapLabel>
+	<!-- EN: Mark items to be hauled to a specific level. -->
+	<MF_DesignatorHaulToDestMapDesc>Пометить предметы для переноса на определённый уровень.</MF_DesignatorHaulToDestMapDesc>
+	<!-- EN: Must select destination through right click options first. -->
+	<MF_MustSelectTargetViaRightClickFirst>Сначала выберите цель через опции правой кнопки мыши.</MF_MustSelectTargetViaRightClickFirst>
+
+	<!-- EN: Lock floor -->
+	<MF_StayOnCurrentMapToggle>Закрепить этаж</MF_StayOnCurrentMapToggle>
+	<!-- EN: Pawns wouldn't search for jobs or switch to other levels when toggle on. -->
+	<MF_StayOnCurrentMapToggleDesc>При включении пешки не будут искать работу или переключаться на другие уровни.</MF_StayOnCurrentMapToggleDesc>
+
+	<!-- EN: Gather -->
+	<MF_GatherPawnsCommand>Собрать</MF_GatherPawnsCommand>
+	<!-- EN: Call colonists to move to the current spot. -->
+	<MF_GatherPawnsCommandDesc>Призвать колонистов переместиться в текущую точку.</MF_GatherPawnsCommandDesc>
+	<!-- EN: Selected: -->
+	<MF_GatherPawnsSelected>Выбрано:</MF_GatherPawnsSelected>
+	<!-- EN: Candidates: -->
+	<MF_GatherPawnsAllCandidates>Кандидаты:</MF_GatherPawnsAllCandidates>
+	<!-- EN: Cancel -->
+	<MF_GatherPawns_CancelButtonLabel>Отмена</MF_GatherPawns_CancelButtonLabel>
+	<!-- EN: Gather -->
+	<MF_GatherPawns_AcceptButtonLabel>Собрать</MF_GatherPawns_AcceptButtonLabel>
+	<!-- EN: Select/Deselect All -->
+	<MF_GatherPawns_AddAllButtonLabel>Выбрать/Снять всех</MF_GatherPawns_AddAllButtonLabel>
+	<!-- EN: Select/Deselect Prev. -->
+	<MF_GatherPawns_AddPrevSelectedButtonLabel>Выбрать/Снять предыдущих</MF_GatherPawns_AddPrevSelectedButtonLabel>
+</LanguageData>

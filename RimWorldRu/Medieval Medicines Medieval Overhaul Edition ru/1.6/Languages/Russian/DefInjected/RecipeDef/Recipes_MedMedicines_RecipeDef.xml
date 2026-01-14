@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipes_MedMedicines.xml -->
+	<!--                          EN: Make Early Medieval Medicine -->
+	<RecMedicineEarlyMedievalMM.label>Создать Ящик я травами</RecMedicineEarlyMedievalMM.label>
+	<!--                                EN: A box containing various herbs, tinctures, a trepanation kit, and strips of clean cloth. -->
+	<RecMedicineEarlyMedievalMM.description>Ящик, содержащий различные травы, настойки, набор для трепанации и полосы чистой ткани.</RecMedicineEarlyMedievalMM.description>
+	<!--                              EN: Making Early Medieval Medicine. -->
+	<RecMedicineEarlyMedievalMM.jobString>Создаёт Ящик я травами.</RecMedicineEarlyMedievalMM.jobString>
+	
+	<!--                         EN: Make Late Medieval Medicine -->
+	<RecMedicineLateMedievalMM.label>Создать Врачебный набор</RecMedicineLateMedievalMM.label>
+	<!--                               EN: A doctor's kit containing a wide variety of herbs and tinctures, a medical manuscript, alcohol-soaked bandages, and various complex tools for cutting and releasing pressure. -->
+	<RecMedicineLateMedievalMM.description>Врачебный набор, содержащий широкий ассортимент трав и настоек, медицинский манускрипт, пропитанные спиртом повязки и различные сложные инструменты для разрезов и снятия давления.</RecMedicineLateMedievalMM.description>
+	<!--                             EN: Making Late Medieval Medicine. -->
+	<RecMedicineLateMedievalMM.jobString>Создаёт Врачебный набор.</RecMedicineLateMedievalMM.jobString>
+	
+	<!--                     EN: Make Paresian Medicine -->
+	<RecMedicineParesianMM.label>Создать продвинутый медицинский набор</RecMedicineParesianMM.label>
+	<!--                           EN: An incredibly advanced kit of medical supplies including sterilized bandages, mixes of chemicals and herbs, complex tools for suturing, cutting and drilling, a detailed manual of the human anatomy, and perhaps even a sprinkle of magic mixed in. -->
+	<RecMedicineParesianMM.description>Невероятно продвинутый медицинский набор, включающий стерилизованные повязки, смеси химических веществ и трав, сложные инструменты для сшивания, разрезов и сверления, подробное руководство по анатомии человека и, возможно, даже щепоть магии.</RecMedicineParesianMM.description>
+	<!--                         EN: Making Paresian Medicine. -->
+	<RecMedicineParesianMM.jobString>Создаёт продвинутый медицинский набор.</RecMedicineParesianMM.jobString>
+</LanguageData>

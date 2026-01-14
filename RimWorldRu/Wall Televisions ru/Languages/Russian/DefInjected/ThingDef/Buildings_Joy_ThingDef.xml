@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- Defs\Buildings_Joy.xml -->
+
+	<!--                      EN: wall tube television -->
+	<XER_WallTubeTelevision.label>настенный ламповый телевизор</XER_WallTubeTelevision.label>
+	<!--                            EN: A wall-mounted cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+	<XER_WallTubeTelevision.description>Настенный телевизор с электронно-лучевой трубкой для показа движущихся изображений со звуком. Даже на окраинных мирах нередко работает какой-нибудь старый передатчик, транслирующий хоть что-то более-менее интересное.</XER_WallTubeTelevision.description>
+	
+	<!--                            EN: wall flatscreen television -->
+	<XER_WallFlatscreenTelevision.label>настенный плоский телевизор</XER_WallFlatscreenTelevision.label>
+	<!--                                  EN: A wall-mounted high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+	<XER_WallFlatscreenTelevision.description>Настенный высокотехнологичный плоский телевизор с кристально чётким изображением и насыщенными цветами. Принимает передачи со древних спутников и повсеместных карт данных.</XER_WallFlatscreenTelevision.description>
+	
+	<!--                            EN: wall megascreen television -->
+	<XER_WallMegascreenTelevision.label>настенный мегаскрин-телевизор</XER_WallMegascreenTelevision.label>
+	<!--                                  EN: A huge, wall-mounted high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+	<XER_WallMegascreenTelevision.description>Огромный настенный высокотехнологичный телевизор. Гигантские, сверхнасыщенные изображения будто выпрыгивают из экрана. Очень увлекательно. Принимает передачи со древних спутников и повсеместных карт данных.</XER_WallMegascreenTelevision.description>
+</LanguageData>

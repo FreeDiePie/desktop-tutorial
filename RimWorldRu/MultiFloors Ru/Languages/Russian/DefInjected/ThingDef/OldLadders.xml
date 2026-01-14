@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_UpStair.label>лестница вверх</MF_UpStair.label>
+  <MF_UpStair.description>Компактный вход на верхний уровень. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_UpStair.description>
+
+  <MF_DownStair.label>лестница вниз</MF_DownStair.label>
+  <MF_DownStair.description>Компактный вход на нижний уровень. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_DownStair.description>
+
+  <MF_StairExit.label>выход лестницы</MF_StairExit.label>
+  <MF_StairExit.description>Конечная точка лестницы.</MF_StairExit.description>
+
+
+</LanguageData>

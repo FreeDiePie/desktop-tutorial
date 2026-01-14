@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\Recipes_ManaPotions.xml -->
+	<!--                    EN: Make Lesser Mana Potion -->
+	<Joe_LesserManaRecipe.label>Создать малое зелье маны</Joe_LesserManaRecipe.label>
+	<!--                          EN: A vial containing a Tribal Lesser Mana Elixir that restores a small amount of mana, and doubles the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue. -->
+	<Joe_LesserManaRecipe.description>Флакон с племенным малым эликсиром маны, восстанавливающим небольшое количество маны и удваивающим скорость рассеивания арканической нагрузки. Настоян на эссенции эфирного цветка и имеет насыщенный синий оттенок.</Joe_LesserManaRecipe.description>
+	<!--                        EN: Making Lesser Mana Potion. -->
+	<Joe_LesserManaRecipe.jobString>Создаёт малое зелье маны.</Joe_LesserManaRecipe.jobString>
+	
+	<!--                        EN: Make Lesser Mana Potion x5 -->
+	<Joe_LesserManaRecipeBulk.label>Создать малое зелье маны ×5</Joe_LesserManaRecipeBulk.label>
+	<!--                              EN: A vial containing a Tribal Lesser Mana Elixir that restores a small amount of mana, and doubles the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue. -->
+	<Joe_LesserManaRecipeBulk.description>Флакон с племенным малым эликсиром маны, восстанавливающим небольшое количество маны и удваивающим скорость рассеивания арканической нагрузки. Настоян на эссенции эфирного цветка и имеет насыщенный синий оттенок.</Joe_LesserManaRecipeBulk.description>
+	<!--                            EN: Making Lesser Mana Potion x5. -->
+	<Joe_LesserManaRecipeBulk.jobString>Создаёт малое зелье маны ×5.</Joe_LesserManaRecipeBulk.jobString>
+	
+	<!--                   EN: Make Minor Mana Potion -->
+	<Joe_MinorManaRecipe.label>Создать слабое зелье маны</Joe_MinorManaRecipe.label>
+	<!--                         EN: A bottle containing an alchemical Minor Mana Potion that restores as modest amount of mana, and triples the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue. -->
+	<Joe_MinorManaRecipe.description>Бутылка с алхимическим слабым зельем маны, восстанавливающим умеренное количество маны и утраивающим скорость рассеивания арканической нагрузки. Настоян на эссенции эфирного цветка и имеет насыщенный синий оттенок.</Joe_MinorManaRecipe.description>
+	<!--                       EN: Making Minor Mana Potion. -->
+	<Joe_MinorManaRecipe.jobString>Создаёт слабое зелье маны.</Joe_MinorManaRecipe.jobString>
+	
+	<!--                       EN: Make Minor Mana Potion x5 -->
+	<Joe_MinorManaRecipeBulk.label>Создать слабое зелье маны ×5</Joe_MinorManaRecipeBulk.label>
+	<!--                             EN: A bottle containing an alchemical Minor Mana Potion that restores as modest amount of mana, and triples the speed of arcane load dispersal. Infused with the essence of the Aether Bloom, it has a vibrant blue hue. -->
+	<Joe_MinorManaRecipeBulk.description>Бутылка с алхимическим слабым зельем маны, восстанавливающим умеренное количество маны и утраивающим скорость рассеивания арканической нагрузки. Настоян на эссенции эфирного цветка и имеет насыщенный синий оттенок.</Joe_MinorManaRecipeBulk.description>
+	<!--                           EN: Making Minor Mana Potion x5. -->
+	<Joe_MinorManaRecipeBulk.jobString>Создаёт слабое зелье маны ×5.</Joe_MinorManaRecipeBulk.jobString>
+</LanguageData>

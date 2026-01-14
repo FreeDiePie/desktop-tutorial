@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mo_size_valentine_apparel\mo valentines day vanity table32.xml -->
+	<!--                  EN: wedding headdress -->
+	<h_hat_weddingdress.label>wedding headdress</h_hat_weddingdress.label>
+	<!--             EN: black gauze nightdress -->
+	<H_Cloth_First.label>black gauze nightdress</H_Cloth_First.label>
+	<!--              EN: fine line bikini -->
+	<H_Cloth_Second.label>fine line bikini</H_Cloth_Second.label>
+	<!--             EN: wearable gift ribbon -->
+	<H_Cloth_Third.label>wearable gift ribbon</H_Cloth_Third.label>
+	<!--             EN: new year's lingerie -->
+	<H_Cloth_Forth.label>new year's lingerie</H_Cloth_Forth.label>
+	<!--             EN: black bunny lingerie -->
+	<H_Cloth_Fifth.label>black bunny lingerie</H_Cloth_Fifth.label>
+	<!--             EN: dancer's veil dress -->
+	<H_Cloth_Sixth.label>dancer's veil dress</H_Cloth_Sixth.label>
+	<!--             EN: black evening dress -->
+	<H_Cloth_seven.label>black evening dress</H_Cloth_seven.label>
+	<!--               EN: zombie dress -->
+	<H_Cloth_Zoombie.label>zombie dress</H_Cloth_Zoombie.label>
+	<!--             EN: zombie hat -->
+	<h_hat_zoombie.label>zombie hat</h_hat_zoombie.label>
+	<!--           EN: ghost hairpin -->
+	<h_hat_ghost.label>ghost hairpin</h_hat_ghost.label>
+	<!--             EN: ghost lingerie dress -->
+	<H_Cloth_Ghost.label>ghost lingerie dress</H_Cloth_Ghost.label>
+	<!--                    EN: wedding dress -->
+	<H_Cloth_Weddingdress.label>wedding dress</H_Cloth_Weddingdress.label>
+	<!--                       EN: wedding stiletto -->
+	<H_Cloth_Stiletto_Second.label>wedding stiletto</H_Cloth_Stiletto_Second.label>
+	<!--                     EN: evening gown stiletto -->
+	<H_Cloth_Stiletto_four.label>evening gown stiletto</H_Cloth_Stiletto_four.label>
+</LanguageData>

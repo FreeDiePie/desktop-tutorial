@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\ResearchProjectsMedMed.xml -->
+	<!--                     EN: Early Medieval Medicine -->
+	<EarlyMedievalMedicine.label>ранняя средневековая медицина</EarlyMedievalMedicine.label>
+	<!--                           EN: Through the use of techniques like trepanning and bloodletting, we are able to create medicine kits more effective than just herbs. -->
+	<EarlyMedievalMedicine.description>Используя такие методы, как трепанация и кровопускание, мы можем создавать медицинские наборы, более эффективные, чем простые травы.</EarlyMedievalMedicine.description>
+	
+	<!--                    EN: Late Medieval Medicine -->
+	<LateMedievalMedicine.label>поздняя средневековая медицина</LateMedievalMedicine.label>
+	<!--                          EN: The addition of new mixtures, use of alcohol on bandages, and the idea that contagions come from unseeable particles from outside of us allow us to improve upon our medicine for much more effective treatment. -->
+	<LateMedievalMedicine.description>Добавление новых смесей, использование спирта для обработки повязок, а также идея о том, что заразы вызываются невидимыми частицами извне, позволяют значительно повысить эффективность лечения.</LateMedievalMedicine.description>
+	
+	<!--                EN: Paresian Medicine -->
+	<ParesianMedicine.label>парезийская медицина</ParesianMedicine.label>
+	<!--                      EN: Our eyes have been opened to the concepts of chemistry and sterilization. Through the use of advanced mixtures and the sterlization of wounds, bandages, and tools, we are now able to treat wounds incredibly effectively. -->
+	<ParesianMedicine.description>Наши знания расширились до понятий химии и стерилизации. Благодаря использованию продвинутых смесей и стерилизации ран, повязок и инструментов мы теперь способны лечить ранения с поразительной эффективностью.</ParesianMedicine.description>
+</LanguageData>

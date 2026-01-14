@@ -1,0 +1,33 @@
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li>1.6/Core</li>
+    <li IfModActive="DankPyon.Medieval.Overhaul">1.6/Medieval Overhaul</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">1.6/Vanilla Factions Expanded - Medieval 2/Core</li>
+    <li IfModActive="Trickity.Samurai.Faction">1.6/Samurai Faction</li>
+    <li IfModActive="ludeon.rimworld.royalty">From_patches/ludeon_rimworld_royalty</li>
+		<li IfModActive="DankPyon.Medieval.Overhaul">From_patches/DankPyon_Medieval_Overhaul</li>
+		<li IfModActive="DankPyon.Medieval.Overhaul.House.Roxmont">From_patches/DankPyon_Medieval_Overhaul_House_Roxmont</li>
+		<li IfModActive="OskarPotocki.VFE.Medieval2">From_patches/OskarPotocki_VFE_Medieval2</li>
+		<li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">From_patches/OskarPotocki_VanillaFactionsExpanded_SettlersModule</li>
+		<li IfModActive="VanillaExpanded.VAPPE">From_patches/VanillaExpanded_VAPPE</li>
+		<li>From_patches/No mods required</li>
+		<li IfModActive="VanillaExpanded.VIEHAR">From_patches/VanillaExpanded_VIEHAR</li>
+		<li IfModActive="Rooboid.Paintings.Ex">From_patches/Rooboid_Paintings_Ex</li>
+		<li IfModActive="SK.BandageWrap">From_patches/SK_BandageWrap</li>
+		<li IfModActive="cyanobot.toddlers">From_patches/cyanobot_toddlers</li>
+		<li IfModActive="Trickity.Samurai.Faction">From_patches/Trickity_Samurai_Faction</li>
+		<li IfModActive="as1aw.morehunterdrones">From_patches/as1aw_morehunterdrones</li>
+		<li IfModActive="Gunmar.VictorianEraApparels">From_patches/Gunmar_VictorianEraApparels</li>
+		<li IfModActive="yamazaki.PreschoolerOutfits">From_patches/yamazaki_PreschoolerOutfits</li>
+		<li IfModActive="mo.size.valentine.apparel">From_patches/mo_size_valentine_apparel</li>
+		<li IfModActive="mouse.gloomydress">From_patches/mouse_gloomydress</li>
+		<li IfModActive="ponpeco.ponpecoaccessories">From_patches/ponpeco_ponpecoaccessories</li>
+		<li IfModActive="hartarok.dresses">From_patches/hartarok_dresses</li>
+		<li IfModActive="xmb.ancientthreat.mo">From_patches/xmb_ancientthreat_mo</li>
+		<li IfModActive="pu.lunartikaaa">From_patches/pu_lunartikaaa</li>
+		<li IfModActive="ponpeco.ponpecopajamas">From_patches/ponpeco_ponpecopajamas</li>
+		<li IfModActive="dress.cinderella">From_patches/dress_cinderella</li>
+		<li IfModActive="cat.imperial.attires">From_patches/cat_imperial_attires</li>
+	</v1.6>
+</loadFolders>

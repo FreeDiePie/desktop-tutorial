@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_DeliverResourcesAcrossLevel.label>переноска ресурсов между уровнями</MF_DeliverResourcesAcrossLevel.label>
+  <MF_DeliverResourcesAcrossLevel.verb>доставлять</MF_DeliverResourcesAcrossLevel.verb>
+  <MF_DeliverResourcesAcrossLevel.gerund>доставка</MF_DeliverResourcesAcrossLevel.gerund>
+
+  <MF_FixBrokenDownBuildingAcrossLevel.label>починка разрушенных строений между уровнями</MF_FixBrokenDownBuildingAcrossLevel.label>
+  <MF_FixBrokenDownBuildingAcrossLevel.verb>замените вышедшие из строя компоненты в</MF_FixBrokenDownBuildingAcrossLevel.verb>
+  <MF_FixBrokenDownBuildingAcrossLevel.gerund>замена вышедших из строя компонентов в</MF_FixBrokenDownBuildingAcrossLevel.gerund>
+
+  <MF_HaulDesignatedToDestMap.label>переноска назначенннго предмета между уровнями</MF_HaulDesignatedToDestMap.label>
+  <MF_HaulDesignatedToDestMap.verb>перемещать</MF_HaulDesignatedToDestMap.verb>
+  <MF_HaulDesignatedToDestMap.gerund>перемещение</MF_HaulDesignatedToDestMap.gerund>
+
+  <MF_RescueDownedAcrossLevel.label>спасение пешек между уровнями</MF_RescueDownedAcrossLevel.label>
+  <MF_RescueDownedAcrossLevel.verb>спасать</MF_RescueDownedAcrossLevel.verb>
+  <MF_RescueDownedAcrossLevel.gerund>спасение</MF_RescueDownedAcrossLevel.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\ResearchProjectDefs.xml -->
+
+	<!--                       EN: security key cards -->
+	<SecurityClearanceLevels.label>ключ-карты доступа</SecurityClearanceLevels.label>
+
+	<!--                             EN: Gain the ability to restrict powered doors to only be accessible to colonists holding a key card with sufficent clearance. -->
+	<SecurityClearanceLevels.description>Позволяет ограничивать доступ к дверям с питанием, разрешая их открытие только колонистам с ключ-картами соответствующего уровня допуска.</SecurityClearanceLevels.description>
+</LanguageData>

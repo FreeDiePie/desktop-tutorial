@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_BodyPartsBasic.xml -->
+	<!--       EN: metallic arm -->
+	<IronArm.label>металлическая рука</IronArm.label>
+	<!--             EN: A highly ineffective replacement for a missing arm. -->
+	<IronArm.description>Крайне неэффективная замена утраченной руки.</IronArm.description>
+	
+	<!--              EN: prosthetic hook -->
+	<ProstheticHook.label>протез-крюк</ProstheticHook.label>
+	<!--                    EN: A simple metal hook to replace a missing hand. Very limited functionality. -->
+	<ProstheticHook.description>Простой металлический крюк для замены утраченной кисти. Функциональность крайне ограничена.</ProstheticHook.description>
+	
+	<!--          EN: wooden foot -->
+	<WoodenFoot.label>деревянная стопа</WoodenFoot.label>
+	<!--                EN: A crude replica of a human foot made out of wood. Uncomfortable and ineffective, but better than nothing. -->
+	<WoodenFoot.description>Грубая деревянная имитация человеческой стопы. Неудобная и неэффективная, но лучше, чем ничего.</WoodenFoot.description>
+	
+	<!--         EN: wooden toe -->
+	<WoodenToe.label>деревянный палец ноги</WoodenToe.label>
+	<!--               EN: Wooden replacement for a missing toe. -->
+	<WoodenToe.description>Деревянная замена утраченного пальца ноги.</WoodenToe.description>
+	
+	<!--            EN: wooden finger -->
+	<WoodenFinger.label>деревянный палец</WoodenFinger.label>
+	<!--                  EN: Wooden replacement for a missing finger. -->
+	<WoodenFinger.description>Деревянная замена утраченного пальца.</WoodenFinger.description>
+	
+	<!--          EN: wooden nose -->
+	<WoodenNose.label>деревянный нос</WoodenNose.label>
+	<!--                EN: Wooden replacement for a missing nose. -->
+	<WoodenNose.description>Деревянная замена утраченного носа.</WoodenNose.description>
+	
+	<!--        EN: eye patch -->
+	<EyePatch.label>глазная повязка</EyePatch.label>
+	<!--              EN: Piece of cloth to cover the hole where one's eye once was. -->
+	<EyePatch.description>Кусок ткани, закрывающий отверстие на месте утраченного глаза.</EyePatch.description>
+	
+	<!--        EN: ear patch -->
+	<EarPatch.label>ушная повязка</EarPatch.label>
+	<!--              EN: Piece of cloth to cover the hole where one's ear once was. -->
+	<EarPatch.description>Кусок ткани, закрывающий отверстие на месте утраченного уха.</EarPatch.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Core\Defs\LemonSkin_Core_ResearchProjects.xml -->
+	<!--                        EN: tailoring bench -->
+	<LemonSkin_RusticClothing.label>tailoring bench</LemonSkin_RusticClothing.label>
+	<!--                              EN: Tailor simple garments. -->
+	<LemonSkin_RusticClothing.description>Tailor simple garments.</LemonSkin_RusticClothing.description>
+	
+	<!--                 EN: vanity table -->
+	<Ferny_VanityTable.label>vanity table</Ferny_VanityTable.label>
+	<!--                       EN: Tailor beautiful garments for women. -->
+	<Ferny_VanityTable.description>Tailor beautiful garments for women.</Ferny_VanityTable.description>
+	
+	<!--                    EN: costuming table -->
+	<Ferny_CostumingTable.label>costuming table</Ferny_CostumingTable.label>
+	<!--                          EN: Tailor costumes and masks for your colonists. -->
+	<Ferny_CostumingTable.description>Tailor costumes and masks for your colonists.</Ferny_CostumingTable.description>
+</LanguageData>

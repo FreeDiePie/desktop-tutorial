@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\Hediffs_Global_Misc.xml -->
+	<!--                    EN: ate rox feast -->
+	<DankPyon_AteRoxFeast.label>отведал пир из рокса</DankPyon_AteRoxFeast.label>
+	<!--                          EN: A masterfully cooked dish that harbors intense aromatic flavours. -->
+	<DankPyon_AteRoxFeast.description>Мастерски приготовленное блюдо с насыщенными ароматными вкусами.</DankPyon_AteRoxFeast.description>
+	
+	<!--                         EN: ate roxwood cheese -->
+	<DankPyon_AteRoxwoodCheese.label>отведал роквудский сыр</DankPyon_AteRoxwoodCheese.label>
+	<!--                               EN: Eating that roxwood cheese filled my hunger. -->
+	<DankPyon_AteRoxwoodCheese.description>Употребление этого роквудского сыра утолило мой голод.</DankPyon_AteRoxwoodCheese.description>
+</LanguageData>

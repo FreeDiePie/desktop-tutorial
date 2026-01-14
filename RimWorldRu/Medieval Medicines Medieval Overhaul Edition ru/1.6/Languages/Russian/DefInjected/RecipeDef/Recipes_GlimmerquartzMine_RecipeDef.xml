@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipes_GlimmerquartzMine.xml -->
+	<!--                               EN: Mine deep down underground to obtain raw glimmerquartz. -->
+	<Joe_MakeOre_Glimmerquartz.description>Глубоко под землёй добывается необработанный глиммеркварц.</Joe_MakeOre_Glimmerquartz.description>
+	<!--                         EN: mine raw glimmerquartz -->
+	<Joe_MakeOre_Glimmerquartz.label>добыть необработанный глиммеркварц</Joe_MakeOre_Glimmerquartz.label>
+	<!--                             EN: Mining raw glimmerquartz. -->
+	<Joe_MakeOre_Glimmerquartz.jobString>Добывает необработанный глиммеркварц.</Joe_MakeOre_Glimmerquartz.jobString>
+</LanguageData>

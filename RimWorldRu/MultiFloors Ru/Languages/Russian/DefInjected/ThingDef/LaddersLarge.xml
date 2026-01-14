@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_LadderLUpA.label>большая лестница вверх</MF_LadderLUpA.label>
+  <MF_LadderLUpA.description>Прочная широкая лестница для подъема. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_LadderLUpA.description>
+
+  <MF_LadderLDownA.label>большая лестница вниз</MF_LadderLDownA.label>
+  <MF_LadderLDownA.description>Прочная широкая лестница для спуска. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_LadderLDownA.description>
+
+  <MF_LadderLExitA.label>конечная большой лестницы</MF_LadderLExitA.label>
+  <MF_LadderLExitA.description>Конечная точка большой лестницы.</MF_LadderLExitA.description>
+
+
+</LanguageData>

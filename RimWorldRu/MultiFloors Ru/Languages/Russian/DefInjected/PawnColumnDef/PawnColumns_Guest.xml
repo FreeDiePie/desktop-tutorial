@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_HospitalityGuestLevel.label>уровень</MF_LivingLevel.label>
+  <MF_HospitalityGuestLevel.headerTip>[Многоэтажность] Установите флажок и настройте уровень проживания для гостей. Они будут проживать только на этом уровне.</MF_HospitalityGuestLevel.headerTip>
+
+
+</LanguageData>

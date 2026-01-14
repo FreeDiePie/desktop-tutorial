@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MultiFloors>Многоэтажность</MultiFloors>
+
+  <!-- Настройки -->
+  <MF_GenerateRocksOnUpperLevels>Генерировать скалы на верхних уровнях</MF_GenerateRocksOnUpperLevels>
+  <MF_GenerateRocksOnUpperLevelsTooltip>Создаёт случайные скалы для имитации продолжения горы. Может увеличить время загрузки сохранения.</MF_GenerateRocksOnUpperLevelsTooltip>
+  <MF_GenerateBasementWithoutCaves>Генерировать подвалы без пещер</MF_GenerateBasementWithoutCaves>
+  <MF_GenerateBasementWithoutCavesTooltip>Если включено, подвалы будут генерироваться только со скалами и возможной рудой.</MF_GenerateBasementWithoutCavesTooltip>
+  <MF_UseUpperLevelRenderer>Использовать вид сверху на верхних уровнях (Требуется перезагрузка)</MF_UseUpperLevelRenderer>
+  <MF_UseUpperLevelRendererTooltip>Отображать сверху вниз на верхних уровнях, чтобы видеть объекты на нижних. Динамические объекты и пешки не видны.</MF_UseUpperLevelRendererTooltip>
+  <MF_BlurringLowerLevels>Размывать нижние уровни (Требуется перезагрузка)</MF_BlurringLowerLevels>
+  <MF_BlurringLowerLevelsTooltip>Добавляет эффект размытия к нижним уровням при отображении верхних.</MF_BlurringLowerLevelsTooltip>
+  <MF_FixedCameraVerticalTransition>Фиксированное перемещение камеры по вертикали</MF_FixedCameraVerticalTransition>
+  <MF_FixedCameraVerticalTransitionTooltip>Горячие клавиши будут переключать уровни с текущим положением и масштабом камеры.</MF_FixedCameraVerticalTransitionTooltip>
+  <MF_SortMapByLevelInColonistBar>Сортировать карты по уровню в панели колонистов (Требуется перезагрузка)</MF_SortMapByLevelInColonistBar>
+  <MF_FlipStairDestinationCell>Инвертировать клетку назначения лестницы</MF_FlipStairDestinationCell>
+  <MF_FlipStairDestinationCellTooltip>Лестницы спроектированы как Z-образные. Если у вас есть мод, который их переворачивает, включите это для корректного появления пешек.</MF_FlipStairDestinationCellTooltip>
+  <MF_MinRoomSizeForStairs>Минимальный размер комнаты для лестниц</MF_MinRoomSizeForStairs>
+  <MF_SwitchLevelWaitTick>Задержка при переключении уровней</MF_SwitchLevelWaitTick>
+  <MF_SetLivingLevelWhenAssigningBed>Устанавливать уровень проживания при назначении кровати</MF_SetLivingLevelWhenAssigningBed>
+  <MF_SetOtherLevelWhenAssigningBed>Также устанавливать уровни отдыха и питания</MF_SetOtherLevelWhenAssigningBed>
+  <MF_RedirectIntervalDesc>Пешки будут возвращаться на свои уровни при низких потребностях. Если они переместились на другие уровни, не перенаправлять их сразу.</MF_RedirectIntervalDesc>
+  <MF_RedirectInterval>Интервал перенаправления:</MF_RedirectInterval>
+  <MF_HeatExchangeEfficiencyDesc>Тепло передаётся через лестницы. Настройте скорость синхронизации между комнатами.</MF_HeatExchangeEfficiencyDesc>
+  <MF_HeatExchangeEfficiency>Эффективность теплообмена: </MF_HeatExchangeEfficiency>
+  <MF_ExchangeIntervalMultiplierDesc>Энергия, тепло и газ будут передаваться между уровнями. Можно сделать реже.</MF_ExchangeIntervalMultiplierDesc>
+  <MF_ExchangeIntervalMultiplier>Множитель интервала обмена: {0}</MF_ExchangeIntervalMultiplier>
+  <MF_AutoTransferIntervalMultiplierDesc>Заказы на перенос добавляются автоматически в настройках лестниц.</MF_AutoTransferIntervalMultiplierDesc>
+  <MF_AutoTransferIntervalMultiplier>Множитель интервала авто-переноса: {0}</MF_AutoTransferIntervalMultiplier>
+  <MF_UsePrioritizedScanner>Использовать приоритетный сканер работ (Требуется перезагрузка)</MF_UsePrioritizedScanner>
+  <MF_UsePrioritizedScannerTooltip>Для случаев, когда на текущем уровне много низкоприоритетных работ, но нужно выполнить высокоприоритетные на других уровнях. См. вкладку «Этажи».</MF_UsePrioritizedScannerTooltip>
+  <MF_WorkGiverHighPriorityThresholdDesc>Работы с приоритетом выше этого порога будут проверяться на всех уровнях в первую очередь.</MF_WorkGiverHighPriorityThresholdDesc>
+  <MF_WorkGiverHighPriorityThreshold>Порог приоритета межэтажных работ: {0}</MF_WorkGiverHighPriorityThreshold>
+  <MF_AddStayOnCurrentMapGizmo>Добавить кнопку фиксации на уровне (Требуется перезагрузка)</MF_AddStayOnCurrentMapGizmo>
+  <MF_UseExperimentalHauling>Экспериментальный межэтажный перенос</MF_UseExperimentalHauling>
+  <MF_UseExperimentalHaulingTooltip>Без настроек переноса пешки будут автоматически перемещать предметы на другие уровни. Или отключите для ручного контроля.</MF_UseExperimentalHaulingTooltip>
+  <MF_AllowsGatheringsOnOtherLevels>Разрешить собрания на других уровнях (Требуется перезагрузка)</MF_AllowsGatheringsOnOtherLevels>
+  <MF_AllowsGatheringsOnOtherLevelsTooltip>Если отключено, вечеринки и собрания будут только на земле.</MF_AllowsGatheringsOnOtherLevelsTooltip>
+  <MF_ResetToDefault>Сбросить настройки</MF_ResetToDefault>
+
+  <!-- Управление лестницами -->
+  <MF_GoToLevel>Перейти на: {0}</MF_GoToLevel>
+  <MF_CurrentLevel>Текущий уровень: {0}</MF_CurrentLevel>
+  <MF_PowerOutput>Мощность на этом уровне: {0}Вт</MF_PowerOutput>
+  <MF_ViewConnectedLevel>Просмотр связанного уровня</MF_ViewConnectedLevel>
+  <MF_ViewConnectedLevelDesc>Просмотр связанного уровня</MF_ViewConnectedLevelDesc>
+  <MF_DeleteConnectedLevel>Удалить связанные уровни</MF_DeleteConnectedLevel>
+  <MF_DeleteConnectedLevelDesc>Удалить связанные уровни</MF_DeleteConnectedLevelDesc>
+  <MF_ConfirmDeleteConnectedLevel>[ОПАСНО!] Удаление уровня уничтожит всё на нём и зависимых уровнях. Продолжить?</MF_ConfirmDeleteConnectedLevel>
+  <MF_AutoTransferToggle>Автоперенос</MF_AutoTransferToggle>
+  <MF_AutoTransferToggleDesc>Если включено, лестница будет автоматически переносить разрешённые предметы между уровнями.</MF_AutoTransferToggleDesc>
+  <MF_LinkedElevatorLevel>Связан с: {0}</MF_LinkedElevatorLevel>
+  <MF_BuildUpperElevator>Построить на верхнем уровне</MF_BuildUpperElevator>
+  <MF_BuildUpperElevatorDesc>Лифты должны быть на одной клетке. Разместите чертёж наверху.</MF_BuildUpperElevatorDesc>
+  <MF_BuildLowerElevator>Построить на нижнем уровне</MF_BuildLowerElevator>
+  <MF_BuildLowerElevatorDesc>Лифты должны быть на одной клетке. Разместите чертёж внизу.</MF_BuildLowerElevatorDesc>
+  <MF_LinkElevator>Связать лифты</MF_LinkElevator>
+  <MF_LinkElevatorDesc>Свяжите лифты на этой клетке для перемещения пешек.</MF_LinkElevatorDesc>
+  <MF_UnlinkingElevators>Разъединение лифтов...</MF_UnlinkingElevators>
+  <MF_PrintStairsToggle>Показывать лестницы</MF_PrintStairsToggle>
+  <MF_PrintStairsToggleDesc>Скрыть лестницы из виду.</MF_PrintStairsToggleDesc>
+
+  <!-- Вкладки интерфейса -->
+  <MF_StairTransferTabLabel>Перенос</MF_StairTransferTabLabel>
+  <MF_ExclusiveStairsStorageSettings>Эксклюзивно</MF_ExclusiveStairsStorageSettings>
+  <MF_ExclusiveStairsStorageSettingsTooltip>Запрещает перенос обратно уже перемещённых предметов.</MF_ExclusiveStairsStorageSettingsTooltip>
+  <MF_StairTransferPolicyTabLabel>Политика</MF_StairTransferPolicyTabLabel>
+  <MF_StairToLoadListTabLabel>На перенос</MF_StairToLoadListTabLabel>
+
+  <!-- Энергия -->
+  <MF_StairNotConnectedToPowerNet>Не подключено к сети. Соедините кабелем.</MF_StairNotConnectedToPowerNet>
+  <MF_AllPowerNetNetOutput>Суммарная мощность в сети: {0}Вт</MF_AllPowerNetNetOutput>
+  <MF_PowerTransmitted>Передаётся от этого узла: {0}Вт</MF_PowerTransmitted>
+  <MF_PowerBreakdown>Распределение энергии:</MF_PowerBreakdown>
+
+  <!-- Политика переноса -->
+  <MF_TransferPolicyTabAllowedDefs>Разрешено</MF_TransferPolicyTabAllowedDefs>
+  <MF_TransferPolicyTabSearchDesc>Найдите предмет и кликните, чтобы добавить в политику</MF_TransferPolicyTabSearchDesc>
+  <MF_TransferPolicyTabEntryDesc>Настройка политики</MF_TransferPolicyTabEntryDesc>
+  <MF_TransferPolicyTabEntryTooltip>Лестницы будут автоматически переносить предметы согласно лимитам. Отрицательные значения оставят указанное количество на текущем уровне.</MF_TransferPolicyTabEntryTooltip>
+  <MF_TransferPolicyCountEverything>Учитывать всё</MF_TransferPolicyCountEverything>
+  <MF_TransferPolicyCountEverythingTooltip>Если выключено, учитываются только предметы в складах.</MF_TransferPolicyCountEverythingTooltip>
+  <MF_MaxCountToTransfer>Макс. разрешено:</MF_MaxCountToTransfer>
+
+  <!-- Ограничения строительства -->
+  <MF_RoomTooSmall>Комната слишком мала. Минимум {0} клеток.</MF_RoomTooSmall>
+  <MF_MustBeBuiltIndoor>Должно быть внутри помещения под крышей.</MF_MustBeBuiltIndoor>
+  <MF_CantBuildUpStairInBasement>Нельзя строить вверх из подвала.</MF_CantBuildUpStairInBasement>
+  <MF_CantBuildUpStairWithoutRoof>Нельзя строить вверх без крыши.</MF_CantBuildUpStairWithoutRoof>
+  <MF_CantBuildDownStairAboveGround>Нельзя строить вниз с верхних уровней.</MF_CantBuildDownStairAboveGround>
+  <MF_CantBuildDownStairInCurrentBiome>Нельзя строить вниз в этом биоме.</MF_CantBuildDownStairInCurrentBiome>
+  <MF_CantBuildInSameRoom>Нельзя строить одинаковые лестницы в одной комнате.</MF_CantBuildInSameRoom>
+  <MF_PotentialElevatorToLink>Можно связать с:</MF_PotentialElevatorToLink>
+  <MF_NoElevatorToLinkWith>Нет лифтов для связи.</MF_NoElevatorToLinkWith>
+
+  <!-- Перенос предметов -->
+  <MF_DesignatorHaulTo>Перенести на {0}</MF_DesignatorHaulTo>
+  <MF_DesignatorHaulToDestMapLabel>Перенести на </MF_DesignatorHaulToDestMapLabel>
+  <MF_DesignatorHaulToDestMapDesc>Отметить предметы для переноса на выбранный уровень.</MF_DesignatorHaulToDestMapDesc>
+  <MF_MustSelectTargetViaRightClickFirst>Сначала выберите цель через ПКМ.</MF_MustSelectTargetViaRightClickFirst>
+
+  <!-- Контекстное меню -->
+  <MF_TransferEntityTo>Перенести {1_label} на {2}</MF_TransferEntityTo>
+  <MF_RescueTo>Эвакуировать {1_labelShort} на...</MF_RescueTo>
+  <MF_ReturnToSlaveBed>Вернуть раба {1_labelShort} на...</MF_ReturnToSlaveBed>
+  <MF_CaptureTo>Захватить {1_labelShort} на...</MF_CaptureTo>
+  <MF_ArrestTo>Арестовать {1_labelShort} на...</MF_ArrestTo>
+  <MF_RescueToLevel>Эвакуировать {1_labelShort} на {2}</MF_RescueToLevel>
+  <MF_ReturnToSlaveBedOnLevel>Вернуть раба {1_labelShort} на {2}</MF_ReturnToSlaveBedOnLevel>
+  <MF_CaptureToLevel>Захватить {1_labelShort} на {2}</MF_CaptureToLevel>
+  <MF_ArrestToLevel>Арестовать {1_labelShort} на {2}</MF_ArrestToLevel>
+  <MF_BedOwners>Владельцы: {0}</MF_BedOwners>
+  <MF_BedNoOwners>Нет владельца</MF_BedNoOwners>
+  <MF_NoAppropriateBedOnCurrentLevel>Нет подходящей кровати на этом уровне.</MF_NoAppropriateBedOnCurrentLevel>
+
+  <!-- Дополнительные функции -->
+  <MF_StayOnCurrentMapToggle>Оставаться здесь</MF_StayOnCurrentMapToggle>
+  <MF_StayOnCurrentMapToggleDesc>Пешка не будет искать работу на других уровнях.</MF_StayOnCurrentMapToggleDesc>
+  <MF_ListenBillGiver>Связь с другим уровнем</MF_ListenBillGiver>
+  <MF_ListenBillGiverTooltip>Верстак будет запрашивать материалы с linked уровня. Для производительности ограничьте типы в фильтре.</MF_ListenBillGiverTooltip>
+  <MF_BillGiverLinkedMap>Связать с уровнем</MF_BillGiverLinkedMap>
+  <MF_BillGiverLinkedMapTooltip>Для переноса недостающих материалов.</MF_BillGiverLinkedMapTooltip>
+
+  <!-- Трубопроводы -->
+  <MF_PipeConnectorLinkedWith>Связан с: {0}</MF_PipeConnectorLinkedWith>
+  <MF_BuildUpperPipeConnector>Построить сверху</MF_BuildUpperPipeConnector>
+  <MF_BuildUpperPipeConnectorDesc>Разместите соединитель труб на верхнем уровне.</MF_BuildUpperPipeConnectorDesc>
+  <MF_LinkUpperPipeConnector>Связать сверху</MF_LinkUpperPipeConnector>
+  <MF_LinkUpperPipeConnectorDesc>Для передачи ресурсов между уровнями.</MF_LinkUpperPipeConnectorDesc>
+  <MF_BuildLowerPipeConnector>Построить снизу</MF_BuildLowerPipeConnector>
+  <MF_BuildLowerPipeConnectorDesc>Разместите соединитель труб на нижнем уровне.</MF_BuildLowerPipeConnectorDesc>
+  <MF_LinkLowerPipeConnector>Связать снизу</MF_LinkLowerPipeConnector>
+  <MF_LinkLowerPipeConnectorDesc>Для передачи ресурсов между уровнями.</MF_LinkLowerPipeConnectorDesc>
+  <MF_CannotFindPipeConnectorToLink>Нет соединителя для связи.</MF_CannotFindPipeConnectorToLink>
+  <MF_PipeConnectorExporting>Экспорт</MF_PipeConnectorExporting>
+  <MF_PipeConnectorExportingDesc>Если включено, ресурсы передаются на linked уровень. Иначе — принимаются.</MF_PipeConnectorExportingDesc>
+  <MF_StopPipeConnector>Стоп</MF_StopPipeConnector>
+  <MF_StopPipeConnectorDesc>Остановить передачу.</MF_StopPipeConnectorDesc>
+
+  <!-- Транспорт -->
+  <MF_TransferVehicle>Переместить транспорт</MF_TransferVehicle>
+  <MF_TransferVehicleDesc>Перемещение транспорта между уровнями.</MF_TransferVehicleDesc>
+  <MF_NoVehicleNearby>Нет транспорта рядом. Подгоните ближе.</MF_NoVehicleNearby>
+  <MF_TransferVehicleTo>Переместить {0} на {1}</MF_TransferVehicleTo>
+</LanguageData>

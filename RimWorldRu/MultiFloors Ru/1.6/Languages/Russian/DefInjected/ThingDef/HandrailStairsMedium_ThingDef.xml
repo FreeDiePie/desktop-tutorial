@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\HandrailStairsMedium.xml -->
+	<!--                    EN: stair entrance -->
+	<MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+	<!--                          EN: Moderately wide stairs with sturdy handrails for ascending to a higher level. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_StairEntranceBase.description>Достаточно широкие лестницы с прочными перилами для подъёма на более высокий уровень. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_StairEntranceBase.description>
+	
+	<!--                           EN: Moderately wide stairs with sturdy handrails for ascending to a higher level. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_HandrailStairsMUpA.description>Достаточно широкие лестницы с прочными перилами для подъёма на более высокий уровень. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_HandrailStairsMUpA.description>
+	<!--                     EN: Z-shaped medium handrail stairs up -->
+	<MF_HandrailStairsMUpA.label>Z-образные лестницы среднего размера с перилами вверх</MF_HandrailStairsMUpA.label>
+	
+	<!--                                  EN: Moderately wide stairs with sturdy handrails for ascending to a higher level. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_HandrailStairsMUpAFlipped.description>Достаточно широкие лестницы с прочными перилами для подъёма на более высокий уровень. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_HandrailStairsMUpAFlipped.description>
+	<!--                            EN: medium handrail stairs up -->
+	<MF_HandrailStairsMUpAFlipped.label>лестницы среднего размера с перилами вверх</MF_HandrailStairsMUpAFlipped.label>
+	
+	<!--                    EN: stair entrance -->
+	<MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+	<!--                          EN: Moderately wide stairs with sturdy handrails leading to a lower level. Cannot be built on upper levels. -->
+	<MF_StairEntranceBase.description>Достаточно широкие лестницы с прочными перилами, ведущие на нижний уровень. Нельзя строить на верхних уровнях.</MF_StairEntranceBase.description>
+	
+	<!--                             EN: Moderately wide stairs with sturdy handrails leading to a lower level. Cannot be built on upper levels. -->
+	<MF_HandrailStairsMDownA.description>Достаточно широкие лестницы с прочными перилами, ведущие на нижний уровень. Нельзя строить на верхних уровнях.</MF_HandrailStairsMDownA.description>
+	<!--                       EN: Z-shaped medium handrail stairs down -->
+	<MF_HandrailStairsMDownA.label>Z-образные лестницы среднего размера с перилами вниз</MF_HandrailStairsMDownA.label>
+	
+	<!--                                    EN: Moderately wide stairs with sturdy handrails leading to a lower level. Cannot be built on upper levels. -->
+	<MF_HandrailStairsMDownAFlipped.description>Достаточно широкие лестницы с прочными перилами, ведущие на нижний уровень. Нельзя строить на верхних уровнях.</MF_HandrailStairsMDownAFlipped.description>
+	<!--                              EN: medium handrail stairs down -->
+	<MF_HandrailStairsMDownAFlipped.label>лестницы среднего размера с перилами вниз</MF_HandrailStairsMDownAFlipped.label>
+	
+	<!--                EN: medium handrail stairs exit -->
+	<MF_StairExitBase.label>выход с лестниц среднего размера с перилами</MF_StairExitBase.label>
+	<!--                      EN: The endpoint of a medium handrail stairs. -->
+	<MF_StairExitBase.description>Конечная точка лестниц среднего размера с перилами.</MF_StairExitBase.description>
+	
+	<!--                       EN: medium handrail stairs exit -->
+	<MF_HandrailStairsMExitA.label>выход с лестниц среднего размера с перилами</MF_HandrailStairsMExitA.label>
+	<!--                             EN: The endpoint of a medium handrail stairs. -->
+	<MF_HandrailStairsMExitA.description>Конечная точка лестниц среднего размера с перилами.</MF_HandrailStairsMExitA.description>
+	
+	<!--                              EN: medium handrail stairs exit -->
+	<MF_HandrailStairsMExitAFlipped.label>выход с лестниц среднего размера с перилами</MF_HandrailStairsMExitAFlipped.label>
+	<!--                                    EN: The endpoint of a medium handrail stairs. -->
+	<MF_HandrailStairsMExitAFlipped.description>Конечная точка лестниц среднего размера с перилами.</MF_HandrailStairsMExitAFlipped.description>
+</LanguageData>

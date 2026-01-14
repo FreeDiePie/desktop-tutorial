@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_UpperLevelWeather.label>верхний уровень</MF_UpperLevelWeather.label>
+  <MF_UpperLevelWeather.description>Заглушка.</MF_UpperLevelWeather.description>
+
+  <MF_UndergroundWeather.label>подвал</MF_UndergroundWeather.label>
+  <MF_UndergroundWeather.description>Заглушка.</MF_UndergroundWeather.description>
+
+
+</LanguageData>

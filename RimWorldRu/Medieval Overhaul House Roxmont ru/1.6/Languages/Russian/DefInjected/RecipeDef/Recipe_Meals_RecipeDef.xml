@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_Meals.xml -->
+	<!--                         EN: cook rox roast -->
+	<DankPyon_CookMealRoxRoast.label>приготовить жаркое из рокса</DankPyon_CookMealRoxRoast.label>
+	<!--                               EN: Cook rox roast. -->
+	<DankPyon_CookMealRoxRoast.description>Приготовить жаркое из рокса.</DankPyon_CookMealRoxRoast.description>
+	<!--                             EN: Cooking rox roast. -->
+	<DankPyon_CookMealRoxRoast.jobString>Готовит жаркое из рокса.</DankPyon_CookMealRoxRoast.jobString>
+	
+	<!--                              EN: cook rox roast x4 -->
+	<DankPyon_CookMealRoxRoast_Bulk.label>приготовить жаркое из рокса x4</DankPyon_CookMealRoxRoast_Bulk.label>
+	<!--                                    EN: Cook 4 rox roast. -->
+	<DankPyon_CookMealRoxRoast_Bulk.description>Приготовить 4 жарких из рокса.</DankPyon_CookMealRoxRoast_Bulk.description>
+	<!--                                  EN: Cooking 4 rox roast. -->
+	<DankPyon_CookMealRoxRoast_Bulk.jobString>Готовит 4 жарких из рокса.</DankPyon_CookMealRoxRoast_Bulk.jobString>
+	
+	<!--                         EN: cook rox feast -->
+	<DankPyon_CookMealRoxFeast.label>приготовить пир из рокса</DankPyon_CookMealRoxFeast.label>
+	<!--                               EN: Cook rox feast. -->
+	<DankPyon_CookMealRoxFeast.description>Приготовить пир из рокса.</DankPyon_CookMealRoxFeast.description>
+	<!--                             EN: Cooking rox feast. -->
+	<DankPyon_CookMealRoxFeast.jobString>Готовит пир из рокса.</DankPyon_CookMealRoxFeast.jobString>
+	
+	<!--                              EN: cook rox feast x4 -->
+	<DankPyon_CookMealRoxFeast_Bulk.label>приготовить пир из рокса x4</DankPyon_CookMealRoxFeast_Bulk.label>
+	<!--                                    EN: Cook 4 rox feast. -->
+	<DankPyon_CookMealRoxFeast_Bulk.description>Приготовить 4 пира из рокса.</DankPyon_CookMealRoxFeast_Bulk.description>
+	<!--                                  EN: Cooking 4 rox feast. -->
+	<DankPyon_CookMealRoxFeast_Bulk.jobString>Готовит 4 пира из рокса.</DankPyon_CookMealRoxFeast_Bulk.jobString>
+</LanguageData>

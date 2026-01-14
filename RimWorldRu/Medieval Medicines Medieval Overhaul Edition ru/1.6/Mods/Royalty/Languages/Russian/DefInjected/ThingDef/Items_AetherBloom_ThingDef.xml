@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\Items_AetherBloom.xml -->
+	<!--                EN: aether bloom -->
+	<Joe_Plant_Aether.label>эфирный цветок</Joe_Plant_Aether.label>
+	<!--                      EN: The Aether Bloom is a mesmerizing and radiant flower, celebrated for its luminous beauty and potent magical essence. This extraordinary plant features large, luminescent petals that emit a gentle, azure glow, reminiscent of the vibrant blue hue of a mana potion. The petals are a striking blue, with intricate patterns that seem to pulse with magical energy. -->
+	<Joe_Plant_Aether.description>Эфирный цветок — завораживающее и сияющее растение, ценимое за свою светящуюся красоту и мощную магическую сущность. Это необычное растение обладает крупными люминесцентными лепестками, излучающими мягкое лазурное свечение, напоминающее насыщенный синий оттенок зелья маны. Лепестки имеют ярко-синий цвет с замысловатыми узорами, словно пульсирующими магической энергией.</Joe_Plant_Aether.description>
+	
+	<!--                    EN: wild aether bloom -->
+	<Joe_Plant_AetherWild.label>дикий эфирный цветок</Joe_Plant_AetherWild.label>
+	<!--                          EN: The wild Aether Bloom is a mesmerizing and radiant flower, celebrated for its luminous beauty and potent magical essence. This extraordinary plant features large, luminescent petals that emit a gentle, azure glow, reminiscent of the vibrant blue hue of a mana potion. The petals are a striking blue, with intricate patterns that seem to pulse with magical energy. -->
+	<Joe_Plant_AetherWild.description>Дикий эфирный цветок — завораживающее и сияющее растение, ценимое за свою светящуюся красоту и мощную магическую сущность. Это необычное растение обладает крупными люминесцентными лепестками, излучающими мягкое лазурное свечение, напоминающее насыщенный синий оттенок зелья маны. Лепестки имеют ярко-синий цвет с замысловатыми узорами, словно пульсирующими магической энергией.</Joe_Plant_AetherWild.description>
+	
+	<!--             EN: raw aether -->
+	<Joe_RawAether.label>необработанный эфир</Joe_RawAether.label>
+	<!--                   EN: Unprocessed petals of the Aether Bloom plant. -->
+	<Joe_RawAether.description>Необработанные лепестки эфирного цветка.</Joe_RawAether.description>
+	
+	<!--                 EN: aether extract -->
+	<Joe_AetherExtract.label>эфирный экстракт</Joe_AetherExtract.label>
+	<!--                       EN: A concentrated mixture of aether essence extracted by grinding raw aether bloom. Used in the crafting of mana potions. -->
+	<Joe_AetherExtract.description>Концентрированная смесь эфирной эссенции, полученная путём измельчения необработанного эфирного цветка. Используется при создании зелий маны.</Joe_AetherExtract.description>
+</LanguageData>

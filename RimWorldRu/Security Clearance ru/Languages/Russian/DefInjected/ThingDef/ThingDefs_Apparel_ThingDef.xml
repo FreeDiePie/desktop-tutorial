@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Apparel.xml -->
+	
+	<!--                                      EN: Alpha clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Alpha.label>ключ-карта допуска «Альфа»</Apparel_SecurityClearanceKeycard_Alpha.label>
+	<!--                                            EN: Standard security keycard granting access to Alpha, Beta, Gamma, Delta, and Epsilon clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Alpha.description>Стандартная ключ-карта безопасности, предоставляющая доступ к дверям уровней допуска «Альфа», «Бета», «Гамма», «Дельта» и «Эпсилон».</Apparel_SecurityClearanceKeycard_Alpha.description>
+	
+	<!--                                     EN: Beta clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Beta.label>ключ-карта допуска «Бета»</Apparel_SecurityClearanceKeycard_Beta.label>
+	<!--                                           EN: Standard security keycard granting access to Beta, Gamma, Delta, and Epsilon clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Beta.description>Стандартная ключ-карта безопасности, предоставляющая доступ к дверям уровней допуска «Бета», «Гамма», «Дельта» и «Эпсилон».</Apparel_SecurityClearanceKeycard_Beta.description>
+	
+	<!--                                      EN: Gamma clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Gamma.label>ключ-карта допуска «Гамма»</Apparel_SecurityClearanceKeycard_Gamma.label>
+	<!--                                            EN: Standard security keycard granting access to Gamma, Delta, and Epsilon clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Gamma.description>Стандартная ключ-карта безопасности, предоставляющая доступ к дверям уровней допуска «Гамма», «Дельта» и «Эпсилон».</Apparel_SecurityClearanceKeycard_Gamma.description>
+	
+	<!--                                      EN: Delta clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Delta.label>ключ-карта допуска «Дельта»</Apparel_SecurityClearanceKeycard_Delta.label>
+	<!--                                            EN: Standard security keycard granting access to Delta and Epsilon clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Delta.description>Стандартная ключ-карта безопасности, предоставляющая доступ к дверям уровней допуска «Дельта» и «Эпсилон».</Apparel_SecurityClearanceKeycard_Delta.description>
+	
+	<!--                                        EN: Epsilon clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Epsilon.label>ключ-карта допуска «Эпсилон»</Apparel_SecurityClearanceKeycard_Epsilon.label>
+	<!--                                              EN: Standard security keycard granting access to Epsilon clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Epsilon.description>Стандартная ключ-карта безопасности, предоставляющая доступ к дверям уровня допуска «Эпсилон».</Apparel_SecurityClearanceKeycard_Epsilon.description>
+	
+	<!--                                      EN: Theta special clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Theta.label>ключ-карта особого допуска «Тета»</Apparel_SecurityClearanceKeycard_Theta.label>
+	<!--                                            EN: Security keycard granting access to Theta special clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Theta.description>Ключ-карта безопасности, предоставляющая доступ к дверям особого допуска «Тета».</Apparel_SecurityClearanceKeycard_Theta.description>
+	
+	<!--                                       EN: Lambda special clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Lambda.label>ключ-карта особого допуска «Лямбда»</Apparel_SecurityClearanceKeycard_Lambda.label>
+	<!--                                             EN: Security keycard granting access to Lambda special clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Lambda.description>Ключ-карта безопасности, предоставляющая доступ к дверям особого допуска «Лямбда».</Apparel_SecurityClearanceKeycard_Lambda.description>
+	
+	<!--                                    EN: Tau special clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Tau.label>ключ-карта особого допуска «Тау»</Apparel_SecurityClearanceKeycard_Tau.label>
+	<!--                                          EN: Security keycard granting access to Tau special clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Tau.description>Ключ-карта безопасности, предоставляющая доступ к дверям особого допуска «Тау».</Apparel_SecurityClearanceKeycard_Tau.description>
+	
+	<!--                                    EN: Phi special clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Phi.label>ключ-карта особого допуска «Фи»</Apparel_SecurityClearanceKeycard_Phi.label>
+	<!--                                          EN: Security keycard granting access to Phi special clearance doors. -->
+	<Apparel_SecurityClearanceKeycard_Phi.description>Ключ-карта безопасности, предоставляющая доступ к дверям особого допуска «Фи».</Apparel_SecurityClearanceKeycard_Phi.description>
+	
+	<!--                                      EN: Omega clearance keycard -->
+	<Apparel_SecurityClearanceKeycard_Omega.label>ключ-карта допуска «Омега»</Apparel_SecurityClearanceKeycard_Omega.label>
+	<!--                                            EN: Security keycard granting full access to all doors. -->
+	<Apparel_SecurityClearanceKeycard_Omega.description>Ключ-карта безопасности, предоставляющая полный доступ ко всем дверям.</Apparel_SecurityClearanceKeycard_Omega.description>
+</LanguageData>

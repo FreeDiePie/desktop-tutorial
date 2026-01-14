@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\HediffDefs_LesserHealing.xml -->
+	<!--                       EN: Lesser Healing Potion Effect -->
+	<Joe_LesserHealingHediff.label>эффект малого лечебного зелья</Joe_LesserHealingHediff.label>
+	<!--                             EN: Native tribespeople crafted an elixir that greatly enhances the natural healing abilities of those who consume it. However, it seems to bring about a sense of malaise in the bowels, an unsettling unease that weakens the kidneys due to increased blood pressure.. -->
+	<Joe_LesserHealingHediff.description>Коренные племена создали эликсир, значительно усиливающий естественные способности к заживлению у тех, кто его употребляет. Однако он вызывает ощущение кишечного недомогания — тревожное состояние, ослабляющее почки из-за повышенного кровяного давления.</Joe_LesserHealingHediff.description>
+</LanguageData>

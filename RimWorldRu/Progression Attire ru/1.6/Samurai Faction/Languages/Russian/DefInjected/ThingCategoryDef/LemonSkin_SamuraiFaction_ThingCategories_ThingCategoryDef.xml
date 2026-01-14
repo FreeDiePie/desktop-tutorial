@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Samurai Faction\Defs\LemonSkin_SamuraiFaction_ThingCategories.xml -->
+	<!--                        EN: samurai apparel -->
+	<LemonSkin_SamuraiApparel.label>samurai apparel</LemonSkin_SamuraiApparel.label>
+	<!--                                EN: headgear -->
+	<LemonSkin_SamuraiApparelHeadgear.label>headgear</LemonSkin_SamuraiApparelHeadgear.label>
+	<!--                               EN: utility -->
+	<LemonSkin_SamuraiApparelUtility.label>utility</LemonSkin_SamuraiApparelUtility.label>
+	<!--                      EN: samurai armor -->
+	<LemonSkin_SamuraiArmor.label>samurai armor</LemonSkin_SamuraiArmor.label>
+	<!--                              EN: headgear -->
+	<LemonSkin_SamuraiArmorHeadgear.label>headgear</LemonSkin_SamuraiArmorHeadgear.label>
+</LanguageData>

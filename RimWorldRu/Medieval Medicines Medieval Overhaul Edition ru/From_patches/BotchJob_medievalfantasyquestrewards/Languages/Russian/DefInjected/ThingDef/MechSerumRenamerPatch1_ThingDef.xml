@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_medievalfantasyquestrewards\MechSerumRenamerPatch1.xml -->
+	<!--               EN: greater healing potion -->
+	<MechSerumHealer.label>большое лечебное зелье</MechSerumHealer.label>
+	<!--                     EN: A highly potent healing potion.
+
+Consuming the potion will heal the single worst health condition affecting someone at any given time.
+
+Works even on health conditions that would otherwise be incurable. The healing effect can even regenerate missing limbs or organs. -->
+	<MechSerumHealer.description>Чрезвычайно мощное лечебное зелье.
+
+Употребление этого зелья исцеляет одно, наиболее тяжёлое состояние здоровья, от которого страдает персонаж в данный момент.
+
+Действует даже на состояния, которые обычно считаются неизлечимыми. Лечебный эффект способен восстанавливать утраченные конечности или органы.</MechSerumHealer.description>
+	
+	<!--                    EN: supreme healing potion -->
+	<MechSerumResurrector.label>высшее лечебное зелье</MechSerumResurrector.label>
+	<!--                          EN: A healing potion of such potent magic that a few drops placed in the mouth of a corpse can resurrect the dead.
+
+Unfortunately, those brought back may suffer from brain damage, blindness, or progressive madness. They will also experience mild amnesia, forgetting some recent memories and social interactions.
+
+Outcomes are better when used on a fresher body. If a body is preserved, it can even be resurrected long after death. -->
+	<MechSerumResurrector.description>Лечебное зелье столь могущественной магии, что нескольких капель, помещённых в рот трупа, достаточно, чтобы воскресить мёртвого.
+
+К сожалению, возвращённые к жизни могут страдать от повреждений мозга, слепоты или прогрессирующего безумия. Также у них наблюдается лёгкая амнезия — утрата части недавних воспоминаний и социальных взаимодействий.
+
+Результаты тем лучше, чем свежее тело. Если тело сохранено, воскрешение возможно даже спустя длительное время после смерти.</MechSerumResurrector.description>
+</LanguageData>

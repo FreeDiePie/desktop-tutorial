@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\HediffDefs_MinorHealing.xml -->
+	<!--                      EN: Minor Healing Potion Effect -->
+	<Joe_MinorHealingHediff.label>эффект слабого лечебного зелья</Joe_MinorHealingHediff.label>
+	<!--                            EN: Noble house apothecaries, through their refined techniques, have transformed the tribal lesser healing elixir into what is now known as the minor healing potion. By incorporating amber into the recipe, this new concoction boasts enhanced restorative abilities while significantly reducing the adverse effects previously experienced. -->
+	<Joe_MinorHealingHediff.description>Аптекари знатных домов, благодаря своим отточенным техникам, превратили племенной малый лечебный эликсир в то, что ныне известно как слабое лечебное зелье. Добавление янтаря в рецепт наделило это снадобье улучшенными восстановительными свойствами, при этом значительно снизив ранее наблюдавшиеся побочные эффекты.</Joe_MinorHealingHediff.description>
+</LanguageData>

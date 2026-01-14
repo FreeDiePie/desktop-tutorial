@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="MF_StairEntranceBase">
+		<defName>MF_UpStair</defName>
+		<label>лестница вверх</label>
+		<description>Компактный вход на верхний уровень. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</description>
+		<rotatable>false</rotatable>
+		<statBases>
+      		<WorkToBuild>1000</WorkToBuild>
+    	</statBases>
+		<uiIconScale>0.6</uiIconScale>
+		<uiIconOffset>(0, 0.32)</uiIconOffset>
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+			<texPath>Buildings/OldLadder/LadderUp</texPath>
+			<drawSize>(3, 3)</drawSize>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<isUpstairs>true</isUpstairs>
+				<connectedToExitDef>MF_StairExit</connectedToExitDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+	<ThingDef ParentName="MF_StairEntranceBase">
+		<defName>MF_DownStair</defName>
+		<label>лестница вниз</label>
+		<description>Компактный вход на нижний уровень. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</description>
+		<rotatable>false</rotatable>
+		<statBases>
+      		<WorkToBuild>1000</WorkToBuild>
+    	</statBases>
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+			<texPath>Buildings/OldLadder/LadderDown</texPath>
+			<drawSize>(3, 3)</drawSize>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<isUpstairs>false</isUpstairs>
+				<connectedToExitDef>MF_StairExit</connectedToExitDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+	<ThingDef ParentName="MF_StairExitBase">
+		<defName>MF_StairExit</defName>
+		<label>выход лестницы</label>
+		<description>Конечная точка лестницы.</description>
+		<rotatable>false</rotatable>
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+			<texPath>Buildings/OldLadder/LadderUp</texPath>
+			<drawSize>(3, 3)</drawSize>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<upstairsEntranceDef>MF_UpStair</upstairsEntranceDef>
+				<downstairsEntranceDef>MF_DownStair</downstairsEntranceDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+</Defs>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_TransparentFloor.label>прозрачный пол</MF_TransparentFloor.label>
+  <MF_TransparentFloor.description>Прозрачный пол. Позволяет видеть уровень ниже. Не может быть построен в подвалах.</MF_TransparentFloor.description>
+
+
+</LanguageData>

@@ -1,0 +1,89 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ponpeco_ponpecoaccessories\ponpeco accessories vanity table34.xml -->
+	<!--                           EN: teardrop earrings -->
+	<Apparel_PAETeardropEarrings.label>teardrop earrings</Apparel_PAETeardropEarrings.label>
+	<!--                      EN: rod earrings -->
+	<Apparel_PAERodEarrings.label>rod earrings</Apparel_PAERodEarrings.label>
+	<!--                        EN: small earrings -->
+	<Apparel_PAESmallEarrings.label>small earrings</Apparel_PAESmallEarrings.label>
+	<!--                      EN: orange sunglasses -->
+	<Apparel_PAGSunglassesA.label>orange sunglasses</Apparel_PAGSunglassesA.label>
+	<!--                      EN: sunglasses -->
+	<Apparel_PAGSunglassesB.label>sunglasses</Apparel_PAGSunglassesB.label>
+	<!--                  EN: glasses -->
+	<Apparel_PAGGlasses.label>glasses</Apparel_PAGGlasses.label>
+	<!--                    EN: left eyepatch (over hair) -->
+	<Apparel_PAGEyepatchL.label>left eyepatch (over hair)</Apparel_PAGEyepatchL.label>
+	<!--                    EN: right eyepatch (over hair) -->
+	<Apparel_PAGEyepatchR.label>right eyepatch (over hair)</Apparel_PAGEyepatchR.label>
+	<!--                     EN: left eyepatch (under hair) -->
+	<Apparel_PAGEyepatchLU.label>left eyepatch (under hair)</Apparel_PAGEyepatchLU.label>
+	<!--                     EN: right eyepatch (under hair) -->
+	<Apparel_PAGEyepatchRU.label>right eyepatch (under hair)</Apparel_PAGEyepatchRU.label>
+	<!--                    EN: hair scarf -->
+	<Apparel_PAHHeadScarf.label>hair scarf</Apparel_PAHHeadScarf.label>
+	<!--                     EN: hair scarf with lace -->
+	<Apparel_PAHHeadScarfB.label>hair scarf with lace</Apparel_PAHHeadScarfB.label>
+	<!--                   EN: simple headband -->
+	<Apparel_PAHHeadband.label>simple headband</Apparel_PAHHeadband.label>
+	<!--                         EN: ribbon headband -->
+	<Apparel_PAHRibbonHeadband.label>ribbon headband</Apparel_PAHRibbonHeadband.label>
+	<!--                     EN: big ribbon -->
+	<Apparel_PAHDekaRibbon.label>big ribbon</Apparel_PAHDekaRibbon.label>
+	<!--                     EN: fluffy ribbon headband -->
+	<Apparel_PAHMokoRibbon.label>fluffy ribbon headband</Apparel_PAHMokoRibbon.label>
+	<!--                     EN: headphones -->
+	<Apparel_PAHHeadphones.label>headphones</Apparel_PAHHeadphones.label>
+	<!--               EN: veil -->
+	<Apparel_PAHVeil.label>veil</Apparel_PAHVeil.label>
+	<!--                   EN: deep hood -->
+	<Apparel_PAHDeepHood.label>deep hood</Apparel_PAHDeepHood.label>
+	<!--                       EN: pilot goggles -->
+	<Apparel_PAHPilotGoggles.label>pilot goggles</Apparel_PAHPilotGoggles.label>
+	<!--                    EN: headdress -->
+	<Apparel_PAHHeaddress.label>headdress</Apparel_PAHHeaddress.label>
+	<!--                      EN: angola beret -->
+	<Apparel_PAHAngolaBeret.label>angola beret</Apparel_PAHAngolaBeret.label>
+	<!--                EN: tiara -->
+	<Apparel_PAHTiara.label>tiara</Apparel_PAHTiara.label>
+	<!--                       EN: knit headband -->
+	<Apparel_PAHKnitHeadband.label>knit headband</Apparel_PAHKnitHeadband.label>
+	<!--                     EN: pillbox hat -->
+	<Apparel_PAHPillboxHat.label>pillbox hat</Apparel_PAHPillboxHat.label>
+	<!--                 EN: fedora -->
+	<Apparel_PAHFedora.label>fedora</Apparel_PAHFedora.label>
+	<!--                  EN: flat cap -->
+	<Apparel_PAHFlatCap.label>flat cap</Apparel_PAHFlatCap.label>
+	<!--                        EN: cat ear newsboy -->
+	<Apparel_PAHCatEarNewsboy.label>cat ear newsboy</Apparel_PAHCatEarNewsboy.label>
+	<!--                      EN: sailor beret -->
+	<Apparel_PAHSailorBeret.label>sailor beret</Apparel_PAHSailorBeret.label>
+	<!--                         EN: mecha bunny ears -->
+	<Apparel_PAHMechaBunnyEars.label>mecha bunny ears</Apparel_PAHMechaBunnyEars.label>
+	<!--                          EN: half kitsune mask -->
+	<Apparel_PAHHalfKitsuneMask.label>half kitsune mask</Apparel_PAHHalfKitsuneMask.label>
+	<!--                        EN: cyber sun visor -->
+	<Apparel_PAHCyberSunVisor.label>cyber sun visor</Apparel_PAHCyberSunVisor.label>
+	<!--                    EN: cyber helm -->
+	<Apparel_PAHCyberHelm.label>cyber helm</Apparel_PAHCyberHelm.label>
+	<!--                         EN: hair extensions -->
+	<Apparel_PAMHairExtensions.label>hair extensions</Apparel_PAMHairExtensions.label>
+	<!--                    EN: ribbon pin -->
+	<Apparel_PAMRibbonPin.label>ribbon pin</Apparel_PAMRibbonPin.label>
+	<!--                      EN: star hair pin -->
+	<Apparel_PAMStarHairPin.label>star hair pin</Apparel_PAMStarHairPin.label>
+	<!--                      EN: clover crown -->
+	<Apparel_PAMCloverCrown.label>clover crown</Apparel_PAMCloverCrown.label>
+	<!--                    EN: floral pin -->
+	<Apparel_PAMFloralPin.label>floral pin</Apparel_PAMFloralPin.label>
+	<!--                    EN: rose crown -->
+	<Apparel_PAMRoseCrown.label>rose crown</Apparel_PAMRoseCrown.label>
+	<!--                   EN: party hat -->
+	<Apparel_PAMPartyHat.label>party hat</Apparel_PAMPartyHat.label>
+	<!--                  EN: muffler -->
+	<Apparel_PANMuffler.label>muffler</Apparel_PANMuffler.label>
+	<!--                    EN: neck scarf -->
+	<Apparel_PANNeckScarf.label>neck scarf</Apparel_PANNeckScarf.label>
+	<!--                        EN: fluffy muffler -->
+	<Apparel_PANFluffyMuffler.label>fluffy muffler</Apparel_PANFluffyMuffler.label>
+</LanguageData>

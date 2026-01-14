@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Multi-Floors -->
+	<MultiFloors>Многоэтажность</MultiFloors>
+
+	<!-- EN: G -->
+	<MF_GroundLevelSymbol>G</MF_GroundLevelSymbol>
+	<!-- EN: L{0} -->
+	<MF_UpperLevelSymbol>L{0}</MF_UpperLevelSymbol>
+	<!-- EN: B{0} -->
+	<MF_BasementLevelSymbol>B{0}</MF_BasementLevelSymbol>
+
+		<!-- pawn columns -->
+	<!-- EN: Following works would be scanned on pawn's current level, then other levels\n -->
+	<MF_HighPriorityWorkGiverTypes>Следующие работы будут сканироваться на текущем уровне пешки, затем на других уровнях\n</MF_HighPriorityWorkGiverTypes>
+	<!-- EN: If not found, following works would be scanned on pawn's current level, then other levels\n -->
+	<MF_LowPriorityWorkGiverTypes>Если не найдены, следующие работы будут сканироваться на текущем уровне пешки, затем на других уровнях\n</MF_LowPriorityWorkGiverTypes>
+
+	<!-- EN: Level -->
+	<MF_LevelWorkSettingsHeader>Уровень</MF_LevelWorkSettingsHeader>
+	<!-- EN: Level work settings -->
+	<MF_LevelWorkSettingsEntryButtonLabel>Настройки работ на уровне</MF_LevelWorkSettingsEntryButtonLabel>
+	<!-- EN: You can turn off some work types on each level. Once you turned them off, pawns won't do works of those types. This will help to improve performance but use them carefully. -->
+	<MF_LevelWorkSettingsEntryButtonTooltip>Вы можете отключить некоторые типы работ на каждом уровне. После отключения пешки не будут выполнять работы этих типов. Это поможет улучшить производительность, но используйте эту функцию осторожно.</MF_LevelWorkSettingsEntryButtonTooltip>
+
+	<!-- EN: Tutor -->
+	<MF_TutorLabel>Обучение</MF_TutorLabel>
+</LanguageData>

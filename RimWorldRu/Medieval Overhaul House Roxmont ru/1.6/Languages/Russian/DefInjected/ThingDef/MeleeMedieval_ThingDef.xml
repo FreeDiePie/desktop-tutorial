@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Misc\Weapons\MeleeMedieval.xml -->
+	<!--                                EN: pike (Roxmont) -->
+	<DankPyon_MeleeWeapon_PikeRoxmont.label>пика (Роксмонт)</DankPyon_MeleeWeapon_PikeRoxmont.label>
+	<!--                                      EN: Unlike the spear, pikes must be wielded with both hands to be effective. This allows pike-users to impale enemies at a distance, making pikemen feared warriors even from the backline. \n\n This pike carries the colors of house Roxmont. -->
+	<DankPyon_MeleeWeapon_PikeRoxmont.description>В отличие от копья, пику необходимо держать двумя руками для эффективного использования. Это позволяет пикинёрам поражать врагов на расстоянии, делая их грозными воинами даже с задней линии.\n\nЭта пика несёт цвета дома Роксмонт.</DankPyon_MeleeWeapon_PikeRoxmont.description>
+	
+	<!--                              EN: rox waraxe -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.label>рокс-боевой топор</DankPyon_MeleeWeapon_RoxWaraxe.label>
+	<!--                                    EN: A heavier version of the two-handed axe, the greataxe’s weight allows for high raw damage as well as solid durability. A great option for splitting shields or unarmored enemies. Requires great strength to wield effectively. \n\nFashioned with a piercing hammer made out of a rox’s horn, it allows for deadly armor penetrating attacks against heavily plated knights. -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.description>Более тяжёлая версия двуручного топора, вес секиры позволяет наносить высокий урон и обеспечивает прочность. Отличный вариант для разрушения щитов или против незащищённых доспехами врагов. Требует большой силы для эффективного использования.\n\nОснащённый пробивным молотом из рога рокса, он позволяет совершать смертоносные атаки, пробивающие броню, против закованных в латы рыцарей.</DankPyon_MeleeWeapon_RoxWaraxe.description>
+	<!--                                      EN: древко -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.0.label>древко</DankPyon_MeleeWeapon_RoxWaraxe.tools.0.label>
+	<!--                                      EN: острие -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.1.label>острие</DankPyon_MeleeWeapon_RoxWaraxe.tools.1.label>
+	<!--                                      EN: кромка -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.2.label>кромка</DankPyon_MeleeWeapon_RoxWaraxe.tools.2.label>
+</LanguageData>

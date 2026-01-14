@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>MultiFloors Ru</name>
+	<author>FreeDiePie</author>
+	<packageId>FDP.MultiFloors</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/FDPLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>telardo.MultiFloors</packageId>
+			<displayName>MultiFloors</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3384660931</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>telardo.MultiFloors</li>
+	</loadAfter>
+	<description>ПОЛНЫЙ Русский перевод мода Multi-floors(Многоэтажность).
+	В т.ч. и новые фишки для Одиссеи
+	Так же перевел патчи для других модов
+	ПыСы - Перевожу только когда есть желание, так что если вдруг начну забивать, можете спокойно брать мой перевод и дополнять\исправлять.
+	</description>
+</ModMetaData>

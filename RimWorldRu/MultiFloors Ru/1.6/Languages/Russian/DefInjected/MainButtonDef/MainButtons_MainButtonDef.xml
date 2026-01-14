@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\MainButtonDef\MainButtons.xml -->
+	<!--                     EN: floors -->
+	<MF_FloorSettingButton.label>этажи</MF_FloorSettingButton.label>
+	<!--                           EN: Schedule colonists' allowed floors. -->
+	<MF_FloorSettingButton.description>Настройка разрешённых этажей для колонистов.</MF_FloorSettingButton.description>
+</LanguageData>

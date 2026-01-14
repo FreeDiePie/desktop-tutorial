@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_MinorHealingPotion.xml -->
+	<!--                      EN: Minor Healing Potion -->
+	<Joe_MinorHealingPotion.label>слабое лечебное зелье</Joe_MinorHealingPotion.label>
+	<!--                            EN: Through their refined techniques, the apothecaries of the noble houses have transformed the tribal lesser healing elixir into the renowned Minor Healing Potion. By incorporating amber into the recipe, this new concoction boasts enhanced restorative abilities while significantly reducing the adverse effects previously experienced. -->
+	<Joe_MinorHealingPotion.description>Благодаря отточенным техникам аптекари знатных домов превратили племенной малый лечебный эликсир в известное слабое лечебное зелье. Добавление янтаря в рецепт наделило новое снадобье улучшенными восстановительными свойствами, при этом значительно снизив ранее наблюдавшиеся побочные эффекты.</Joe_MinorHealingPotion.description>
+	<!--                                               EN: Drink {0} -->
+	<Joe_MinorHealingPotion.ingestible.ingestCommandString>Выпить {0}</Joe_MinorHealingPotion.ingestible.ingestCommandString>
+	<!--                                              EN: Drinking {0}. -->
+	<Joe_MinorHealingPotion.ingestible.ingestReportString>Пьёт {0}.</Joe_MinorHealingPotion.ingestible.ingestReportString>
+</LanguageData>

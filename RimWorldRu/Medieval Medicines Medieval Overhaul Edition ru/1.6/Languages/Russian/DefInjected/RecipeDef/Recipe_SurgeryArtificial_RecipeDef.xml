@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_SurgeryArtificial.xml -->
+	<!--                        EN: install artificial hand -->
+	<InstallArtificialMedHand.label>установить искусственную кисть</InstallArtificialMedHand.label>
+	<!--                              EN: Installs artificial hand. -->
+	<InstallArtificialMedHand.description>Устанавливает искусственную кисть.</InstallArtificialMedHand.description>
+	<!--                            EN: Installing artificial hand. -->
+	<InstallArtificialMedHand.jobString>Устанавливает искусственную кисть.</InstallArtificialMedHand.jobString>
+	
+	<!--                       EN: install artificial arm -->
+	<InstallArtificialMedArm.label>установить искусственную руку</InstallArtificialMedArm.label>
+	<!--                             EN: Installs artificial arm. -->
+	<InstallArtificialMedArm.description>Устанавливает искусственную руку.</InstallArtificialMedArm.description>
+	<!--                           EN: Installing artificial arm. -->
+	<InstallArtificialMedArm.jobString>Устанавливает искусственную руку.</InstallArtificialMedArm.jobString>
+	
+	<!--                       EN: install artificial leg -->
+	<InstallArtificialMedLeg.label>установить искусственную ногу</InstallArtificialMedLeg.label>
+	<!--                             EN: Installs artificial leg. -->
+	<InstallArtificialMedLeg.description>Устанавливает искусственную ногу.</InstallArtificialMedLeg.description>
+	<!--                           EN: Installing artificial leg. -->
+	<InstallArtificialMedLeg.jobString>Устанавливает искусственную ногу.</InstallArtificialMedLeg.jobString>
+	
+	<!--                        EN: install artificial foot -->
+	<InstallArtificialMedFoot.label>установить искусственную стопу</InstallArtificialMedFoot.label>
+	<!--                              EN: Installs artificial foot. -->
+	<InstallArtificialMedFoot.description>Устанавливает искусственную стопу.</InstallArtificialMedFoot.description>
+	<!--                            EN: Installing artificial foot. -->
+	<InstallArtificialMedFoot.jobString>Устанавливает искусственную стопу.</InstallArtificialMedFoot.jobString>
+	
+	<!--                          EN: install artificial finger -->
+	<InstallArtificialMedFinger.label>установить искусственный палец</InstallArtificialMedFinger.label>
+	<!--                                EN: Installs artificial finger. -->
+	<InstallArtificialMedFinger.description>Устанавливает искусственный палец.</InstallArtificialMedFinger.description>
+	<!--                              EN: Installing artificial finger. -->
+	<InstallArtificialMedFinger.jobString>Устанавливает искусственный палец.</InstallArtificialMedFinger.jobString>
+	
+	<!--                       EN: install artificial toe -->
+	<InstallArtificialMedToe.label>установить искусственный палец ноги</InstallArtificialMedToe.label>
+	<!--                             EN: Installs artificial toe. -->
+	<InstallArtificialMedToe.description>Устанавливает искусственный палец ноги.</InstallArtificialMedToe.description>
+	<!--                           EN: Installing artificial toe. -->
+	<InstallArtificialMedToe.jobString>Устанавливает искусственный палец ноги.</InstallArtificialMedToe.jobString>
+	
+	<!--                        EN: install artificial nose -->
+	<InstallArtificialMedNose.label>установить искусственный нос</InstallArtificialMedNose.label>
+	<!--                              EN: Installs artificial nose. -->
+	<InstallArtificialMedNose.description>Устанавливает искусственный нос.</InstallArtificialMedNose.description>
+	<!--                            EN: Installing artificial nose. -->
+	<InstallArtificialMedNose.jobString>Устанавливает искусственный нос.</InstallArtificialMedNose.jobString>
+	
+	<!--                       EN: install artificial eye -->
+	<InstallArtificialMedEye.label>установить искусственный глаз</InstallArtificialMedEye.label>
+	<!--                             EN: Installs artificial eye. -->
+	<InstallArtificialMedEye.description>Устанавливает искусственный глаз.</InstallArtificialMedEye.description>
+	<!--                           EN: Installing artificial eye. -->
+	<InstallArtificialMedEye.jobString>Устанавливает искусственный глаз.</InstallArtificialMedEye.jobString>
+	
+	<!--                       EN: install artificial ear -->
+	<InstallArtificialMedEar.label>установить искусственное ухо</InstallArtificialMedEar.label>
+	<!--                             EN: Installs artificial ear. -->
+	<InstallArtificialMedEar.description>Устанавливает искусственное ухо.</InstallArtificialMedEar.description>
+	<!--                           EN: Installing artificial ear. -->
+	<InstallArtificialMedEar.jobString>Устанавливает искусственное ухо.</InstallArtificialMedEar.jobString>
+</LanguageData>

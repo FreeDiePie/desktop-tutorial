@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_BodyPartsMechanical.xml -->
+	<!--                 EN: mechanical hand -->
+	<MechanicalMedHand.label>механическая кисть</MechanicalMedHand.label>
+	<!--                       EN: A mechanical hand. -->
+	<MechanicalMedHand.description>Механическая кисть.</MechanicalMedHand.description>
+	
+	<!--                EN: mechanical arm -->
+	<MechanicalMedArm.label>механическая рука</MechanicalMedArm.label>
+	<!--                      EN: A mechanical arm. -->
+	<MechanicalMedArm.description>Механическая рука.</MechanicalMedArm.description>
+	
+	<!--                EN: mechanical leg -->
+	<MechanicalMedLeg.label>механическая нога</MechanicalMedLeg.label>
+	<!--                      EN: A mechanical leg. -->
+	<MechanicalMedLeg.description>Механическая нога.</MechanicalMedLeg.description>
+	
+	<!--                 EN: mechanical foot -->
+	<MechanicalMedFoot.label>механическая стопа</MechanicalMedFoot.label>
+	<!--                       EN: A mechanical foot. -->
+	<MechanicalMedFoot.description>Механическая стопа.</MechanicalMedFoot.description>
+	
+	<!--                EN: mechanical toe -->
+	<MechanicalMedToe.label>механический палец ноги</MechanicalMedToe.label>
+	<!--                      EN: A mechanical toe. -->
+	<MechanicalMedToe.description>Механический палец ноги.</MechanicalMedToe.description>
+	
+	<!--                   EN: mechanical finger -->
+	<MechanicalMedFinger.label>механический палец</MechanicalMedFinger.label>
+	<!--                         EN: A mechanical finger. -->
+	<MechanicalMedFinger.description>Механический палец.</MechanicalMedFinger.description>
+	
+	<!--                 EN: Mechanical Nose -->
+	<MechanicalMedNose.label>механический нос</MechanicalMedNose.label>
+	<!--                       EN: A fairly convincing non-functional facsimile of a nose. -->
+	<MechanicalMedNose.description>Довольно убедительная, но нефункциональная имитация носа.</MechanicalMedNose.description>
+	
+	<!--                EN: Mechanical Eye -->
+	<MechanicalMedEye.label>механический глаз</MechanicalMedEye.label>
+	<!--                      EN: A fairly convincing non-functional facsimile of an eye. -->
+	<MechanicalMedEye.description>Довольно убедительная, но нефункциональная имитация глаза.</MechanicalMedEye.description>
+	
+	<!--                EN: Ear Trumpet -->
+	<MechanicalMedEar.label>слуховая труба</MechanicalMedEar.label>
+	<!--                      EN: A curious contraption crafted to amplify sound for those hard of hearing. This tubular device, shaped like a funnel, channels the whispers of the world directly to the ear. Whether forged from sheet metal, carved from wood, or fashioned from snail shells or horns, it grants the wearer sharper hearing — a rare boon in these trying times. A marvel of ingenuity in an era of simplicity. -->
+	<MechanicalMedEar.description>Любопытное приспособление, созданное для усиления звука у людей с ослабленным слухом. Это трубчатое устройство, напоминающее воронку, направляет шёпот окружающего мира прямо в ухо. Будь то листовой металл, резное дерево, раковины улиток или рога — оно дарует носителю более острый слух, редкое благо в эти тяжёлые времена. Настоящее чудо изобретательности в эпоху простоты.</MechanicalMedEar.description>
+</LanguageData>

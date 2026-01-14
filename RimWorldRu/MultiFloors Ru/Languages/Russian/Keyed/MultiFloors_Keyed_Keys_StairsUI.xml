@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- transfer settings tab -->
+	<!-- EN: Transfer -->
+	<MF_StairTransferTabLabel>Перемещение</MF_StairTransferTabLabel>
+	<!-- EN: Exclusive -->
+	<MF_ExclusiveStairsStorageSettings>Исключительно</MF_ExclusiveStairsStorageSettings>
+	<!-- EN: When toggled on, it will automatically disallow all currently allowed things on the connected stairs to prevent hauling back and forth. -->
+	<MF_ExclusiveStairsStorageSettingsTooltip>При включении автоматически запрещает все разрешённые в данный момент предметы на подключённых лестницах, чтобы предотвратить перемещение туда-сюда.</MF_ExclusiveStairsStorageSettingsTooltip>
+	<!-- EN: To transfer -->
+	<MF_StairToLoadListTabLabel>Для перемещения</MF_StairToLoadListTabLabel>
+
+		<!-- power transmit tab -->
+	<!-- EN: Power -->
+	<MF_StairPowerTabLabel>Энергия</MF_StairPowerTabLabel>
+	<!-- EN: Not connected to any power net. Connect it with power conduit. -->
+	<MF_StairNotConnectedToPowerNet>Не подключено к энергосети. Подключите с помощью силового кабеля.</MF_StairNotConnectedToPowerNet>
+	<!-- EN: Net power output in connected nets: {0}W -->
+	<MF_NetOutputInPowerNetGroup>Чистая выработка в подключённых сетях: {0}Вт</MF_NetOutputInPowerNetGroup>
+	<!-- EN: A positive value means the power network is producing more electricity than it consumes. Any surplus is used to charge connected batteries in the net.\nA negative value means the opposite: the network is short on power and will draw energy from available batteries. -->
+	<MF_NetOutputInPowerNetGroupTooltip>Положительное значение означает, что энергосеть производит больше электричества, чем потребляет. Излишек используется для зарядки подключённых батарей в сети.\nОтрицательное значение означает обратное: в сети нехватка энергии, и она будет брать энергию из доступных батарей.</MF_NetOutputInPowerNetGroupTooltip>
+	<!-- EN: Throughput in connected nets: {0}W -->
+	<MF_ThroughputInPowerNetGroup>Пропускная способность в подключённых сетях: {0}Вт</MF_ThroughputInPowerNetGroup>
+	<!-- EN: Power transmitted around connected power nets. -->
+	<MF_ThroughputInPowerNetGroupTooltip>Энергия, передаваемая по подключённым энергосетям.</MF_ThroughputInPowerNetGroupTooltip>
+	<!-- EN: Power transmitted to this node: {0}W -->
+	<MF_PowerTransmitted>Энергия, переданная этому узлу: {0}Вт</MF_PowerTransmitted>
+	<!-- EN: Power Breakdown: -->
+	<MF_PowerBreakdown>Детализация энергии:</MF_PowerBreakdown>
+	<!-- EN: Net output in this net -->
+	<MF_NetOutputInCurrentPowerNet>Чистая выработка в этой сети</MF_NetOutputInCurrentPowerNet>
+
+		<!-- transfer policy tab -->
+	<!-- EN: Policy -->
+	<MF_StairTransferPolicyTabLabel>Политика</MF_StairTransferPolicyTabLabel>
+	<!-- EN: Allowed -->
+	<MF_TransferPolicyTabAllowedDefs>Разрешено</MF_TransferPolicyTabAllowedDefs>
+	<!-- EN: Search def, click on them to add an entry in policy -->
+	<MF_TransferPolicyTabSearchDesc>Найдите определения, щёлкните по ним, чтобы добавить запись в политику</MF_TransferPolicyTabSearchDesc>
+	<!-- EN: Adjust current policy -->
+	<MF_TransferPolicyTabEntryDesc>Настройте текущую политику</MF_TransferPolicyTabEntryDesc>
+	<!-- EN: The stairs will periodically search for the allowed items in Transfer settings and automatically add them to the transfer list. You can prevent overloading or unnecessary transfers by setting a max amount here. If the resource counter on the target level shows that there are enough of an item, it won’t add that item to the transfer list anymore. Conversely, a negative setting will keep the appropriate number of items on current level and transfer the rest to the target level. -->
+	<MF_TransferPolicyTabEntryTooltip>Лестницы будут периодически искать разрешённые предметы в настройках перемещения и автоматически добавлять их в список перемещения. Вы можете предотвратить перегрузку или ненужные перемещения, установив здесь максимальное количество. Если счётчик ресурсов на целевом уровне показывает, что предметов достаточно, они больше не будут добавляться в список перемещения. И наоборот, отрицательная настройка оставит соответствующее количество предметов на текущем уровне, а остальное переместит на целевой уровень.</MF_TransferPolicyTabEntryTooltip>
+	<!-- EN: Count everything -->
+	<MF_TransferPolicyCountEverything>Считать всё</MF_TransferPolicyCountEverything>
+	<!-- EN: When toggle off, it only count items in the stockpile. -->
+	<MF_TransferPolicyCountEverythingTooltip>При выключении считаются только предметы на складе.</MF_TransferPolicyCountEverythingTooltip>
+	<!-- EN: Max allowed: -->
+	<MF_MaxCountToTransfer>Максимум разрешено:</MF_MaxCountToTransfer>
+
+		<!-- bill listener -->
+	<!-- EN: Link to other level -->
+	<MF_ListenBillGiver>Связь с другим уровнем</MF_ListenBillGiver>
+	<!-- EN: Pawns won’t automatically haul missing ingredients across levels. However, when toggled on, the workbench will automatically scan for missing ingredients on the linked level and add them to the haul queue. The performance impact depends on how many types are allowed in the bill filter, so try to keep it as minimal as possible. Turn it off if you have a dedicated stockpile on this level and it would do nothing. -->
+	<MF_ListenBillGiverTooltip>Пешки не будут автоматически переносить недостающие ингредиенты между уровнями. Однако при включении верстак будет автоматически сканировать недостающие ингредиенты на связанном уровне и добавлять их в очередь переноски. Влияние на производительность зависит от того, сколько типов разрешено в фильтре заказа, поэтому старайтесь минимизировать его. Выключите, если на этом уровне есть специальный склад и это ничего не даст.</MF_ListenBillGiverTooltip>
+	<!-- EN: Link to level -->
+	<MF_BillGiverLinkedMap>Связь с уровнем</MF_BillGiverLinkedMap>
+	<!-- EN: Link to other level so pawns could haul missing ingredients from there. -->
+	<MF_BillGiverLinkedMapTooltip>Свяжите с другим уровнем, чтобы пешки могли переносить недостающие ингредиенты оттуда.</MF_BillGiverLinkedMapTooltip>
+</LanguageData>

@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- 1.6\Defs\WorkGiverDefs\WorkGiver.xml -->
+	<!--                              EN: deliver resources across level -->
+	<MF_DeliverResourcesAcrossLevel.label>доставлять ресурсы между уровнями</MF_DeliverResourcesAcrossLevel.label>
+	<!--                             EN: deliver -->
+	<MF_DeliverResourcesAcrossLevel.verb>доставить</MF_DeliverResourcesAcrossLevel.verb>
+	<!--                               EN: delivering -->
+	<MF_DeliverResourcesAcrossLevel.gerund>доставка</MF_DeliverResourcesAcrossLevel.gerund>
+	
+	<!--                                   EN: fix broken-down building across level -->
+	<MF_FixBrokenDownBuildingAcrossLevel.label>ремонтировать сломанные постройки между уровнями</MF_FixBrokenDownBuildingAcrossLevel.label>
+	<!--                                  EN: replace broken components in -->
+	<MF_FixBrokenDownBuildingAcrossLevel.verb>заменить сломанные компоненты в</MF_FixBrokenDownBuildingAcrossLevel.verb>
+	<!--                                    EN: replacing broken components in -->
+	<MF_FixBrokenDownBuildingAcrossLevel.gerund>замена сломанных компонентов в</MF_FixBrokenDownBuildingAcrossLevel.gerund>
+	
+	<!--                          EN: haul designated thing across level -->
+	<MF_HaulDesignatedToDestMap.label>переносить отмеченные предметы между уровнями</MF_HaulDesignatedToDestMap.label>
+	<!--                         EN: haul -->
+	<MF_HaulDesignatedToDestMap.verb>перенести</MF_HaulDesignatedToDestMap.verb>
+	<!--                           EN: hauling -->
+	<MF_HaulDesignatedToDestMap.gerund>перенос</MF_HaulDesignatedToDestMap.gerund>
+	
+	<!--                          EN: rescue downed allies across level -->
+	<MF_RescueDownedAcrossLevel.label>спасать раненых союзников между уровнями</MF_RescueDownedAcrossLevel.label>
+	<!--                         EN: rescue -->
+	<MF_RescueDownedAcrossLevel.verb>спасти</MF_RescueDownedAcrossLevel.verb>
+	<!--                           EN: rescuing -->
+	<MF_RescueDownedAcrossLevel.gerund>спасение</MF_RescueDownedAcrossLevel.gerund>
+</LanguageData>

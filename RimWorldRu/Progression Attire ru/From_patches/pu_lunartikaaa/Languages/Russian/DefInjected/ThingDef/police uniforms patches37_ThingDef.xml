@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\pu_lunartikaaa\police uniforms patches37.xml -->
+	<!--         EN: police uniform (class b) -->
+	<PU_ClassB.label>police uniform (class b)</PU_ClassB.label>
+	<!--         EN: police uniform (class a) -->
+	<PU_ClassA.label>police uniform (class a)</PU_ClassA.label>
+	<!--       EN: police service cap -->
+	<PU_CapA.label>police service cap</PU_CapA.label>
+</LanguageData>

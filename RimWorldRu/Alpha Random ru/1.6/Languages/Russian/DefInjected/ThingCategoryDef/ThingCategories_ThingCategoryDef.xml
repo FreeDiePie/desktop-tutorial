@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingCategoryDefs\ThingCategories.xml -->
+
+	<!-- EN: loot boxes -->
+	<ARandom_LootBoxes.label>лутбоксы</ARandom_LootBoxes.label>
+
+	<!-- EN: fate manipulation devices -->
+	<ARandom_FateDevices.label>устройства манипуляции судьбой</ARandom_FateDevices.label>
+</LanguageData>

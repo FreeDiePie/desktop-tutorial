@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\KeyBindings\KeyBindings.xml -->
+	<!--                   EN: lower level -->
+	<MF_LowerLevelHotKey.label>нижний уровень</MF_LowerLevelHotKey.label>
+	<!--                   EN: upper level -->
+	<MF_UpperLevelHotKey.label>верхний уровень</MF_UpperLevelHotKey.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Apparel.xml -->
+
+	<!--                             EN: keycard -->
+	<SecurityClearanceKeycardLayer.label>ключ-карта</SecurityClearanceKeycardLayer.label>
+	
+	<!--                                    EN: keycard (special clearance) -->
+	<SecurityClearanceSpecialKeycardLayer.label>ключ-карта (особый допуск)</SecurityClearanceSpecialKeycardLayer.label>
+</LanguageData>

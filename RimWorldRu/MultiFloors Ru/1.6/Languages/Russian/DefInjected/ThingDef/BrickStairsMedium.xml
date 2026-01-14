@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_BrickStairsMUpA.label>кирпичная средняя лестница вверх</MF_BrickStairsMUpA.label>
+  <MF_BrickStairsMUpA.description>Набор среднешироких кирпичных лестниц для подъема. Прочные и эстетически приятные. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_BrickStairsMUpA.description>
+
+  <MF_BrickStairsMDownA.label>кирпичная средняя лестница вниз</MF_BrickStairsMDownA.label>
+  <MF_BrickStairsMDownA.description>Набор среднешироких кирпичных лестниц для спуска. Долговечные и стильные. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_BrickStairsMDownA.description>
+
+  <MF_BrickStairsMExitA.label>конечная средняя кирпичная лестница</MF_BrickStairsMExitA.label>
+  <MF_BrickStairsMExitA.description>Конечная точка набора средних кирпичных лестниц.</MF_BrickStairsMExitA.description>
+
+
+</LanguageData>

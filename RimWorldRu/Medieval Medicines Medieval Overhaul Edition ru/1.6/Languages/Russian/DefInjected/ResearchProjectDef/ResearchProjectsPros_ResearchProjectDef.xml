@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\ResearchProjectsPros.xml -->
+	<!--          EN: Crude Limbs -->
+	<CrudeLimbs.label>грубые конечности</CrudeLimbs.label>
+	<!--                EN: Basic, uncomfortable, and ineffective, but better than nothing. Can now craft shoddy limb replacements at a Crafting Spot or Workbench. -->
+	<CrudeLimbs.description>Примитивные, неудобные и неэффективные, но лучше, чем ничего. Позволяет изготавливать грубые заменители конечностей на месте для крафта или верстаке.</CrudeLimbs.description>
+	
+	<!--               EN: Artificial Limbs -->
+	<ArtificialLimbs.label>искусственные конечности</ArtificialLimbs.label>
+	<!--                     EN: Still quite unrefined, but better than the shoddy limbs that came before. Artificial limbs can now be crafted at a Workbench. -->
+	<ArtificialLimbs.description>Всё ещё довольно несовершенные, но лучше грубых конечностей предыдущего уровня. Искусственные конечности теперь можно изготавливать на верстаке.</ArtificialLimbs.description>
+	
+	<!--               EN: Mechanical Limbs -->
+	<MechanicalLimbs.label>механические конечности</MechanicalLimbs.label>
+	<!--                     EN: Intricately crafted limbs with many pulleys and gears. While these are a great improvement, the mechanics of the human body are tough to reproduce. Mechanical limbs can be crafted at a Workbench. -->
+	<MechanicalLimbs.description>Сложно устроенные конечности с множеством шестерёнок и блоков. Хотя это значительный шаг вперёд, механику человеческого тела по-прежнему трудно воспроизвести. Механические конечности можно изготавливать на верстаке.</MechanicalLimbs.description>
+	
+	<!--              EN: Paresian Limbs -->
+	<AmbroisenLimbs.label>парезийские конечности</AmbroisenLimbs.label>
+	<!--                    EN: Incredible engineering and craftmanship utilized in tangent with mystical enchantments have allowed for elegant limbs that are on par with natural limbs. Quite time and resource expensive. Paresian limbs can be crafted at an Alchemy Bench. -->
+	<AmbroisenLimbs.description>Невероятные инженерные решения и мастерство, использованные в сочетании с мистическими чарами, позволили создать изящные конечности, не уступающие естественным. Требуют значительных затрат времени и ресурсов. Парезийские конечности можно изготавливать на алхимическом верстаке.</AmbroisenLimbs.description>
+</LanguageData>

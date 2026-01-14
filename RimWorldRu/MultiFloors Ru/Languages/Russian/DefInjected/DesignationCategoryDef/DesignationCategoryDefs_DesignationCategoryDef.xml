@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\Designations\DesignationCategoryDefs.xml -->
+	<!--           EN: MultiFloors -->
+	<MultiFloors.label>Многоэтажность</MultiFloors.label>
+	<!--                 EN: Build upwards and downwards. -->
+	<MultiFloors.description>Строить вверх и вниз.</MultiFloors.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_medievalfantasyquestrewards\MechSerumRenamerPatch1.xml -->
+	
+	<!--                         EN: administer greater healing potion -->
+	<AdministerMechSerumHealer.label>Ввести большое лечебное зелье</AdministerMechSerumHealer.label>
+	<!--                               EN: administer a greater healing potion -->
+	<AdministerMechSerumHealer.description>Ввести большое лечебное зелье.</AdministerMechSerumHealer.description>
+	<!--                             EN: administering a greater healing potion -->
+	<AdministerMechSerumHealer.jobString>Вводит большое лечебное зелье.</AdministerMechSerumHealer.jobString>
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\ThoughtDef_RoxberryStout.xml -->
+	<!--                                    EN: drank awful roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.0.label>выпил ужасный роксберийский стаут</DankPyon_DrankRoxberryStout.stages.0.label>
+	<!--                                          EN: I had the unfortunate experience of drinking awful-quality roxberry stout. The taste still lingers, haunting my thoughts. -->
+	<DankPyon_DrankRoxberryStout.stages.0.description>Мне не повезло выпить ужасного качества роксберийский стаут. Вкус до сих пор не выветривается, преследуя мои мысли.</DankPyon_DrankRoxberryStout.stages.0.description>
+	<!--                                    EN: drank poor roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.1.label>выпил плохой роксберийский стаут</DankPyon_DrankRoxberryStout.stages.1.label>
+	<!--                                          EN: I drank some poor-quality roxberry stout. The taste was less than satisfying -->
+	<DankPyon_DrankRoxberryStout.stages.1.description>Я выпил роксберийский стаут плохого качества. Вкус оставлял желать лучшего.</DankPyon_DrankRoxberryStout.stages.1.description>
+	<!--                                    EN: drank normal roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.2.label>выпил обычный роксберийский стаут</DankPyon_DrankRoxberryStout.stages.2.label>
+	<!--                                          EN: I drank some average roxberry stout. -->
+	<DankPyon_DrankRoxberryStout.stages.2.description>Я выпил обычный роксберийский стаут среднего качества.</DankPyon_DrankRoxberryStout.stages.2.description>
+	<!--                                    EN: drank good roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.3.label>выпил хороший роксберийский стаут</DankPyon_DrankRoxberryStout.stages.3.label>
+	<!--                                          EN: The taste of the good-quality roxberry stout you just drank lingers on your paldrank, bringing a smile to your face. -->
+	<DankPyon_DrankRoxberryStout.stages.3.description>Вкус только что выпитого хорошего роксберийского стаута ещё долго будет на языке, вызывая улыбку на лице.</DankPyon_DrankRoxberryStout.stages.3.description>
+	<!--                                    EN: drank excellent roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.4.label>выпил отличный роксберийский стаут</DankPyon_DrankRoxberryStout.stages.4.label>
+	<!--                                          EN: The incredible taste of the excellent-quality roxberry stout you just indulged in has left you in a stdrank of pure culinary delight -->
+	<DankPyon_DrankRoxberryStout.stages.4.description>Невероятный вкус только что отведанного превосходного роксберийского стаута оставил вас в состоянии чистого кулинарного восторга.</DankPyon_DrankRoxberryStout.stages.4.description>
+	<!--                                    EN: drank masterwork roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.5.label>выпил шедевральный роксберийский стаут</DankPyon_DrankRoxberryStout.stages.5.label>
+	<!--                                          EN: The unparalleled taste of the masterwork-quality roxberry stout you just savored has transported you to a realm of gustatory ecstasy. -->
+	<DankPyon_DrankRoxberryStout.stages.5.description>Бесподобный вкус только что отведанного шедеврального роксберийского стаута перенёс вас в царство вкусового экстаза.</DankPyon_DrankRoxberryStout.stages.5.description>
+	<!--                                    EN: drank legendary roxberry stout -->
+	<DankPyon_DrankRoxberryStout.stages.6.label>выпил легендарный роксберийский стаут</DankPyon_DrankRoxberryStout.stages.6.label>
+	<!--                                          EN: The divine taste of the legendary-quality roxberry stout you just experienced has forever altered your perception of culinary perfection. -->
+	<DankPyon_DrankRoxberryStout.stages.6.description>Божественный вкус только что испробованного легендарного роксберийского стаута навсегда изменил ваше представление о кулинарном совершенстве.</DankPyon_DrankRoxberryStout.stages.6.description>
+</LanguageData>

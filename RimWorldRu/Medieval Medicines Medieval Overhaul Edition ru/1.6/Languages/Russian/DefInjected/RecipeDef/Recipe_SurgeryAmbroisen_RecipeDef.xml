@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_SurgeryAmbroisen.xml -->
+	<!--                       EN: install Paresian hand -->
+	<InstallAmbroisenMedHand.label>установить парезийскую кисть</InstallAmbroisenMedHand.label>
+	<!--                             EN: Installs Paresian hand. -->
+	<InstallAmbroisenMedHand.description>Устанавливает парезийскую кисть.</InstallAmbroisenMedHand.description>
+	<!--                           EN: Installing Paresian hand. -->
+	<InstallAmbroisenMedHand.jobString>Устанавливает парезийскую кисть.</InstallAmbroisenMedHand.jobString>
+	
+	<!--                      EN: install Paresian arm -->
+	<InstallAmbroisenMedArm.label>установить парезийскую руку</InstallAmbroisenMedArm.label>
+	<!--                            EN: Installs Paresian arm. -->
+	<InstallAmbroisenMedArm.description>Устанавливает парезийскую руку.</InstallAmbroisenMedArm.description>
+	<!--                          EN: Installing Paresian arm. -->
+	<InstallAmbroisenMedArm.jobString>Устанавливает парезийскую руку.</InstallAmbroisenMedArm.jobString>
+	
+	<!--                      EN: install Paresian leg -->
+	<InstallAmbroisenMedLeg.label>установить парезийскую ногу</InstallAmbroisenMedLeg.label>
+	<!--                            EN: Installs Paresian leg. -->
+	<InstallAmbroisenMedLeg.description>Устанавливает парезийскую ногу.</InstallAmbroisenMedLeg.description>
+	<!--                          EN: Installing Paresian leg. -->
+	<InstallAmbroisenMedLeg.jobString>Устанавливает парезийскую ногу.</InstallAmbroisenMedLeg.jobString>
+	
+	<!--                       EN: install Paresian foot -->
+	<InstallAmbroisenMedFoot.label>установить парезийскую стопу</InstallAmbroisenMedFoot.label>
+	<!--                             EN: Installs Paresian foot. -->
+	<InstallAmbroisenMedFoot.description>Устанавливает парезийскую стопу.</InstallAmbroisenMedFoot.description>
+	<!--                           EN: Installing Paresian foot. -->
+	<InstallAmbroisenMedFoot.jobString>Устанавливает парезийскую стопу.</InstallAmbroisenMedFoot.jobString>
+	
+	<!--                         EN: install Paresian finger -->
+	<InstallAmbroisenMedFinger.label>установить парезийский палец</InstallAmbroisenMedFinger.label>
+	<!--                               EN: Installs Paresian finger. -->
+	<InstallAmbroisenMedFinger.description>Устанавливает парезийский палец.</InstallAmbroisenMedFinger.description>
+	<!--                             EN: Installing Paresian finger. -->
+	<InstallAmbroisenMedFinger.jobString>Устанавливает парезийский палец.</InstallAmbroisenMedFinger.jobString>
+	
+	<!--                      EN: install Paresian toe -->
+	<InstallAmbroisenMedToe.label>установить парезийский палец ноги</InstallAmbroisenMedToe.label>
+	<!--                            EN: Installs Paresian toe. -->
+	<InstallAmbroisenMedToe.description>Устанавливает парезийский палец ноги.</InstallAmbroisenMedToe.description>
+	<!--                          EN: Installing Paresian toe. -->
+	<InstallAmbroisenMedToe.jobString>Устанавливает парезийский палец ноги.</InstallAmbroisenMedToe.jobString>
+	
+	<!--                       EN: install Paresian nose -->
+	<InstallAmbroisenMedNose.label>установить парезийский нос</InstallAmbroisenMedNose.label>
+	<!--                             EN: Installs Paresian nose. -->
+	<InstallAmbroisenMedNose.description>Устанавливает парезийский нос.</InstallAmbroisenMedNose.description>
+	<!--                           EN: Installing Paresian nose. -->
+	<InstallAmbroisenMedNose.jobString>Устанавливает парезийский нос.</InstallAmbroisenMedNose.jobString>
+	
+	<!--                      EN: install Paresian eye -->
+	<InstallAmbroisenMedEye.label>установить парезийский глаз</InstallAmbroisenMedEye.label>
+	<!--                            EN: Installs Paresian eye. -->
+	<InstallAmbroisenMedEye.description>Устанавливает парезийский глаз.</InstallAmbroisenMedEye.description>
+	<!--                          EN: Installing Paresian eye. -->
+	<InstallAmbroisenMedEye.jobString>Устанавливает парезийский глаз.</InstallAmbroisenMedEye.jobString>
+	
+	<!--                      EN: install Paresian ear -->
+	<InstallAmbroisenMedEar.label>установить парезийское ухо</InstallAmbroisenMedEar.label>
+	<!--                            EN: Installs Paresian ear. -->
+	<InstallAmbroisenMedEar.description>Устанавливает парезийское ухо.</InstallAmbroisenMedEar.description>
+	<!--                          EN: Installing Paresian ear. -->
+	<InstallAmbroisenMedEar.jobString>Устанавливает парезийское ухо.</InstallAmbroisenMedEar.jobString>
+</LanguageData>

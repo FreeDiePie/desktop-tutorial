@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\ToughtDefs_ManaPotions.xml -->
+
+	<!--                              EN: mana potion -->
+	<Joe_LesserManaThought.stages.0.label>зелье маны</Joe_LesserManaThought.stages.0.label>
+	<!--                                    EN: Quaffing that Minor Mana Elixir filled me with such euphoria, I already crave another. I pray I don’t succumb to its enchanting allure. -->
+	<Joe_LesserManaThought.stages.0.description>Глоток малого эликсира маны наполнил меня такой эйфорией, что я уже жажду следующего. Молю, чтобы я не поддался его чарующему соблазну.</Joe_LesserManaThought.stages.0.description>
+	
+	<!--                             EN: mana potion -->
+	<Joe_MinorManaThought.stages.0.label>зелье маны</Joe_MinorManaThought.stages.0.label>
+	<!--                                   EN: Quaffing that Minor Mana Elixir filled me with such euphoria, I already crave another. I pray I don’t succumb to its enchanting allure. -->
+	<Joe_MinorManaThought.stages.0.description>Глоток малого эликсира маны наполнил меня такой эйфорией, что я уже жажду следующего. Молю, чтобы я не поддался его чарующему соблазну.</Joe_MinorManaThought.stages.0.description>
+</LanguageData>

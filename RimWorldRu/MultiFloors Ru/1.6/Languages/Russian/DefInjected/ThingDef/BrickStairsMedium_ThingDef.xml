@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\BrickStairsMedium.xml -->
+	<!--                    EN: stair entrance -->
+	<MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+	<!--                          EN: A set of medium-width brick stairs designed for ascending. Durable and aesthetically pleasing. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_StairEntranceBase.description>Набор кирпичных лестниц средней ширины, предназначенных для подъёма вверх. Прочные и эстетически приятные. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_StairEntranceBase.description>
+	
+	<!--                        EN: A set of medium-width brick stairs designed for ascending. Durable and aesthetically pleasing. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_BrickStairsMUpA.description>Набор кирпичных лестниц средней ширины, предназначенных для подъёма вверх. Прочные и эстетически приятные. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_BrickStairsMUpA.description>
+	<!--                  EN: Z-shaped medium brick stairs up -->
+	<MF_BrickStairsMUpA.label>Z-образные кирпичные лестницы среднего размера вверх</MF_BrickStairsMUpA.label>
+	
+	<!--                               EN: A set of medium-width brick stairs designed for ascending. Durable and aesthetically pleasing. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_BrickStairsMUpAFlipped.description>Набор кирпичных лестниц средней ширины, предназначенных для подъёма вверх. Прочные и эстетически приятные. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_BrickStairsMUpAFlipped.description>
+	<!--                         EN: medium brick stairs up -->
+	<MF_BrickStairsMUpAFlipped.label>кирпичные лестницы среднего размера вверх</MF_BrickStairsMUpAFlipped.label>
+	
+	<!--                    EN: stair entrance -->
+	<MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+	<!--                          EN: A set of medium-width brick stairs leading down. Built to last and adds a touch of style. Cannot be built on upper levels. -->
+	<MF_StairEntranceBase.description>Набор кирпичных лестниц средней ширины, ведущих вниз. Построены на века и добавляют стиля. Нельзя строить на верхних уровнях.</MF_StairEntranceBase.description>
+	
+	<!--                          EN: A set of medium-width brick stairs leading down. Built to last and adds a touch of style. Cannot be built on upper levels. -->
+	<MF_BrickStairsMDownA.description>Набор кирпичных лестниц средней ширины, ведущих вниз. Построены на века и добавляют стиля. Нельзя строить на верхних уровнях.</MF_BrickStairsMDownA.description>
+	<!--                    EN: Z-shaped medium brick stairs down -->
+	<MF_BrickStairsMDownA.label>Z-образные кирпичные лестницы среднего размера вниз</MF_BrickStairsMDownA.label>
+	
+	<!--                                 EN: A set of medium-width brick stairs leading down. Built to last and adds a touch of style. Cannot be built on upper levels. -->
+	<MF_BrickStairsMDownAFlipped.description>Набор кирпичных лестниц средней ширины, ведущих вниз. Построены на века и добавляют стиля. Нельзя строить на верхних уровнях.</MF_BrickStairsMDownAFlipped.description>
+	<!--                           EN: medium brick stairs down -->
+	<MF_BrickStairsMDownAFlipped.label>кирпичные лестницы среднего размера вниз</MF_BrickStairsMDownAFlipped.label>
+	
+	<!--                EN: medium brick stairs exit -->
+	<MF_StairExitBase.label>выход с кирпичных лестниц среднего размера</MF_StairExitBase.label>
+	<!--                      EN: The endpoint of a set of medium brick stairs. -->
+	<MF_StairExitBase.description>Конечная точка набора кирпичных лестниц среднего размера.</MF_StairExitBase.description>
+	
+	<!--                    EN: medium brick stairs exit -->
+	<MF_BrickStairsMExitA.label>выход с кирпичных лестниц среднего размера</MF_BrickStairsMExitA.label>
+	<!--                          EN: The endpoint of a set of medium brick stairs. -->
+	<MF_BrickStairsMExitA.description>Конечная точка набора кирпичных лестниц среднего размера.</MF_BrickStairsMExitA.description>
+	
+	<!--                           EN: medium brick stairs exit -->
+	<MF_BrickStairsMExitAFlipped.label>выход с кирпичных лестниц среднего размера</MF_BrickStairsMExitAFlipped.label>
+	<!--                                 EN: The endpoint of a set of medium brick stairs. -->
+	<MF_BrickStairsMExitAFlipped.description>Конечная точка набора кирпичных лестниц среднего размера.</MF_BrickStairsMExitAFlipped.description>
+</LanguageData>

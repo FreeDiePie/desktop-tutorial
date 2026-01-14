@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_SurgeryBasicProsthetics.xml -->
+	<!--              EN: install metallic arm -->
+	<InstallIronArm.label>установить металлическую руку</InstallIronArm.label>
+	<!--                    EN: Installs metallic arm. -->
+	<InstallIronArm.description>Устанавливает металлическую руку.</InstallIronArm.description>
+	<!--                  EN: Installing metallic arm. -->
+	<InstallIronArm.jobString>Устанавливает металлическую руку.</InstallIronArm.jobString>
+	
+	<!--                     EN: install prosthetic hook -->
+	<InstallProstheticHook.label>установить протез-крюк</InstallProstheticHook.label>
+	<!--                           EN: Installs prosthetic hook. -->
+	<InstallProstheticHook.description>Устанавливает протез-крюк.</InstallProstheticHook.description>
+	<!--                         EN: Installing prosthetic hook. -->
+	<InstallProstheticHook.jobString>Устанавливает протез-крюк.</InstallProstheticHook.jobString>
+	
+	<!--                 EN: install wooden foot -->
+	<InstallWoodenFoot.label>установить деревянную стопу</InstallWoodenFoot.label>
+	<!--                       EN: Installs wooden foot. -->
+	<InstallWoodenFoot.description>Устанавливает деревянную стопу.</InstallWoodenFoot.description>
+	<!--                     EN: Installing wooden foot. -->
+	<InstallWoodenFoot.jobString>Устанавливает деревянную стопу.</InstallWoodenFoot.jobString>
+	
+	<!--                EN: install wooden toe -->
+	<InstallWoodenToe.label>установить деревянный палец ноги</InstallWoodenToe.label>
+	<!--                      EN: Installs wooden toe. -->
+	<InstallWoodenToe.description>Устанавливает деревянный палец ноги.</InstallWoodenToe.description>
+	<!--                    EN: Installing wooden toe. -->
+	<InstallWoodenToe.jobString>Устанавливает деревянный палец ноги.</InstallWoodenToe.jobString>
+	
+	<!--                   EN: install wooden finger -->
+	<InstallWoodenFinger.label>установить деревянный палец</InstallWoodenFinger.label>
+	<!--                         EN: Installs wooden finger. -->
+	<InstallWoodenFinger.description>Устанавливает деревянный палец.</InstallWoodenFinger.description>
+	<!--                       EN: Installing wooden finger. -->
+	<InstallWoodenFinger.jobString>Устанавливает деревянный палец.</InstallWoodenFinger.jobString>
+	
+	<!--                 EN: install wooden nose -->
+	<InstallWoodenNose.label>установить деревянный нос</InstallWoodenNose.label>
+	<!--                       EN: Installs wooden nose. -->
+	<InstallWoodenNose.description>Устанавливает деревянный нос.</InstallWoodenNose.description>
+	<!--                     EN: Installing wooden nose. -->
+	<InstallWoodenNose.jobString>Устанавливает деревянный нос.</InstallWoodenNose.jobString>
+	
+	<!--               EN: install eye patch -->
+	<InstallEyePatch.label>установить глазную повязку</InstallEyePatch.label>
+	<!--                     EN: Installs eye patch. -->
+	<InstallEyePatch.description>Устанавливает глазную повязку.</InstallEyePatch.description>
+	<!--                   EN: Installing eye patch. -->
+	<InstallEyePatch.jobString>Устанавливает глазную повязку.</InstallEyePatch.jobString>
+	
+	<!--               EN: install ear patch -->
+	<InstallEarPatch.label>установить ушную повязку</InstallEarPatch.label>
+	<!--                     EN: Installs ear patch. -->
+	<InstallEarPatch.description>Устанавливает ушную повязку.</InstallEarPatch.description>
+	<!--                   EN: Installing ear patch. -->
+	<InstallEarPatch.jobString>Устанавливает ушную повязку.</InstallEarPatch.jobString>
+</LanguageData>

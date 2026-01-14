@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- settings -->
+	<!-- EN: General -->
+	<MF_Settings_General>Общие</MF_Settings_General>
+	<!-- EN: Use top view renderer on upper levels (Restart required) -->
+	<MF_UseUpperLevelRenderer>Использовать вид сверху на верхних уровнях (требуется перезапуск)</MF_UseUpperLevelRenderer>
+	<!-- EN: Render from top to bottom on upper levels that you can see things on lower levels. Dynamic things and pawns are not visible. -->
+	<MF_UseUpperLevelRendererTooltip>Отрисовывать сверху вниз на верхних уровнях, чтобы видеть объекты на нижних уровнях. Динамические объекты и пешки не видны.</MF_UseUpperLevelRendererTooltip>
+	<!-- EN: Blur lower levels (Restart required) -->
+	<MF_BlurringLowerLevels>Размывать нижние уровни (требуется перезапуск)</MF_BlurringLowerLevels>
+	<!-- EN: Add blurring effects to lower levels when rendering upper levels. -->
+	<MF_BlurringLowerLevelsTooltip>Добавлять эффект размытия к нижним уровням при отрисовке верхних.</MF_BlurringLowerLevelsTooltip>
+	<!-- EN: Draw underlying roof -->
+	<MF_DrawRoofTexture>Показывать нижнюю крышу</MF_DrawRoofTexture>
+	<!-- EN: Render constructed roof on lower levels before building foundations. -->
+	<MF_DrawRoofTextureTooltip>Отрисовывать построенную крышу на нижних уровнях перед строительством фундаментов.</MF_DrawRoofTextureTooltip>
+	<!-- EN: Fixed camera vertical transition -->
+	<MF_FixedCameraVerticalTransition>Фиксированный переход камеры по вертикали</MF_FixedCameraVerticalTransition>
+	<!-- EN: Hotkeys will switch levels with current camera position and zoom size. -->
+	<MF_FixedCameraVerticalTransitionTooltip>Горячие клавиши будут переключать уровни с сохранением текущей позиции камеры и масштаба.</MF_FixedCameraVerticalTransitionTooltip>
+	<!-- EN: Sort maps by level in colonist bar (Restart required) -->
+	<MF_SortMapByLevelInColonistBar>Сортировать карты по уровням в панели колонистов (требуется перезапуск)</MF_SortMapByLevelInColonistBar>
+	<!-- EN: Allow gatherings on other levels (Restart required) -->
+	<MF_AllowsGatheringsOnOtherLevels>Разрешить собрания на других уровнях (требуется перезапуск)</MF_AllowsGatheringsOnOtherLevels>
+	<!-- EN: When turned off, gatherings like party and concert will only happen on the ground. -->
+	<MF_AllowsGatheringsOnOtherLevelsTooltip>Если выключено, собрания (вечеринки, концерты) будут происходить только на основном уровне.</MF_AllowsGatheringsOnOtherLevelsTooltip>
+
+	<!-- EN: Map Generation -->
+	<MF_Settings_MapGen>Генерация карты</MF_Settings_MapGen>
+	<!-- EN: Generate rocks on upper levels -->
+	<MF_GenerateRocksOnUpperLevels>Генерировать скалы на верхних уровнях</MF_GenerateRocksOnUpperLevels>
+	<!-- EN: Generate random rocks for mountain to simulate hill continuation. Might increase the loading time of your save. -->
+	<MF_GenerateRocksOnUpperLevelsTooltip>Генерировать случайные скалы для гор, имитируя продолжение холмов. Может увеличить время загрузки сохранения.</MF_GenerateRocksOnUpperLevelsTooltip>
+	<!-- EN: Generate basement without caves -->
+	<MF_GenerateBasementWithoutCaves>Генерировать подвал без пещер</MF_GenerateBasementWithoutCaves>
+	<!-- EN: When enabled, basements will only generate with rocks and possible ores. -->
+	<MF_GenerateBasementWithoutCavesTooltip>Если включено, подвалы будут генерироваться только со скалами и возможными рудами.</MF_GenerateBasementWithoutCavesTooltip>
+
+	<!-- EN: Needs -->
+	<MF_Settings_Needs>Потребности</MF_Settings_Needs>
+	<!-- EN: Set living level when assigning bed -->
+	<MF_SetLivingLevelWhenAssigningBed>Устанавливать уровень проживания при назначении кровати</MF_SetLivingLevelWhenAssigningBed>
+	<!-- EN: Also set joy and diet level when assigning bed -->
+	<MF_SetOtherLevelWhenAssigningBed>Также устанавливать уровень развлечений и питания при назначении кровати</MF_SetOtherLevelWhenAssigningBed>
+	<!-- EN: Pawns would be redirected to their living/diet/joy level when their need is low. If they move to other levels, don't redirect them immediately. -->
+	<MF_RedirectIntervalDesc>Пешки будут перенаправляться на свой уровень проживания/питания/развлечений, когда их потребность низка. Если они перемещаются на другие уровни, не перенаправлять их сразу.</MF_RedirectIntervalDesc>
+	<!-- EN: Redirect interval: -->
+	<MF_RedirectInterval>Интервал перенаправления:</MF_RedirectInterval>
+
+	<!-- EN: Stairs -->
+	<MF_Settings_Stairs>Лестницы</MF_Settings_Stairs>
+	<!-- EN: Flip stair destination cell -->
+	<MF_FlipStairDestinationCell>Отразить ячейку назначения лестницы</MF_FlipStairDestinationCell>
+	<!-- EN: Stairs are designed as Z shape. If you have retexture mod that flips it, you can turn this on to spawn pawns on the correct destination. -->
+	<MF_FlipStairDestinationCellTooltip>Лестницы спроектированы как Z-форма. Если у вас есть мод ретекстуры, который их отражает, включите это, чтобы пешки появлялись в правильном месте.</MF_FlipStairDestinationCellTooltip>
+	<!-- EN: Min room size for stairs -->
+	<MF_MinRoomSizeForStairs>Мин. размер комнаты для лестниц</MF_MinRoomSizeForStairs>
+	<!-- EN: Wait tick switching between levels -->
+	<MF_SwitchLevelWaitTick>Задержка тиков при переключении уровней</MF_SwitchLevelWaitTick>
+	<!-- EN: Heat would be exchanged through stairs. Configure how fast they should synchronize between two rooms. -->
+	<MF_HeatExchangeEfficiencyDesc>Тепло будет обмениваться через лестницы. Настройте, как быстро оно должно синхронизироваться между двумя комнатами.</MF_HeatExchangeEfficiencyDesc>
+	<!-- EN: Heat exchange efficiency: -->
+	<MF_HeatExchangeEfficiency>Эффективность теплообмена:</MF_HeatExchangeEfficiency>
+	<!-- EN: Power, heat, gas will be exchanged between levels on a regular basis. But you can make it rarer. -->
+	<MF_ExchangeIntervalMultiplierDesc>Энергия, тепло, газ будут регулярно обмениваться между уровнями. Но вы можете сделать это реже.</MF_ExchangeIntervalMultiplierDesc>
+	<!-- EN: Exchange interval multiplier: {0} -->
+	<MF_ExchangeIntervalMultiplier>Множитель интервала обмена: {0}</MF_ExchangeIntervalMultiplier>
+	<!-- EN: Transfer "orders" will also be added periodically once you set them in Transfer tab of stairs. -->
+	<MF_AutoTransferIntervalMultiplierDesc>"Заказы" на перемещение также будут периодически добавляться после настройки во вкладке "Перемещение" лестницы.</MF_AutoTransferIntervalMultiplierDesc>
+	<!-- EN: Auto transfer interval multiplier: {0} -->
+	<MF_AutoTransferIntervalMultiplier>Множитель интервала авто-перемещения: {0}</MF_AutoTransferIntervalMultiplier>
+
+	<!-- EN: Work -->
+	<MF_Settings_Work>Работа</MF_Settings_Work>
+	<!-- EN: Use prioritized cross-level work scanner (Restart required) -->
+	<MF_UsePrioritizedScanner>Использовать приоритетный сканер работ между уровнями (требуется перезапуск)</MF_UsePrioritizedScanner>
+	<!-- EN: For cases when you have lots of potential low priority works on current map, but want pawns to do high-priority works on other levels first. Check Floors tab for more information. -->
+	<MF_UsePrioritizedScannerTooltip>Для случаев, когда на текущей карте много потенциальных низкоприоритетных работ, но вы хотите, чтобы пешки сначала выполняли высокоприоритетные работы на других уровнях. Подробнее см. вкладку "Этажи".</MF_UsePrioritizedScannerTooltip>
+	<!-- EN: Works with higher or equal priority to this cutoff would be evaluated on all levels before low-priority works on pawns' current map. -->
+	<MF_WorkGiverHighPriorityThresholdDesc>Работы с приоритетом выше или равным этому порогу будут оцениваться на всех уровнях перед низкоприоритетными работами на текущей карте пешки.</MF_WorkGiverHighPriorityThresholdDesc>
+	<!-- EN: Cross level work priority threshold: {0} -->
+	<MF_WorkGiverHighPriorityThreshold>Порог приоритета работ между уровнями: {0}</MF_WorkGiverHighPriorityThreshold>
+	<!-- EN: Add a gizmo to restrict a pawn to always stay on current level. (Restart required) -->
+	<MF_AddStayOnCurrentMapGizmo>Добавить виджет, ограничивающий пешку текущим уровнем (требуется перезапуск)</MF_AddStayOnCurrentMapGizmo>
+	<!-- EN: Experimental cross level hauling -->
+	<MF_UseExperimentalHauling>Экспементальное перемещение грузов между уровнями</MF_UseExperimentalHauling>
+	<!-- EN: Without using transfer settings or policies, pawns will automatically haul haulables not in stockpiles or in lower-priority stockpiles to a feasible one on other levels. Alternatively, you can turn this off and use transfer settings and policies to fully control the hauling. -->
+	<MF_UseExperimentalHaulingTooltip>Без использования настроек или политик перемещения пешки будут автоматически переносить переносимые предметы не в складах или в складах с низким приоритетом на подходящий склад на других уровнях. Либо отключите это и используйте настройки и политики перемещения для полного контроля.</MF_UseExperimentalHaulingTooltip>
+	<!-- EN: Pawns will stay on the level if you right click stairs and proiritize works there. -->
+	<MF_TickToLockIfPrioritizedDesc>Пешки останутся на уровне, если вы щёлкните правой кнопкой по лестнице и установите приоритет работ там.</MF_TickToLockIfPrioritizedDesc>
+	<!-- EN: Stay ticks: -->
+	<MF_TickToLockIfPrioritized>Тиков пребывания:</MF_TickToLockIfPrioritized>
+
+	<!-- EN: Reset to default -->
+	<MF_Settings_ResetToDefault>Сбросить к умолчанию</MF_Settings_ResetToDefault>
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\ChemicalDef_ManaPotions.xml -->
+	
+	<!--                   EN: mana potion addiction -->
+	<ManaPotionAddiction.label>зависимость от зелья маны</ManaPotionAddiction.label>
+	<!--                         EN: A chemical addiction to mana potion. Long-term presence of mana potion has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+		
+Without regular doses of mana potion, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+	<ManaPotionAddiction.description>Химическая зависимость от зелья маны. Длительное присутствие зелья маны вызвало неврологические адаптации на клеточном уровне, из-за чего мозг больше не может нормально функционировать без этого вещества.
+
+Без регулярных доз зелья маны начнут проявляться симптомы ломки. Однако продолжительное воздержание заставит мозг вернуться к нормальному состоянию, устранив зависимость.</ManaPotionAddiction.description>
+	<!--                            EN: withdrawal -->
+	<ManaPotionAddiction.stages.0.label>ломка</ManaPotionAddiction.stages.0.label>
+	
+	<!--                   EN: mana potion tolerance -->
+	<ManaPotionTolerance.label>толерантность к зелью маны</ManaPotionTolerance.label>
+	<!--                         EN: A built-up tolerance to mana potion. The more severe this tolerance is, the more mana potion it takes to get the same effect. -->
+	<ManaPotionTolerance.description>Выработанная толерантность к зелью маны. Чем сильнее выражена эта толерантность, тем больше зелья маны требуется для достижения того же эффекта.</ManaPotionTolerance.description>
+</LanguageData>

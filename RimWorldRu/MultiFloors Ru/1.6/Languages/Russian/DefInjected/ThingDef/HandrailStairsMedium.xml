@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_HandrailStairsMUpA.label>средняя лестница с перилами вверх</MF_HandrailStairsMUpA.label>
+  <MF_HandrailStairsMUpA.description>Среднеширокие лестницы с прочными перилами для подъема. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_HandrailStairsMUpA.description>
+
+  <MF_HandrailStairsMDownA.label>средняя лестница с перилами вниз</MF_HandrailStairsMDownA.label>
+  <MF_HandrailStairsMDownA.description>Среднеширокие лестницы с прочными перилами для спуска. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_HandrailStairsMDownA.description>
+
+  <MF_HandrailStairsMExitA.label>выход средней лестницы с перилами</MF_HandrailStairsMExitA.label>
+  <MF_HandrailStairsMExitA.description>Конечная точка средних лестниц с перилами.</MF_HandrailStairsMExitA.description>
+
+
+</LanguageData>

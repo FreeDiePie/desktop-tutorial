@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\ThoughtDefs_LesserHealing.xml -->
+	<!--                                 EN: malaise of the bowel -->
+	<Joe_LesserHealingThought.stages.0.label>кишечное недомогание</Joe_LesserHealingThought.stages.0.label>
+	<!--                                       EN: A sense of malaise grips my bowels, an unsettling unease that has left me weakened. It must be due to the lesser healing potion I consumed. -->
+	<Joe_LesserHealingThought.stages.0.description>Меня охватило кишечное недомогание — тревожное ощущение, оставившее меня ослабленным. Должно быть, это из-за малого лечебного зелья, которое я выпил.</Joe_LesserHealingThought.stages.0.description>
+</LanguageData>

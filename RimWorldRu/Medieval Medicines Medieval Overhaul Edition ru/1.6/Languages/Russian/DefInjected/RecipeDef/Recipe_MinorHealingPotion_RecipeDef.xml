@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_MinorHealingPotion.xml -->
+	<!--                      EN: Make Minor Healing Potion -->
+	<Joe_MinorHealingRecipe.label>Создать слабое лечебное зелье</Joe_MinorHealingRecipe.label>
+	<!--                            EN: A bottle containing an alchemical minor healing potion that boosts healing and immunity. -->
+	<Joe_MinorHealingRecipe.description>Бутылка с алхимическим слабым лечебным зельем, усиливающим заживление и иммунитет.</Joe_MinorHealingRecipe.description>
+	<!--                          EN: Making Minor Healing Potion. -->
+	<Joe_MinorHealingRecipe.jobString>Создаёт слабое лечебное зелье.</Joe_MinorHealingRecipe.jobString>
+	
+	<!--                          EN: Make Minor Healing Potion x5 -->
+	<Joe_MinorHealingRecipeBulk.label>Создать слабое лечебное зелье ×5</Joe_MinorHealingRecipeBulk.label>
+	<!--                                EN: A bottle containing an alchemical minor healing potion that boosts healing and immunity. -->
+	<Joe_MinorHealingRecipeBulk.description>Бутылка с алхимическим слабым лечебным зельем, усиливающим заживление и иммунитет.</Joe_MinorHealingRecipeBulk.description>
+	<!--                              EN: Making Minor Healing Potion x5. -->
+	<Joe_MinorHealingRecipeBulk.jobString>Создаёт слабое лечебное зелье ×5.</Joe_MinorHealingRecipeBulk.jobString>
+</LanguageData>

@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_BodyPartsAmbroisen.xml -->
+	<!--                EN: Paresian hand -->
+	<AmbroisenMedHand.label>парезийская кисть</AmbroisenMedHand.label>
+	<!--                      EN: A Paresian hand. -->
+	<AmbroisenMedHand.description>Парезийская кисть.</AmbroisenMedHand.description>
+	
+	<!--               EN: Paresian arm -->
+	<AmbroisenMedArm.label>парезийская рука</AmbroisenMedArm.label>
+	<!--                     EN: A Paresian arm. -->
+	<AmbroisenMedArm.description>Парезийская рука.</AmbroisenMedArm.description>
+	
+	<!--               EN: Paresian leg -->
+	<AmbroisenMedLeg.label>парезийская нога</AmbroisenMedLeg.label>
+	<!--                     EN: A Paresian leg. -->
+	<AmbroisenMedLeg.description>Парезийская нога.</AmbroisenMedLeg.description>
+	
+	<!--                EN: Paresian foot -->
+	<AmbroisenMedFoot.label>парезийская стопа</AmbroisenMedFoot.label>
+	<!--                      EN: A Paresian foot. -->
+	<AmbroisenMedFoot.description>Парезийская стопа.</AmbroisenMedFoot.description>
+	
+	<!--               EN: Paresian toe -->
+	<AmbroisenMedToe.label>парезийский палец ноги</AmbroisenMedToe.label>
+	<!--                     EN: A Paresian toe. -->
+	<AmbroisenMedToe.description>Парезийский палец ноги.</AmbroisenMedToe.description>
+	
+	<!--                  EN: Paresian finger -->
+	<AmbroisenMedFinger.label>парезийский палец</AmbroisenMedFinger.label>
+	<!--                        EN: A Paresian finger. -->
+	<AmbroisenMedFinger.description>Парезийский палец.</AmbroisenMedFinger.description>
+	
+	<!--                EN: Paresian nose -->
+	<AmbroisenMedNose.label>парезийский нос</AmbroisenMedNose.label>
+	<!--                      EN: An enchanted functional nose replacement. It's magic! Restores taste and smell almost like a regular nose. -->
+	<AmbroisenMedNose.description>Зачарованная функциональная замена носа. Магия! Восстанавливает вкус и обоняние почти как у обычного носа.</AmbroisenMedNose.description>
+	
+	<!--               EN: Paresian eye -->
+	<AmbroisenMedEye.label>парезийский глаз</AmbroisenMedEye.label>
+	<!--                     EN: An enchanted functional eye replacement. It's magic! Restores sight almost like a natural eye. -->
+	<AmbroisenMedEye.description>Зачарованная функциональная замена глаза. Магия! Восстанавливает зрение почти как у естественного глаза.</AmbroisenMedEye.description>
+	
+	<!--               EN: Paresian ear -->
+	<AmbroisenMedEar.label>парезийское ухо</AmbroisenMedEar.label>
+	<!--                     EN: An enchanted functional ear replacement. It's magic! Restores hearing almost like a natural ear. -->
+	<AmbroisenMedEar.description>Зачарованная функциональная замена уха. Магия! Восстанавливает слух почти как у естественного уха.</AmbroisenMedEar.description>
+</LanguageData>

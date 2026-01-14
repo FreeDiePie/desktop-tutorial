@@ -1,0 +1,46 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\HandrailStairsSmall.xml -->
+	<!--                    EN: stair entrance -->
+	<MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+	<!--                          EN: Narrow stairs with a simple handrail for ascending. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_StairEntranceBase.description>Узкие лестницы с простыми перилами для подъёма вверх. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_StairEntranceBase.description>
+	
+	<!--                           EN: Narrow stairs with a simple handrail for ascending. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_HandrailStairsSUpA.description>Узкие лестницы с простыми перилами для подъёма вверх. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_HandrailStairsSUpA.description>
+	<!--                     EN: Z-shaped small handrail stairs up -->
+	<MF_HandrailStairsSUpA.label>Z-образные малые лестницы с перилами вверх</MF_HandrailStairsSUpA.label>
+	
+	<!--                                  EN: Narrow stairs with a simple handrail for ascending. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_HandrailStairsSUpAFlipped.description>Узкие лестницы с простыми перилами для подъёма вверх. Требуют крытого внутреннего помещения. Нельзя строить под землёй.</MF_HandrailStairsSUpAFlipped.description>
+	<!--                            EN: small handrail stairs up -->
+	<MF_HandrailStairsSUpAFlipped.label>малые лестницы с перилами вверх</MF_HandrailStairsSUpAFlipped.label>
+	
+	<!--                       EN: small handrail stairs down -->
+	<MF_HandrailStairsSDownA.label>малые лестницы с перилами вниз</MF_HandrailStairsSDownA.label>
+	<!--                             EN: Narrow stairs with a simple handrail leading down. Cannot be built on upper levels. -->
+	<MF_HandrailStairsSDownA.description>Узкие лестницы с простыми перилами, ведущие вниз. Нельзя строить на верхних уровнях.</MF_HandrailStairsSDownA.description>
+	<!--                       EN: Z-shaped small handrail stairs down -->
+	<MF_HandrailStairsSDownA.label>Z-образные малые лестницы с перилами вниз(Z-образные хехехе)</MF_HandrailStairsSDownA.label>
+	<!--                             EN: Narrow stairs with a simple handrail leading down. Cannot be built on upper levels. -->
+	<MF_HandrailStairsSDownA.description>Узкие лестницы с простыми перилами, ведущие вниз. Нельзя строить на верхних уровнях.</MF_HandrailStairsSDownA.description>
+	
+	<!--                              EN: small handrail stairs down -->
+	<MF_HandrailStairsSDownAFlipped.label>малые лестницы с перилами вниз</MF_HandrailStairsSDownAFlipped.label>
+	<!--                                    EN: Narrow stairs with a simple handrail leading down. Cannot be built on upper levels. -->
+	<MF_HandrailStairsSDownAFlipped.description>Узкие лестницы с простыми перилами, ведущие вниз. Нельзя строить на верхних уровнях.</MF_HandrailStairsSDownAFlipped.description>
+	
+	<!--                EN: small handrail stairs exit -->
+	<MF_StairExitBase.label>выход с малых лестниц с перилами</MF_StairExitBase.label>
+	<!--                      EN: The endpoint of a small handrail stairs. -->
+	<MF_StairExitBase.description>Конечная точка малых лестниц с перилами.</MF_StairExitBase.description>
+	
+	<!--                       EN: small handrail stairs exit -->
+	<MF_HandrailStairsSExitA.label>выход с малых лестниц с перилами</MF_HandrailStairsSExitA.label>
+	<!--                             EN: The endpoint of a small handrail stairs. -->
+	<MF_HandrailStairsSExitA.description>Конечная точка малых лестниц с перилами.</MF_HandrailStairsSExitA.description>
+	
+	<!--                              EN: small handrail stairs exit -->
+	<MF_HandrailStairsSExitAFlipped.label>выход с малых лестниц с перилами</MF_HandrailStairsSExitAFlipped.label>
+	<!--                                    EN: The endpoint of a small handrail stairs. -->
+	<MF_HandrailStairsSExitAFlipped.description>Конечная точка малых лестниц с перилами.</MF_HandrailStairsSExitAFlipped.description>
+</LanguageData>

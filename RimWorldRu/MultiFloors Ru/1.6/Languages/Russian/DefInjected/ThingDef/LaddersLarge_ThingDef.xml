@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\LaddersLarge.xml -->
+	<!--             EN: large ladder up -->
+	<MF_LadderLUpA.label>большая лестница вверх</MF_LadderLUpA.label>
+	<!--                   EN: A sturdy, wide ladder for ascending to a higher level. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_LadderLUpA.description>Прочная широкая лестница для подъёма на более высокий уровень. Требует крытого внутреннего помещения. Нельзя строить под землёй.</MF_LadderLUpA.description>
+	
+	<!--               EN: large ladder down -->
+	<MF_LadderLDownA.label>большая лестница вниз</MF_LadderLDownA.label>
+	<!--                     EN: A sturdy, wide ladder leading to a lower level. Cannot be built on upper levels. -->
+	<MF_LadderLDownA.description>Прочная широкая лестница, ведущая на нижний уровень. Нельзя строить на верхних уровнях.</MF_LadderLDownA.description>
+	
+	<!--               EN: large ladder exit -->
+	<MF_LadderLExitA.label>выход с большой лестницы</MF_LadderLExitA.label>
+	<!--                     EN: The endpoint of a large ladder. -->
+	<MF_LadderLExitA.description>Конечная точка большой лестницы.</MF_LadderLExitA.description>
+</LanguageData>

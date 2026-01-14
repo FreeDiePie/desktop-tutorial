@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\Odyssey\Defs\ThingDefs_Buildings\ShipStairs.xml -->
+	<!--                  EN: gravship stairs -->
+	<MF_GravshipStairsA.label>лестница гравикорабля</MF_GravshipStairsA.label>
+	<!--                        EN: A ladder for Gravship. It extends the area in which substructure can be built on upper decks. Requires an indoor, roofed room. -->
+	<MF_GravshipStairsA.description>Лестница для гравикорабля. Расширяет область, в которой можно строить подконструкции на верхних палубах. Требует крытого помещения в помещении.</MF_GravshipStairsA.description>
+	
+	<!--                      EN: gravship stairs exit -->
+	<MF_GravshipStairsExitA.label>выход лестницы гравикорабля</MF_GravshipStairsExitA.label>
+	<!--                            EN: The endpoint of a gravship stairs. -->
+	<MF_GravshipStairsExitA.description>Конечная точка лестницы гравикорабля.</MF_GravshipStairsExitA.description>
+</LanguageData>

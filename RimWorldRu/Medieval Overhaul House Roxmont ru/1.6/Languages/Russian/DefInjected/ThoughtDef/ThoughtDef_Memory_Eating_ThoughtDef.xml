@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\ThoughtDef_Memory_Eating.xml -->
+	<!--                             EN: ate rox feast -->
+	<DankPyon_AteRoxFeast.stages.0.label>отведал пир рокса</DankPyon_AteRoxFeast.stages.0.label>
+	<!--                                   EN: The tender steak melts with each bite, and the rich broth elevates the dish’s flavor. Such a scrumptious meal, what a feast! -->
+	<DankPyon_AteRoxFeast.stages.0.description>Нежный стейк тает с каждым укусом, а насыщенный бульон усиливает вкус блюда. Какой восхитительный обед, вот это пир!</DankPyon_AteRoxFeast.stages.0.description>
+	
+	<!--                             EN: ate rox roast -->
+	<DankPyon_AteRoxRoast.stages.0.label>отведал жаркое из рокса</DankPyon_AteRoxRoast.stages.0.label>
+	<!--                                   EN: This rox roast harbor a savory and smoky flavor! -->
+	<DankPyon_AteRoxRoast.stages.0.description>Это жаркое из рокса имеет пикантный и копчёный вкус!</DankPyon_AteRoxRoast.stages.0.description>
+</LanguageData>

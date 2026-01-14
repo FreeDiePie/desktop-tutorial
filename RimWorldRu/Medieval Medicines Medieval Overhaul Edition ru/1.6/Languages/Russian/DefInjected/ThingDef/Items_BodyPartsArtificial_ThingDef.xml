@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_BodyPartsArtificial.xml -->
+	<!--                 EN: artificial hand -->
+	<ArtificialMedHand.label>искусственная кисть</ArtificialMedHand.label>
+	<!--                       EN: An artificial hand. -->
+	<ArtificialMedHand.description>Искусственная кисть.</ArtificialMedHand.description>
+	
+	<!--                EN: artificial arm -->
+	<ArtificialMedArm.label>искусственная рука</ArtificialMedArm.label>
+	<!--                      EN: An artificial arm. -->
+	<ArtificialMedArm.description>Искусственная рука.</ArtificialMedArm.description>
+	
+	<!--                EN: artificial leg -->
+	<ArtificialMedLeg.label>искусственная нога</ArtificialMedLeg.label>
+	<!--                      EN: An artificial leg. -->
+	<ArtificialMedLeg.description>Искусственная нога.</ArtificialMedLeg.description>
+	
+	<!--                 EN: artificial foot -->
+	<ArtificialMedFoot.label>искусственная стопа</ArtificialMedFoot.label>
+	<!--                       EN: An artificial foot. -->
+	<ArtificialMedFoot.description>Искусственная стопа.</ArtificialMedFoot.description>
+	
+	<!--                EN: artificial toe -->
+	<ArtificialMedToe.label>искусственный палец ноги</ArtificialMedToe.label>
+	<!--                      EN: An artificial toe. -->
+	<ArtificialMedToe.description>Искусственный палец ноги.</ArtificialMedToe.description>
+	
+	<!--                   EN: artificial finger -->
+	<ArtificialMedFinger.label>искусственный палец</ArtificialMedFinger.label>
+	<!--                         EN: An artificial finger. -->
+	<ArtificialMedFinger.description>Искусственный палец.</ArtificialMedFinger.description>
+	
+	<!--                 EN: artificial nose -->
+	<ArtificialMedNose.label>искусственный нос</ArtificialMedNose.label>
+	<!--                       EN: A non-functional artificial nose. Looks better than a hole in your head. You might not scare the children as much. -->
+	<ArtificialMedNose.description>Нефункциональный искусственный нос. Выглядит лучше, чем дыра на лице. Возможно, вы будете меньше пугать детей.</ArtificialMedNose.description>
+	
+	<!--                EN: artificial eye -->
+	<ArtificialMedEye.label>искусственный глаз</ArtificialMedEye.label>
+	<!--                      EN: An non-functional artificial eye. Looks better than a hole in your head. You might not scare the children as much. -->
+	<ArtificialMedEye.description>Нефункциональный искусственный глаз. Выглядит лучше, чем дыра на лице. Возможно, вы будете меньше пугать детей.</ArtificialMedEye.description>
+	
+	<!--                EN: artificial ear -->
+	<ArtificialMedEar.label>искусственное ухо</ArtificialMedEar.label>
+	<!--                      EN: An non-functional artificial ear. Looks better than a hole in your head. You might not scare the children as much. -->
+	<ArtificialMedEar.description>Нефункциональное искусственное ухо. Выглядит лучше, чем дыра на лице. Возможно, вы будете меньше пугать детей.</ArtificialMedEar.description>
+</LanguageData>

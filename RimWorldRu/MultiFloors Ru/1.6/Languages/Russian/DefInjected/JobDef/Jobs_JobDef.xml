@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- 1.6\Defs\JobDefs\Jobs.xml -->
+	<!--                                 EN: changing level -->
+	<MF_ChangeLevelThroughStair.reportString>смена уровня</MF_ChangeLevelThroughStair.reportString>
+	<!--                                     EN: delivering resources across level -->
+	<MF_DeliverResourcesAcrossLevel.reportString>доставка ресурсов между уровнями</MF_DeliverResourcesAcrossLevel.reportString>
+	<!--                            EN: delivering -->
+	<MF_DeliverToContainer.reportString>доставка</MF_DeliverToContainer.reportString>
+	<!--                                      EN: hauling across level -->
+	<MF_HaulDesignatedThingToDestMap.reportString>перенос между уровнями</MF_HaulDesignatedThingToDestMap.reportString>
+	<!--                         EN: unloading -->
+	<MF_UnloadInventory.reportString>разгрузка</MF_UnloadInventory.reportString>
+	<!--                                  EN: capturing entity across level -->
+	<MF_CaptureEntityAcrossLevel.reportString>захват сущности между уровнями</MF_CaptureEntityAcrossLevel.reportString>
+	<!--                                   EN: transferring entity across level -->
+	<MF_TransferEntityAcrossLevel.reportString>перемещение сущности между уровнями</MF_TransferEntityAcrossLevel.reportString>
+	<!--                      EN: carrying {0} to ground -->
+	<MF_TakeToGround.reportString>несёт {0} на землю</MF_TakeToGround.reportString>
+	<!--                              EN: kidnapping {0} -->
+	<MF_TakeKidnapeeToGround.reportString>похищает {0}</MF_TakeKidnapeeToGround.reportString>
+	<!--                                          EN: fixing broken-down building -->
+	<MF_FixBrokenDownBuildingAcrossLevel.reportString>ремонт сломанной постройки</MF_FixBrokenDownBuildingAcrossLevel.reportString>
+	<!--                               EN: fixing broken-down building -->
+	<MF_FixBrokenDownBuilding.reportString>ремонт сломанной постройки</MF_FixBrokenDownBuilding.reportString>
+	<!--                            EN: rescuing TargetA. -->
+	<MF_RescueToOtherLevel.reportString>спасение TargetA.</MF_RescueToOtherLevel.reportString>
+	<!--                             EN: capturing TargetA. -->
+	<MF_CaptureToOtherLevel.reportString>захват TargetA.</MF_CaptureToOtherLevel.reportString>
+	<!--                            EN: arresting TargetA. -->
+	<MF_ArrestToOtherLevel.reportString>арест TargetA.</MF_ArrestToOtherLevel.reportString>
+</LanguageData>

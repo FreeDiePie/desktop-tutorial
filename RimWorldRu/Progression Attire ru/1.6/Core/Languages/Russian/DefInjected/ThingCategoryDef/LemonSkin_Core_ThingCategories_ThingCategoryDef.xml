@@ -1,0 +1,87 @@
+<LanguageData>
+	<!-- 1.6\Core\Defs\LemonSkin_Core_ThingCategories.xml -->
+	<!--                          EN: neolithic apparel -->
+	<LemonSkin_NeolithicApparel.label>neolithic apparel</LemonSkin_NeolithicApparel.label>
+	<!--                           EN: headgear -->
+	<LemonSkin_NeolithicHeadgear.label>headgear</LemonSkin_NeolithicHeadgear.label>
+	<!--                        EN: armor -->
+	<LemonSkin_NeolithicArmor.label>armor</LemonSkin_NeolithicArmor.label>
+	<!--                                EN: headgear -->
+	<LemonSkin_NeolithicArmorHeadgear.label>headgear</LemonSkin_NeolithicArmorHeadgear.label>
+	<!--                          EN: shields -->
+	<LemonSkin_NeolithicShields.label>shields</LemonSkin_NeolithicShields.label>
+	<!--                          EN: utility -->
+	<LemonSkin_NeolithicUtility.label>utility</LemonSkin_NeolithicUtility.label>
+	<!--                         EN: medieval apparel -->
+	<LemonSkin_MedievalApparel.label>medieval apparel</LemonSkin_MedievalApparel.label>
+	<!--                          EN: headgear -->
+	<LemonSkin_MedievalHeadgear.label>headgear</LemonSkin_MedievalHeadgear.label>
+	<!--                       EN: armor -->
+	<LemonSkin_MedievalArmor.label>armor</LemonSkin_MedievalArmor.label>
+	<!--                               EN: headgear -->
+	<LemonSkin_MedievalArmorHeadgear.label>headgear</LemonSkin_MedievalArmorHeadgear.label>
+	<!--                         EN: shields -->
+	<LemonSkin_MedievalShields.label>shields</LemonSkin_MedievalShields.label>
+	<!--                         EN: utility -->
+	<LemonSkin_MedievalUtility.label>utility</LemonSkin_MedievalUtility.label>
+	<!--                           EN: industrial apparel -->
+	<LemonSkin_IndustrialApparel.label>industrial apparel</LemonSkin_IndustrialApparel.label>
+	<!--                            EN: headgear -->
+	<LemonSkin_IndustrialHeadgear.label>headgear</LemonSkin_IndustrialHeadgear.label>
+	<!--                         EN: armor -->
+	<LemonSkin_IndustrialArmor.label>armor</LemonSkin_IndustrialArmor.label>
+	<!--                                 EN: headgear -->
+	<LemonSkin_IndustrialArmorHeadgear.label>headgear</LemonSkin_IndustrialArmorHeadgear.label>
+	<!--                           EN: shields -->
+	<LemonSkin_IndustrialShields.label>shields</LemonSkin_IndustrialShields.label>
+	<!--                           EN: utility -->
+	<LemonSkin_IndustrialUtility.label>utility</LemonSkin_IndustrialUtility.label>
+	<!--                       EN: spacer apparel -->
+	<LemonSkin_SpacerApparel.label>spacer apparel</LemonSkin_SpacerApparel.label>
+	<!--                        EN: headgear -->
+	<LemonSkin_SpacerHeadgear.label>headgear</LemonSkin_SpacerHeadgear.label>
+	<!--                     EN: armor -->
+	<LemonSkin_SpacerArmor.label>armor</LemonSkin_SpacerArmor.label>
+	<!--                             EN: headgear -->
+	<LemonSkin_SpacerArmorHeadgear.label>headgear</LemonSkin_SpacerArmorHeadgear.label>
+	<!--                       EN: shields -->
+	<LemonSkin_SpacerShields.label>shields</LemonSkin_SpacerShields.label>
+	<!--                       EN: utility -->
+	<LemonSkin_SpacerUtility.label>utility</LemonSkin_SpacerUtility.label>
+	<!--                      EN: ultra-tech apparel -->
+	<LemonSkin_UltraApparel.label>ultra-tech apparel</LemonSkin_UltraApparel.label>
+	<!--                       EN: headgear -->
+	<LemonSkin_UltraHeadgear.label>headgear</LemonSkin_UltraHeadgear.label>
+	<!--                    EN: armor -->
+	<LemonSkin_UltraArmor.label>armor</LemonSkin_UltraArmor.label>
+	<!--                            EN: headgear -->
+	<LemonSkin_UltraArmorHeadgear.label>headgear</LemonSkin_UltraArmorHeadgear.label>
+	<!--                      EN: shields -->
+	<LemonSkin_UltraShields.label>shields</LemonSkin_UltraShields.label>
+	<!--                      EN: utility -->
+	<LemonSkin_UltraUtility.label>utility</LemonSkin_UltraUtility.label>
+	<!--                         EN: prisoner apparel -->
+	<LemonSkin_PrisonerApparel.label>prisoner apparel</LemonSkin_PrisonerApparel.label>
+	<!--                          EN: headgear -->
+	<LemonSkin_PrisonerHeadgear.label>headgear</LemonSkin_PrisonerHeadgear.label>
+	<!--                  EN: workwear -->
+	<LemonSkin_Workwear.label>workwear</LemonSkin_Workwear.label>
+	<!--                          EN: headgear -->
+	<LemonSkin_WorkwearHeadgear.label>headgear</LemonSkin_WorkwearHeadgear.label>
+	<!--                 EN: costumes -->
+	<LemonSkin_Costume.label>costumes</LemonSkin_Costume.label>
+	<!--                         EN: headgear -->
+	<LemonSkin_CostumeHeadgear.label>headgear</LemonSkin_CostumeHeadgear.label>
+	<!--                       EN: vanity apparel -->
+	<LemonSkin_VanityApparel.label>vanity apparel</LemonSkin_VanityApparel.label>
+	<!--                        EN: headgear -->
+	<LemonSkin_VanityHeadgear.label>headgear</LemonSkin_VanityHeadgear.label>
+	<!--                    EN: kid apparel -->
+	<LemonSkin_KidApparel.label>kid apparel</LemonSkin_KidApparel.label>
+	<!--                     EN: headgear -->
+	<LemonSkin_KidHeadgear.label>headgear</LemonSkin_KidHeadgear.label>
+	<!--                  EN: armor -->
+	<LemonSkin_KidArmor.label>armor</LemonSkin_KidArmor.label>
+	<!--                          EN: armor -->
+	<LemonSkin_KidArmorHeadgear.label>armor</LemonSkin_KidArmorHeadgear.label>
+</LanguageData>

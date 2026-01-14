@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="MF_StairEntranceBase">
+		<defName>MF_LadderLUpA</defName>
+		<label>большая лестница вверх</label>
+		<description>Прочная широкая лестница для подъема. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</description>
+		<rotatable>true</rotatable>
+		<size>(1, 2)</size>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+      		<WorkToBuild>2000</WorkToBuild>
+    	</statBases>
+		<uiOrder>3020</uiOrder>
+		<graphicData>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<texPath>Buildings/LadderLarge/LadderLUp</texPath>
+			<drawSize>(2, 2)</drawSize>
+			<drawOffsetWest>(0, 0, 0.5)</drawOffsetWest>
+			<drawOffsetEast>(0, 0, 0.5)</drawOffsetEast>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<isUpstairs>true</isUpstairs>
+				<connectedToExitDef>MF_LadderLExitA</connectedToExitDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+	<ThingDef ParentName="MF_StairEntranceBase">
+		<defName>MF_LadderLDownA</defName>
+		<label>большая лестница вниз</label>
+		<description>Прочная широкая лестница для спуска. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</description>
+		<rotatable>true</rotatable>
+		<size>(1, 2)</size>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+      		<WorkToBuild>2000</WorkToBuild>
+    	</statBases>
+		<uiOrder>3020</uiOrder>
+		<graphicData>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<texPath>Buildings/LadderLarge/LadderLDown</texPath>
+			<drawSize>(2, 2)</drawSize>
+			<drawOffsetNorth>(0, 0, -0.1)</drawOffsetNorth>
+			<drawOffsetSouth>(0, 0, -0.1)</drawOffsetSouth>
+			<drawOffsetWest>(-0.05, 0, 0.45)</drawOffsetWest>
+			<drawOffsetEast>(0.05, 0, 0.45)</drawOffsetEast>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<isUpstairs>false</isUpstairs>
+				<connectedToExitDef>MF_LadderLExitA</connectedToExitDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+	<ThingDef ParentName="MF_StairExitBase">
+		<defName>MF_LadderLExitA</defName>
+		<label>выход большой лестницы</label>
+		<description>Конечная точка большой лестницы.</description>
+		<rotatable>true</rotatable>
+		<size>(1, 2)</size>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Woody</li>
+			<li>Stony</li>
+		</stuffCategories>
+		<costStuffCount>25</costStuffCount>
+		<graphicData>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<texPath>Buildings/LadderLarge/LadderLUp</texPath>
+			<drawSize>(2, 2)</drawSize>
+		</graphicData>
+		<modExtensions>
+			<li Class="MultiFloors.StairsModExtension">
+				<upstairsEntranceDef>MF_LadderLUpA</upstairsEntranceDef>
+				<downstairsEntranceDef>MF_LadderLDownA</downstairsEntranceDef>
+			</li>
+		</modExtensions>
+	</ThingDef>
+</Defs>

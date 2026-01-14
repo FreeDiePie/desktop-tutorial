@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\WeatherDef\Weathers.xml -->
+	<!--                    EN: upper level -->
+	<MF_UpperLevelWeather.label>верхний уровень</MF_UpperLevelWeather.label>
+	<!--                          EN: Placeholder. -->
+	<MF_UpperLevelWeather.description>Заполнитель.</MF_UpperLevelWeather.description>
+	
+	<!--                     EN: underground -->
+	<MF_UndergroundWeather.label>подземелье</MF_UndergroundWeather.label>
+	<!--                           EN: Placeholder. -->
+	<MF_UndergroundWeather.description>Заполнитель.</MF_UndergroundWeather.description>
+</LanguageData>

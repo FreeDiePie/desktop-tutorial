@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- general and foundation -->
+	<!-- EN: Can't be built on upper levels. -->
+	<MF_UnbuildableOnUpperLevels>Нельзя построить на верхних уровнях.</MF_UnbuildableOnUpperLevels>
+	<!-- EN: Can only be built on upper levels. -->
+	<MF_OnlyBuildableOnUpperLevels>Можно построить только на верхних уровнях.</MF_OnlyBuildableOnUpperLevels>
+	<!-- EN: Must be built on top of roof. -->
+	<MF_MustBeBuiltOnTopOfRoof>Должно быть построено поверх крыши.</MF_MustBeBuiltOnTopOfRoof>
+
+		<!-- stair place worker -->
+	<!-- EN: Room size is too small. Must be at least {0} cells. -->
+	<MF_RoomTooSmall>Размер комнаты слишком мал. Должно быть минимум {0} ячеек.</MF_RoomTooSmall>
+	<!-- EN: Must be built indoor and under the roof. -->
+	<MF_MustBeBuiltIndoor>Должно быть построено внутри помещения и под крышей.</MF_MustBeBuiltIndoor>
+	<!-- EN: Can't build upstairs in basement. -->
+	<MF_CantBuildUpStairInBasement>Нельзя построить лестницу вверх из подвала.</MF_CantBuildUpStairInBasement>
+	<!-- EN: Can't build upstairs without roof. -->
+	<MF_CantBuildUpStairWithoutRoof>Нельзя построить лестницу вверх без крыши.</MF_CantBuildUpStairWithoutRoof>
+	<!-- EN: Can't build downstairs on upper levels. -->
+	<MF_CantBuildDownStairAboveGround>Нельзя построить лестницу вниз на верхних уровнях.</MF_CantBuildDownStairAboveGround>
+	<!-- EN: Can't build downstairs in current biome. -->
+	<MF_CantBuildDownStairInCurrentBiome>Нельзя построить лестницу вниз в текущем биоме.</MF_CantBuildDownStairInCurrentBiome>
+	<!-- EN: Can be linked with: -->
+	<MF_PotentialElevatorToLink>Может быть связано с:</MF_PotentialElevatorToLink>
+	<!-- EN: No elevator can be linked. -->
+	<MF_NoElevatorToLinkWith>Нет лифтов для связи.</MF_NoElevatorToLinkWith>
+</LanguageData>

@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>Medieval Medicines Medieval Overhaul Edition ru</name>
+	<author>FreeDiePie</author>
+	<packageId>FDP.JoeDaly.MedMeds.MO</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/FDPLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>JoeDaly.MedMeds.MO</packageId>
+			<displayName>Medieval Medicines Medieval Overhaul Edition</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=2883228057</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>JoeDaly.MedMeds.MO</li>
+	</loadAfter>
+	<description>
+		Medieval Medicines Medieval Overhaul Edition ru
+	</description>
+</ModMetaData>

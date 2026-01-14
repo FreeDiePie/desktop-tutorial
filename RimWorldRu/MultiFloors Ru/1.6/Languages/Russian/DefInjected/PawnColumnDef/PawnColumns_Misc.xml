@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_LivingLevel.label>проживание</MF_LivingLevel.label>
+  <MF_DietLevel.label>диета</MF_DietLevel.label>
+  <MF_JoyLevel.label>развлечение</MF_JoyLevel.label>
+  <MF_MeditateLevel.label>медитация</MF_MeditateLevel.label>
+  <MF_CurrentLevel.label>текущий</MF_CurrentLevel.label>
+  <MF_StayOnCurrentMap.label>блок</MF_StayOnCurrentMap.label>
+  <MF_CrossLevelWorkScanningPriority.label>приоритет</MF_CrossLevelWorkScanningPriority.label>
+
+
+</LanguageData>

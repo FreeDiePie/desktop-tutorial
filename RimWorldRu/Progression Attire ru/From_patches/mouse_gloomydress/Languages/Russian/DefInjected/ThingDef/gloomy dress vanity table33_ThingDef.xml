@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mouse_gloomydress\gloomy dress vanity table33.xml -->
+	<!--            EN: miniature hat -->
+	<Apparel_mini.label>miniature hat</Apparel_mini.label>
+	<!--                  EN: A cute and stylish miniature headpiece. -->
+	<Apparel_mini.description>A cute and stylish miniature headpiece.</Apparel_mini.description>
+	
+	<!--                  EN: ribbon dress -->
+	<Apparel_ribondress.label>ribbon dress</Apparel_ribondress.label>
+	<!--                        EN: A cute dress adorned with a silk ribbon. -->
+	<Apparel_ribondress.description>A cute dress adorned with a silk ribbon.</Apparel_ribondress.description>
+	
+	<!--                EN: ribbon hat -->
+	<Apparel_ribonhat.label>ribbon hat</Apparel_ribonhat.label>
+	<!--                      EN: A stylish headpiece adorned with a silk ribbon. -->
+	<Apparel_ribonhat.description>A stylish headpiece adorned with a silk ribbon.</Apparel_ribonhat.description>
+	
+	<!--            EN: cutesy maid dress -->
+	<Apparel_maid.label>cutesy maid dress</Apparel_maid.label>
+	
+	<!--                EN: cutesy maid head band -->
+	<Apparel_hairband.label>cutesy maid head band</Apparel_hairband.label>
+	<!--                      EN: A cute head band to keep hair out of the eyes while working. -->
+	<Apparel_hairband.description>A cute head band to keep hair out of the eyes while working.</Apparel_hairband.description>
+	
+	<!--            EN: off-shoulder turtleneck sweater -->
+	<Apparel_neat.label>off-shoulder turtleneck sweater</Apparel_neat.label>
+	<!--                  EN: A comfortable and cute sweater. -->
+	<Apparel_neat.description>A comfortable and cute sweater.</Apparel_neat.description>
+	
+	<!--            EN: nun dress -->
+	<Apparel_nuns.label>nun dress</Apparel_nuns.label>
+	<!--                  EN: A beautiful nun's dress. -->
+	<Apparel_nuns.description>A beautiful nun's dress.</Apparel_nuns.description>
+	
+	<!--                EN: nun veil -->
+	<Apparel_nunsveil.label>nun veil</Apparel_nunsveil.label>
+	<!--                      EN: A beautiful nun's veil. -->
+	<Apparel_nunsveil.description>A beautiful nun's veil.</Apparel_nunsveil.description>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipes_LesserHealingPotion.xml -->
+	<!--                       EN: Make Lesser Healing Potion -->
+	<Joe_LesserHealingRecipe.label>Создать малое лечебное зелье</Joe_LesserHealingRecipe.label>
+	<!--                             EN: A vial containing a tribal lesser healing elixir that boosts healing and immunity. -->
+	<Joe_LesserHealingRecipe.description>Флакон с племенным малым лечебным эликсиром, усиливающим заживление и иммунитет.</Joe_LesserHealingRecipe.description>
+	<!--                           EN: Making Lesser Healing Potion. -->
+	<Joe_LesserHealingRecipe.jobString>Создаёт малое лечебное зелье.</Joe_LesserHealingRecipe.jobString>
+	
+	<!--                           EN: Make Lesser Healing Potion x5 -->
+	<Joe_LesserHealingRecipeBulk.label>Создать малое лечебное зелье ×5</Joe_LesserHealingRecipeBulk.label>
+	<!--                                 EN: A vial containing a tribal lesser healing elixir that boosts healing and immunity. -->
+	<Joe_LesserHealingRecipeBulk.description>Флакон с племенным малым лечебным эликсиром, усиливающим заживление и иммунитет.</Joe_LesserHealingRecipeBulk.description>
+	<!--                               EN: Making Lesser Healing Potion x5. -->
+	<Joe_LesserHealingRecipeBulk.jobString>Создаёт малое лечебное зелье ×5.</Joe_LesserHealingRecipeBulk.jobString>
+</LanguageData>

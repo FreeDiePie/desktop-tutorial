@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VAPPE\LemonSkin_VAPPE_Apparel_Industrial14.xml -->
+	<!--                        EN: casual t-shirt -->
+	<VAE_Apparel_CasualTShirt.label>casual t-shirt</VAE_Apparel_CasualTShirt.label>
+	<!--                       EN: shirt and tie -->
+	<VAE_Apparel_ShirtandTie.label>shirt and tie</VAE_Apparel_ShirtandTie.label>
+	<!--                      EN: suit jacket -->
+	<VAE_Apparel_SuitJacket.label>suit jacket</VAE_Apparel_SuitJacket.label>
+	<!--                    EN: suit trousers -->
+	<VAE_Apparel_Trousers.label>suit trousers</VAE_Apparel_Trousers.label>
+	<!--                       EN: fleece shirt -->
+	<VAE_Apparel_FleeceShirt.label>fleece shirt</VAE_Apparel_FleeceShirt.label>
+	<!--                        EN: chef's uniform -->
+	<VAE_Apparel_ChefsUniform.label>chef's uniform</VAE_Apparel_ChefsUniform.label>
+	<!--                          EN: military jacket -->
+	<VAE_Apparel_MilitaryJacket.label>military jacket</VAE_Apparel_MilitaryJacket.label>
+	<!--                           EN: military uniform -->
+	<VAE_Apparel_MilitaryUniform.label>military uniform</VAE_Apparel_MilitaryUniform.label>
+	<!--                          EN: builder's jacket -->
+	<VAE_Apparel_BuildersJacket.label>builder's jacket</VAE_Apparel_BuildersJacket.label>
+	<!--                        EN: doctor scrubs -->
+	<VAE_Apparel_DoctorScrubs.label>doctor scrubs</VAE_Apparel_DoctorScrubs.label>
+	<!--                   EN: lab coat -->
+	<VAE_Apparel_LabCoat.label>lab coat</VAE_Apparel_LabCoat.label>
+	<!--                   EN: tank top -->
+	<VAE_Apparel_TankTop.label>tank top</VAE_Apparel_TankTop.label>
+	<!--                        EN: sheriff shirt -->
+	<VAE_Apparel_SheriffShirt.label>sheriff shirt</VAE_Apparel_SheriffShirt.label>
+	<!--                    EN: jumpsuit -->
+	<VAE_Apparel_Jumpsuit.label>jumpsuit</VAE_Apparel_Jumpsuit.label>
+</LanguageData>

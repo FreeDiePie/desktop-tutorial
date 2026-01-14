@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\Odyssey\Defs\ThingDefs_Buildings\SubGravEngine.xml -->
+	<!--                EN: grav engine amplifier -->
+	<MF_SubGravEngine.label>усилитель гравитационного двигателя</MF_SubGravEngine.label>
+	<!--                      EN: The amplifier of a grav engine, which intensifies the field around it to support lifting upper decks. Must be built on the same cell as the engine to function. \n\nWithout an amplifier on upper deck, launching a gravship will abandon that level. -->
+	<MF_SubGravEngine.description>Усилитель гравитационного двигателя, который усиливает поле вокруг него для поддержки подъёма верхних палуб. Должен быть построен на той же клетке, что и двигатель, чтобы функционировать.\n\nБез усилителя на верхней палубе запуск гравикорабля приведёт к оставлению этого уровня.</MF_SubGravEngine.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\Hospitality\Defs\PawnColumnDef\PawnColumns_Guest.xml -->
+	<!--                        EN: level -->
+	<MF_HospitalityGuestLevel.label>уровень</MF_HospitalityGuestLevel.label>
+	<!--                            EN: [MultiFloors] Check the checkbox and set up the living level for guests. They will only stay on that level. -->
+	<MF_HospitalityGuestLevel.headerTip>[MultiFloors] Отметьте галочкой и установите уровень проживания для гостей. Они будут оставаться только на этом уровне.</MF_HospitalityGuestLevel.headerTip>
+</LanguageData>

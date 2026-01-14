@@ -1,0 +1,374 @@
+<LanguageData>
+	<!-- 1.6\Defs\MultiFloors.TutorDefs\Tutors.xml -->
+	<!--                 EN: Overview -->
+	<MF_Tutor_Overview.title>Обзор</MF_Tutor_Overview.title>
+	<!--                        EN: Welcome to MultiFloors, a mod that lets you build your colony vertically.\n
+This mod generates and links multiple maps, simulating vertically stacked levels seamlessly.\n
+Important: All levels must share the same dimensions. If you use other mods that alter map size, please respect it. -->
+	<MF_Tutor_Overview.pages.0.text>Добро пожаловать в MultiFloors — мод, позволяющий строить вашу колонию вертикально.\n
+Этот мод генерирует и связывает несколько карт, бесшовно имитируя вертикальные уровни.\n
+Важно: Все уровни должны иметь одинаковые размеры. Если вы используете другие моды, изменяющие размер карты, учтите это.</MF_Tutor_Overview.pages.0.text>
+	
+	<!--                     EN: Build upwards -->
+	<MF_Tutor_BuildUpwards.title>Строительство вверх</MF_Tutor_BuildUpwards.title>
+	<!--                            EN: Place a ladder or stairs upwards will generate the level above (the first time) and create an exit at the same cell on that level.\n
+They can only be built indoors under a roof, and not underground.\n
+There is no functional differences between them. Choose whichever style and size you prefer.
+				 -->
+	<MF_Tutor_BuildUpwards.pages.0.text>Установка лестницы или лестничного пролёта вверх сгенерирует уровень выше (в первый раз) и создаст выход в той же ячейке на этом уровне.\n
+Их можно строить только внутри помещений под крышей, а не под землёй.\n
+Функциональной разницы между ними нет. Выбирайте любой стиль и размер, который вам нравится.
+				</MF_Tutor_BuildUpwards.pages.0.text>
+	<!--                            EN: To expand buildable areas, construct foundation on upper levels.\n
+Foundations can only be built on top of underlying roofs.\n
+Colonists can only move within these areas and cannot step outside them.
+				 -->
+	<MF_Tutor_BuildUpwards.pages.1.text>Для расширения строящихся областей возведите фундамент на верхних уровнях.\n
+Фундаменты можно строить только поверх нижележащих крыш.\n
+Колонисты могут перемещаться только в этих областях и не могут выходить за их пределы.
+				</MF_Tutor_BuildUpwards.pages.1.text>
+	<!--                            EN: The top-view renderer on upper levels allows you to see terrain and items below.\n
+Note: Moving pawns and dynamic things are invisible though.
+				 -->
+	<MF_Tutor_BuildUpwards.pages.2.text>Вид сверху на верхних уровнях позволяет видеть рельеф и предметы ниже.\n
+Примечание: движущиеся пешки и динамические объекты невидимы.
+				</MF_Tutor_BuildUpwards.pages.2.text>
+	
+	<!--                      EN: Build basement -->
+	<MF_Tutor_BuildBasement.title>Строительство подвала</MF_Tutor_BuildBasement.title>
+	<!--                             EN: Likewise, placing a ladder or stairs down to generate an underground map and exit.\n
+Basements are fully covered by thick roof and maintain an outdoor temperature of 21°C.\n
+By default, basements may contain natural cave systems, hives, and ore deposits.\n
+You may need to mine a little further to uncover the full structure.
+				 -->
+	<MF_Tutor_BuildBasement.pages.0.text>Аналогично, установка лестницы вниз сгенерирует подземную карту и выход.\n
+Подвалы полностью покрыты толстой крышей и поддерживают внешнюю температуру 21°C.\n
+По умолчанию подвалы могут содержать естественные пещерные системы, ульи и залежи руды.\n
+Вам может понадобиться копать дальше, чтобы раскрыть полную структуру.
+				</MF_Tutor_BuildBasement.pages.0.text>
+	
+	<!--                 EN: Multi-level Gravship -->
+	<MF_Tutor_Gravship.title>Многоуровневый Гравкорабль</MF_Tutor_Gravship.title>
+	<!--                        EN: All gravship facilities must be built on the ground level as usual.\n
+Build a ship ladder to unlock the upper deck.\n
+Using normal stairs or ladders prevents you from constructing substructures around the exit on upper levels.
+				 -->
+	<MF_Tutor_Gravship.pages.0.text>Все сооружения гравкорабля должны строиться на основном уровне, как обычно.\n
+Постройте корабельный трап, чтобы разблокировать верхнюю палубу.\n
+Использование обычных лестниц или трапов не позволит строить подсобные конструкции вокруг выхода на верхних уровнях.
+				</MF_Tutor_Gravship.pages.0.text>
+	<!--                        EN: On upper decks, you can build substructures on top of roofs and within the engine's valid range on the ground.\n
+In other words, the size of upper decks cannot exceed the ground deck.\n
+To build larger upper decks, extend the base first. -->
+	<MF_Tutor_Gravship.pages.1.text>На верхних палубах можно строить подсобные конструкции поверх крыш и в пределах допустимого диапазона двигателя на основном уровне.\n
+Другими словами, размер верхних палуб не может превышать размер основной палубы.\n
+Чтобы построить более крупные верхние палубы, сначала расширьте базу.</MF_Tutor_Gravship.pages.1.text>
+	<!--                        EN: To transport upper decks, build a GravEngine Amplifier with Gravcores on the same cell as the Grav Engine at the ground level.\n
+When the Gravship launches, it will transport everything on substructure on upper decks only if the level has an amplifier.
+				 -->
+	<MF_Tutor_Gravship.pages.2.text>Для транспортировки верхних палуб постройте Усилитель Гравдвигателя с Гравядрами в той же ячейке, что и Гравдвигатель на основном уровне.\n
+При запуске Гравкорабль перевезёт все подсобные конструкции на верхних палубах только если на уровне есть усилитель.
+				</MF_Tutor_Gravship.pages.2.text>
+	
+	<!--                 EN: Elevator -->
+	<MF_Tutor_Elevator.title>Лифт</MF_Tutor_Elevator.title>
+	<!--                        EN: Elevators provide an efficient way for pawns to move between multiple levels. Pawns use elevators automatically, just like stairs, and will prefer them for longer routes.\n
+There are two types currently: wooden and modern. Modern elevators are faster but require power. -->
+	<MF_Tutor_Elevator.pages.0.text>Лифты предоставляют эффективный способ перемещения пешек между несколькими уровнями. Пешки используют лифты автоматически, как лестницы, и предпочтут их для длинных маршрутов.\n
+В настоящее время есть два типа: деревянные и современные. Современные лифты быстрее, но требуют энергии.</MF_Tutor_Elevator.pages.0.text>
+	<!--                        EN: A group of elevators must be built on the same vertical cell across all levels.\n
+Select an elevator, use the "Build on upper/lower level" gizmo to place blueprints correctly.
+				 -->
+	<MF_Tutor_Elevator.pages.1.text>Группа лифтов должна быть построена в одной вертикальной ячейке на всех уровнях.\n
+Выберите лифт, используйте виджеты "Построить на верхнем/нижнем уровне" для правильного размещения чертежей.
+				</MF_Tutor_Elevator.pages.1.text>
+	<!--                        EN: Once built, use the "Link Elevators" gizmo to connect them.\n
+You can also link new elevators into existing elevator networks.
+				 -->
+	<MF_Tutor_Elevator.pages.2.text>После постройки используйте виджет "Связать лифты" для их соединения.\n
+Вы также можете подключить новые лифты к существующим сетям лифтов.
+				</MF_Tutor_Elevator.pages.2.text>
+	<!--                        EN: The "Transfer vehicle" gizmo allows you to move vehicles between levels when nearby.
+				 -->
+	<MF_Tutor_Elevator.pages.3.text>Виджет "Переместить транспорт" позволяет перемещать транспорт между уровнями, когда он рядом.
+				</MF_Tutor_Elevator.pages.3.text>
+	
+	<!--                        EN: Switch level view -->
+	<MF_Tutor_SwitchLevelView.title>Переключение вида уровня</MF_Tutor_SwitchLevelView.title>
+	<!--                               EN: To switch camera between levels:\n
+- Press hotkey N for lower levels, M for upper levels (Rebindable in game settings).\n
+- Select a stairs and click the “View Connected Level" gizmo.\n
+- Click a colonist in the colonist bar.
+				 -->
+	<MF_Tutor_SwitchLevelView.pages.0.text>Для переключения камеры между уровнями:\n
+- Нажмите горячую клавишу N для нижних уровней, M для верхних (переназначается в настройках игры).\n
+- Выберите лестницу и нажмите виджет “Просмотр связанного уровня”.\n
+- Щёлкните по колонисту на панели колонистов.
+				</MF_Tutor_SwitchLevelView.pages.0.text>
+	
+	<!--                            EN: Delete a floor -->
+	<MF_Tutor_DeleteExistingFloor.title>Удаление этажа</MF_Tutor_DeleteExistingFloor.title>
+	<!--                                   EN: In Development mode, select the entrance that connects to the floor you wish to remove.\n
+For example, to delete the second floor, click an upstairs entrance on the ground level.\n
+Then click the "Delete connected level" gizmo. This removes the chosen floor and any floors above it.\n
+Warning: This is irreversible. All structures, items, and pawns on those floors will be permanently lost.\n
+Finally, after deleting levels, save and reload your game to avoid possible issues.
+				 -->
+	<MF_Tutor_DeleteExistingFloor.pages.0.text>В режиме разработчика выберите вход, который соединяется с этажом, который вы хотите удалить.\n
+Например, чтобы удалить второй этаж, щёлкните по входу наверх на основном уровне.\n
+Затем нажмите виджет "Удалить связанный уровень". Это удалит выбранный этаж и все этажи выше него.\n
+Внимание: Это необратимо. Все постройки, предметы и пешки на этих этажах будут безвозвратно утеряны.\n
+Наконец, после удаления уровней сохраните и перезагрузите игру, чтобы избежать возможных проблем.
+				</MF_Tutor_DeleteExistingFloor.pages.0.text>
+	
+	<!--                       EN: Floors tab -->
+	<MF_Tutor_FloorsSettings.title>Вкладка "Этажи"</MF_Tutor_FloorsSettings.title>
+	<!--                              EN: Use the Floors tab to define how each level is used.\n
+Pawns will automatically move to assigned levels to satisfy their needs.\n
+Pro tip: you can chain other tasks to this automation. 
+For example, if clothing is stored near bedrooms, pawns may also optimize their apparel after resting. 
+Filling chemical or hygiene needs can be automated in the same way.
+				 -->
+	<MF_Tutor_FloorsSettings.pages.0.text>Используйте вкладку "Этажи", чтобы определить, как используется каждый уровень.\n
+Пешки будут автоматически перемещаться на назначенные уровни для удовлетворения своих потребностей.\n
+Профессиональный совет: вы можете связать другие задачи с этой автоматизацией. 
+Например, если одежда хранится рядом со спальнями, пешки также могут оптимизировать свою экипировку после отдыха. 
+Удовлетворение химических или гигиенических потребностей можно автоматизировать таким же образом.
+				</MF_Tutor_FloorsSettings.pages.0.text>
+	<!--                              EN: To keep pawns on their current level, enable the "Lock" checkbox.
+				 -->
+	<MF_Tutor_FloorsSettings.pages.1.text>Чтобы удержать пешек на текущем уровне, включите флажок "Закрепить".
+				</MF_Tutor_FloorsSettings.pages.1.text>
+	
+	<!--                     EN: Work scanning -->
+	<MF_Tutor_WorkScanning.title>Сканирование работ</MF_Tutor_WorkScanning.title>
+	<!--                            EN: All jobs in the game fall into one of two categories:\n
+- Simple works: Tasks like mining that don’t require additional resources.\n
+- Billed works: Tasks that require resources delivered first (e.g., cooking).\n
+Pawns will automatically complete simple works on any floor.\n
+Billed work still assumes a single-map reachability (see Limitations), which means required materials must already be present on the same level as the job.\n
+Examples:
+- If a pawn is on the 2nd floor and there’s a mining job on the 1st floor, they can go down and finish it.\n
+- If a pawn is on the 2nd floor and there’s a cooking bill on the 1st floor with all ingredients present, the job proceeds normally.\n
+- If a pawn is on the 2nd floor and there’s a helmet bill on the 4th floor with no materials there, the job can’t be completed.
+				 -->
+	<MF_Tutor_WorkScanning.pages.0.text>Все работы в игре делятся на две категории:\n
+- Простые работы: Задачи, такие как добыча, не требующие дополнительных ресурсов.\n
+- Заказы: Задачи, требующие предварительной доставки ресурсов (например, готовка).\n
+Пешки будут автоматически выполнять простые работы на любом этаже.\n
+Заказы всё ещё предполагают доступность в пределах одной карты (см. Ограничения), что означает, что необходимые материалы уже должны присутствовать на том же уровне, что и работа.\n
+Примеры:
+- Если пешка на 2-м этаже, а работа по добыче на 1-м этаже, она может спуститься и выполнить её.\n
+- Если пешка на 2-м этаже, а заказ готовки на 1-м этаже со всеми ингредиентами, работа выполняется нормально.\n
+- Если пешка на 2-м этаже, а заказ на шлем на 4-м этаже без материалов там, работа не может быть выполнена.
+				</MF_Tutor_WorkScanning.pages.0.text>
+	<!--                            EN: Exceptions：
+Some billed tasks have been specially patched to work across levels:
+- Delivering resources to construction.
+- Fixing broken down electronics.
+For example, a pawn on the 2nd floor can move to B1 to pick up steels and deliver it to a blueprint at B2.
+				 -->
+	<MF_Tutor_WorkScanning.pages.1.text>Исключения:
+Некоторые заказы были специально исправлены для работы между уровнями:
+- Доставка ресурсов для строительства.
+- Ремонт сломанной электроники.
+Например, пешка на 2-м этаже может переместиться на B1, взять сталь и доставить её к чертежу на B2.
+				</MF_Tutor_WorkScanning.pages.1.text>
+	<!--                            EN: This mod offers two scanning modes (set in Mod Settings):\n
+- Unprioritized: Pawns search the current level first (vanilla behavior). 
+If nothing is available, they scan other levels starting with the nearest.\n
+- Threshold-based prioritized (Default): Tasks are scanned in this order:\n
+1) High-priority works on the current level.\n
+2) High-priority works on other levels.\n
+3) Low-priority works on the current level.\n
+4) Low-priority works on other levels.
+				 -->
+	<MF_Tutor_WorkScanning.pages.2.text>Этот мод предлагает два режима сканирования (настраивается в Настройках мода):\n
+- Без приоритетов: Пешки сначала ищут на текущем уровне (ванильное поведение). 
+Если ничего нет, они сканируют другие уровни, начиная с ближайшего.\n
+- Приоритетный на основе порога (по умолчанию): Задачи сканируются в таком порядке:\n
+1) Высокоприоритетные работы на текущем уровне.\n
+2) Высокоприоритетные работы на других уровнях.\n
+3) Низкоприоритетные работы на текущем уровне.\n
+4) Низкоприоритетные работы на других уровнях.
+				</MF_Tutor_WorkScanning.pages.2.text>
+	<!--                            EN: The Priority Threshold defines what counts as high vs. low priority.\n
+If the threshold is 2, priorities 1–2 are considered high. Pawns will seek those first on the current level, then nearby levels, before looking for lower-priority tasks.
+				 -->
+	<MF_Tutor_WorkScanning.pages.3.text>Порог приоритета определяет, что считается высоким и низким приоритетом.\n
+Если порог равен 2, приоритеты 1–2 считаются высокими. Пешки будут искать их сначала на текущем уровне, затем на соседних уровнях, прежде чем искать задачи с более низким приоритетом.
+				</MF_Tutor_WorkScanning.pages.3.text>
+	<!--                            EN: You can preview the order of all work types in the Priority column of the Floors tab.\n
+Bottom line: if you want more cross-level work, limit how many work types are set to high priority.
+				 -->
+	<MF_Tutor_WorkScanning.pages.4.text>Вы можете предварительно просмотреть порядок всех типов работ в столбце Приоритет во вкладке Этажи.\n
+Суть: если вы хотите больше межуровневых работ, ограничьте количество типов работ, установленных на высокий приоритет.
+				</MF_Tutor_WorkScanning.pages.4.text>
+	<!--                            EN: For highly specialized levels, you can disable certain work types on that level.\n
+Disabled work is ignored by all pawns, which can significantly improve late-game performance.
+				 -->
+	<MF_Tutor_WorkScanning.pages.5.text>Для высокоспециализированных уровней вы можете отключить определённые типы работ на этом уровне.\n
+Отключённые работы игнорируются всеми пешками, что может значительно улучшить производительность в поздней игре.
+				</MF_Tutor_WorkScanning.pages.5.text>
+	
+	<!--                     EN: Pawn movement -->
+	<MF_Tutor_PawnMovement.title>Перемещение пешек</MF_Tutor_PawnMovement.title>
+	<!--                            EN: Pawns will move between levels automatically to do works and satisfy needs. -->
+	<MF_Tutor_PawnMovement.pages.0.text>Пешки будут автоматически перемещаться между уровнями для выполнения работ и удовлетворения потребностей.</MF_Tutor_PawnMovement.pages.0.text>
+	<!--                            EN: You can select colonists and right-click a stairs or an elevator to send them to any level.\n
+They will carry their current item or pawn with them. The camera follows the selected pawn between levels.
+				 -->
+	<MF_Tutor_PawnMovement.pages.1.text>Вы можете выбрать колонистов и щёлкнуть правой кнопкой по лестнице или лифту, чтобы отправить их на любой уровень.\n
+Они будут нести свой текущий предмет или пешку с собой. Камера следует за выбранной пешкой между уровнями.
+				</MF_Tutor_PawnMovement.pages.1.text>
+	<!--                            EN: Select a stairway to use the "Enter" gizmo for transferring items, prisoners, and animals between levels.
+				 -->
+	<MF_Tutor_PawnMovement.pages.2.text>Выберите лестницу, чтобы использовать виджет "Войти" для передачи предметов, заключённых и животных между уровнями.
+				</MF_Tutor_PawnMovement.pages.2.text>
+	<!--                            EN: Use the "Gather Pawns" gizmo to quickly assemble colonists for rituals or to prepare for raids.
+				 -->
+	<MF_Tutor_PawnMovement.pages.3.text>Используйте виджет "Собрать пешек", чтобы быстро собрать колонистов для ритуалов или подготовки к рейдам.
+				</MF_Tutor_PawnMovement.pages.3.text>
+	<!--                            EN: When drafted, pawns can right-click to capture, arrest, or rescue targets to other levels.\n
+These options appear only when drafted to reduce UI clutter.
+				 -->
+	<MF_Tutor_PawnMovement.pages.4.text>В режиме построения пешки могут щёлкнуть правой кнопкой, чтобы захватить, арестовать или спасти цели на другие уровни.\n
+Эти опции появляются только в режиме построения, чтобы уменьшить беспорядок в интерфейсе.
+				</MF_Tutor_PawnMovement.pages.4.text>
+	
+	<!--              EN: Raids -->
+	<MF_Tutor_Raids.title>Рейды</MF_Tutor_Raids.title>
+	<!--                     EN: Facts about raiders:\n
+- Raiders arrive on the ground level only.\n
+- Raiders can use stairs to reach other levels—plan your defenses accordingly.\n
+- Some Anomaly entities can also switch levels.\n
+- Drop-pod raids will break all roofs on upper levels until they descend to the ground.\n
+- If roofs break, objects on upper levels may fall and take damage. -->
+	<MF_Tutor_Raids.pages.0.text>Факты о рейдерах:\n
+- Рейдеры прибывают только на основной уровень.\n
+- Рейдеры могут использовать лестницы для доступа к другим уровням — планируйте оборону соответственно.\n
+- Некоторые сущности Аномалии также могут переключать уровни.\n
+- Рейды дроп-подов будут разрушать все крыши на верхних уровнях, пока они не спустятся на землю.\n
+- Если крыши разрушены, объекты на верхних уровнях могут упасть и получить урон.</MF_Tutor_Raids.pages.0.text>
+	
+	<!--                        EN: Sync -->
+	<MF_Tutor_Synchronization.title>Синхронизация</MF_Tutor_Synchronization.title>
+	<!--                               EN: Stairs will regularly exchange temperature and gas between the two rooms they connect.
+				 -->
+	<MF_Tutor_Synchronization.pages.0.text>Лестницы будут регулярно обмениваться температурой и газом между двумя комнатами, которые они соединяют.
+				</MF_Tutor_Synchronization.pages.0.text>
+	<!--                               EN: Stairs and elevators also transmit power between levels. Simply connect them to your power nets.\n
+Note 1: Generators can be placed on any level. If total output exceeds demand, surplus power is evenly distributed across all levels to charge batteries. If demand exceeds output, batteries on any level may be drawn down.\n
+Note 2: For devices with fluctuating loads (e.g., heaters and coolers), place a battery on that level to prevent flickering.
+				 -->
+	<MF_Tutor_Synchronization.pages.1.text>Лестницы и лифты также передают энергию между уровнями. Просто подключите их к вашим энергосетям.\n
+Примечание 1: Генераторы можно размещать на любом уровне. Если общая выработка превышает спрос, избыточная энергия равномерно распределяется по всем уровням для зарядки аккумуляторов. Если спрос превышает выработку, аккумуляторы на любом уровне могут разряжаться.\n
+Примечание 2: Для устройств с колеблющейся нагрузкой (например, обогреватели и охладители) разместите аккумулятор на этом уровне, чтобы предотвратить мерцание.
+				</MF_Tutor_Synchronization.pages.1.text>
+	
+	<!--                          EN: Cross level hauling -->
+	<MF_Tutor_CrossLevelHauling.title>Перенос между уровнями</MF_Tutor_CrossLevelHauling.title>
+	<!--                                 EN: By default (see Mod Settings), the mod auto-designates cross-level hauling:\n
+- Items not in any stockpile:\n
+If a pawn finds an unstored item on the current level and a higher-priority accepting stockpile exists on another level, that item is auto-marked to haul there.\n
+- Items already in a stockpile:\n
+If an item is stored but a higher-priority accepting stockpile exists on another level, it’s marked to move there.\n
+This automatic pass cycles over all levels periodically and marks items for hauling.
+				 -->
+	<MF_Tutor_CrossLevelHauling.pages.0.text>По умолчанию (см. Настройки мода) мод автоматически назначает перенос между уровнями:\n
+- Предметы не в складах:\n
+Если пешка находит нехранимый предмет на текущем уровне и существует склад с более высоким приоритетом на другом уровне, предмет автоматически помечается для переноса туда.\n
+- Предметы уже в складе:\n
+Если предмет хранится, но существует склад с более высоким приоритетом на другом уровне, он помечается для перемещения туда.\n
+Этот автоматический проход циклически проходит по всем уровням и помечает предметы для переноса.
+				</MF_Tutor_CrossLevelHauling.pages.0.text>
+	<!--                                 EN: If you prefer manual control, select a stair:\n
+In the Transfer tab, allow specific items to transfer to the connected stair.\n
+The stair will periodically search for allowed items and add them to its load list.\n
+Note: This uses vanilla hauling jobs, so pawns carry one stack at a time.
+				 -->
+	<MF_Tutor_CrossLevelHauling.pages.1.text>Если вы предпочитаете ручное управление, выберите лестницу:\n
+Во вкладке Перемещение разрешите определённые предметы для передачи на связанную лестницу.\n
+Лестница будет периодически искать разрешённые предметы и добавлять их в свой список погрузки.\n
+Примечание: Это использует ванильные задания переноса, поэтому пешки переносят по одному стеку за раз.
+				</MF_Tutor_CrossLevelHauling.pages.1.text>
+	<!--                                 EN: To prevent overloads or unnecessary moves (e.g., sending all your wood away), use the Policy tab:\n
+- Search thing defs and set a maximum allowed count. If the target level already has enough, items won’t be added to the load list.\n
+- Use a negative value to reserve a minimum on the current level. For example, -500 means try to keep 500 cloth here and send the rest to the linked level.
+				 -->
+	<MF_Tutor_CrossLevelHauling.pages.2.text>Чтобы предотвратить перегрузку или ненужные перемещения (например, отправку всей вашей древесины), используйте вкладку Политика:\n
+- Найдите определения предметов и установите максимальное разрешённое количество. Если на целевом уровне уже достаточно, предметы не будут добавлены в список погрузки.\n
+- Используйте отрицательное значение, чтобы зарезервировать минимум на текущем уровне. Например, -500 означает попытку сохранить 500 ткани здесь и отправить остальное на связанный уровень.
+				</MF_Tutor_CrossLevelHauling.pages.2.text>
+	<!--                                 EN: Other ways to mark items for cross-level hauling:\n
+- Select a stair and use the "Enter" gizmo to add things to the load list.\n
+- Select an item and use the "Haul To" gizmo to send it to another level.
+				 -->
+	<MF_Tutor_CrossLevelHauling.pages.3.text>Другие способы пометить предметы для переноса между уровнями:\n
+- Выберите лестницу и используйте виджет "Войти", чтобы добавить вещи в список погрузки.\n
+- Выберите предмет и используйте виджет "Перенести на", чтобы отправить его на другой уровень.
+				</MF_Tutor_CrossLevelHauling.pages.3.text>
+	
+	<!--                        EN: Dub's Bad Hygience -->
+	<MF_Tutor_DubsBadHygience.title>Dub's Bad Hygience</MF_Tutor_DubsBadHygience.title>
+	<!--                               EN: This mod uses DBH’s built-in multi-level support.\n
+- All plumbing networks (water, heating, etc.) are shared across levels on the same tile.\n
+- Where you see a joint point, two networks connect and water can flow between them.
+				 -->
+	<MF_Tutor_DubsBadHygience.pages.0.text>Этот мод использует встроенную многоуровневую поддержку DBH.\n
+- Все сантехнические сети (вода, отопление и т.д.) являются общими для уровней на одной клетке.\n
+- Там, где вы видите точку соединения, две сети соединяются, и вода может течь между ними.
+				</MF_Tutor_DubsBadHygience.pages.0.text>
+	
+	<!--                    EN: Hospitality -->
+	<MF_Tutor_Hospitality.title>Hospitality</MF_Tutor_Hospitality.title>
+	<!--                           EN: A simple patch for Hospitality is included.\n 
+- Assign a living level for guests in Guests → Level.\n
+- Once set, they’ll move to that level and remain there until departure.\n
+- Guests won’t switch levels like colonists, so consider placing restaurants and shops on their assigned level.
+				 -->
+	<MF_Tutor_Hospitality.pages.0.text>Включён простой патч для Hospitality.\n 
+- Назначьте уровень проживания для гостей в Гости → Уровень.\n
+- После установки они будут перемещаться на этот уровень и оставаться там до отъезда.\n
+- Гости не будут переключать уровни, как колонисты, поэтому рассмотрите размещение ресторанов и магазинов на их назначенном уровне.
+				</MF_Tutor_Hospitality.pages.0.text>
+	
+	<!--                      EN: Pipe network -->
+	<MF_Tutor_VEPipeNetwork.title>Трубопроводная сеть</MF_Tutor_VEPipeNetwork.title>
+	<!--                             EN: A pipe connector transfers resources between levels for Vanilla Expanded pipe networks.\n
+It works by drawing from containers on one network and pushing into the other.\n
+Note: Supported for all VE pipe networks except Vanilla Temperature Expanded.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.0.text>Соединитель труб передаёт ресурсы между уровнями для трубопроводных сетей Vanilla Expanded.\n
+Он работает, забирая из контейнеров одной сети и выталкивая в другую.\n
+Примечание: Поддерживается для всех сетей труб VE, кроме Vanilla Temperature Expanded.
+				</MF_Tutor_VEPipeNetwork.pages.0.text>
+	<!--                             EN: Build a pipe connector and choose the resource to transmit.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.1.text>Постройте соединитель труб и выберите ресурс для передачи.
+				</MF_Tutor_VEPipeNetwork.pages.1.text>
+	<!--                             EN: Select the connector to access gizmos that place an upper or lower connector in the same cell on another level.\n
+Build another connector and set it to the same resource.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.2.text>Выберите соединитель, чтобы получить доступ к виджетам, которые размещают верхний или нижний соединитель в той же ячейке на другом уровне.\n
+Постройте другой соединитель и установите для него тот же ресурс.
+				</MF_Tutor_VEPipeNetwork.pages.2.text>
+	<!--                             EN: Link two connectors together with the "Link upper" or "Link lower" gizmo.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.3.text>Свяжите два соединителя вместе с помощью виджета "Связать сверху" или "Связать снизу".
+				</MF_Tutor_VEPipeNetwork.pages.3.text>
+	<!--                             EN: Set one of them as the exporter.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.4.text>Установите один из них в качестве экспортёра.
+				</MF_Tutor_VEPipeNetwork.pages.4.text>
+	<!--                             EN: Configure flow rate.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.5.text>Настройте скорость потока.
+				</MF_Tutor_VEPipeNetwork.pages.5.text>
+	<!--                             EN: Ensure the connectors are connected to your pipe networks (there should be a nearby pipe).\n
+Once you make changes to the network, you may need to use the Reconnect Gizmo to reconnect it to the network again.
+				 -->
+	<MF_Tutor_VEPipeNetwork.pages.6.text>Убедитесь, что соединители подключены к вашим трубопроводным сетям (должна быть ближайшая труба).\n
+После внесения изменений в сеть вам может понадобиться использовать виджет Переподключить, чтобы снова подключить её к сети.
+				</MF_Tutor_VEPipeNetwork.pages.6.text>
+</LanguageData>

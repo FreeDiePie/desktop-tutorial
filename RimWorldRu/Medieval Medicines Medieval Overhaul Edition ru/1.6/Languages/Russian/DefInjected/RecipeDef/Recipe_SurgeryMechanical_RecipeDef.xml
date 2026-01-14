@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipe_SurgeryMechanical.xml -->
+	<!--                        EN: install mechanical hand -->
+	<InstallMechanicalMedHand.label>установить механическую кисть</InstallMechanicalMedHand.label>
+	<!--                              EN: Installs mechanical hand. -->
+	<InstallMechanicalMedHand.description>Устанавливает механическую кисть.</InstallMechanicalMedHand.description>
+	<!--                            EN: Installing mechanical hand. -->
+	<InstallMechanicalMedHand.jobString>Устанавливает механическую кисть.</InstallMechanicalMedHand.jobString>
+	
+	<!--                       EN: install mechanical arm -->
+	<InstallMechanicalMedArm.label>установить механическую руку</InstallMechanicalMedArm.label>
+	<!--                             EN: Installs mechanical arm. -->
+	<InstallMechanicalMedArm.description>Устанавливает механическую руку.</InstallMechanicalMedArm.description>
+	<!--                           EN: Installing mechanical arm. -->
+	<InstallMechanicalMedArm.jobString>Устанавливает механическую руку.</InstallMechanicalMedArm.jobString>
+	
+	<!--                       EN: install mechanical leg -->
+	<InstallMechanicalMedLeg.label>установить механическую ногу</InstallMechanicalMedLeg.label>
+	<!--                             EN: Installs mechanical leg. -->
+	<InstallMechanicalMedLeg.description>Устанавливает механическую ногу.</InstallMechanicalMedLeg.description>
+	<!--                           EN: Installing mechanical leg. -->
+	<InstallMechanicalMedLeg.jobString>Устанавливает механическую ногу.</InstallMechanicalMedLeg.jobString>
+	
+	<!--                        EN: install mechanical foot -->
+	<InstallMechanicalMedFoot.label>установить механическую стопу</InstallMechanicalMedFoot.label>
+	<!--                              EN: Installs mechanical foot. -->
+	<InstallMechanicalMedFoot.description>Устанавливает механическую стопу.</InstallMechanicalMedFoot.description>
+	<!--                            EN: Installing mechanical foot. -->
+	<InstallMechanicalMedFoot.jobString>Устанавливает механическую стопу.</InstallMechanicalMedFoot.jobString>
+	
+	<!--                          EN: install mechanical finger -->
+	<InstallMechanicalMedFinger.label>установить механический палец</InstallMechanicalMedFinger.label>
+	<!--                                EN: Installs mechanical finger. -->
+	<InstallMechanicalMedFinger.description>Устанавливает механический палец.</InstallMechanicalMedFinger.description>
+	<!--                              EN: Installing mechanical finger. -->
+	<InstallMechanicalMedFinger.jobString>Устанавливает механический палец.</InstallMechanicalMedFinger.jobString>
+	
+	<!--                       EN: install mechanical toe -->
+	<InstallMechanicalMedToe.label>установить механический палец ноги</InstallMechanicalMedToe.label>
+	<!--                             EN: Installs mechanical toe. -->
+	<InstallMechanicalMedToe.description>Устанавливает механический палец ноги.</InstallMechanicalMedToe.description>
+	<!--                           EN: Installing mechanical toe. -->
+	<InstallMechanicalMedToe.jobString>Устанавливает механический палец ноги.</InstallMechanicalMedToe.jobString>
+	
+	<!--                        EN: install mechanical nose -->
+	<InstallMechanicalMedNose.label>установить механический нос</InstallMechanicalMedNose.label>
+	<!--                              EN: Installs mechanical nose. -->
+	<InstallMechanicalMedNose.description>Устанавливает механический нос.</InstallMechanicalMedNose.description>
+	<!--                            EN: Installing mechanical nose. -->
+	<InstallMechanicalMedNose.jobString>Устанавливает механический нос.</InstallMechanicalMedNose.jobString>
+	
+	<!--                       EN: install mechanical eye -->
+	<InstallMechanicalMedEye.label>установить механический глаз</InstallMechanicalMedEye.label>
+	<!--                             EN: Installs mechanical eye. -->
+	<InstallMechanicalMedEye.description>Устанавливает механический глаз.</InstallMechanicalMedEye.description>
+	<!--                           EN: Installing mechanical eye. -->
+	<InstallMechanicalMedEye.jobString>Устанавливает механический глаз.</InstallMechanicalMedEye.jobString>
+	
+	<!--                       EN: install ear trumpet -->
+	<InstallMechanicalMedEar.label>установить слуховую трубу</InstallMechanicalMedEar.label>
+	<!--                             EN: Installs ear trumpet. -->
+	<InstallMechanicalMedEar.description>Устанавливает слуховую трубу.</InstallMechanicalMedEar.description>
+	<!--                           EN: Installing ear trumpet. -->
+	<InstallMechanicalMedEar.jobString>Устанавливает слуховую трубу.</InstallMechanicalMedEar.jobString>
+</LanguageData>

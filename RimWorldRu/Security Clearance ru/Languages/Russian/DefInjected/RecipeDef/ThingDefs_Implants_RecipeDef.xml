@@ -1,0 +1,143 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Implants.xml -->
+	
+	<!--                                         EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Alpha.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Alpha.jobString>
+	<!--                                     EN: install security microchip (Alpha clearance) -->
+	<SecurityClearanceInstallImplant_Alpha.label>установить микрочип доступа (допуск «Альфа»)</SecurityClearanceInstallImplant_Alpha.label>
+	<!--                                           EN: Install and program a security microchip implant to grant semi-permanent Alpha clearance. -->
+	<SecurityClearanceInstallImplant_Alpha.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Альфа».</SecurityClearanceInstallImplant_Alpha.description>
+	
+	<!--                                        EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Beta.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Beta.jobString>
+	<!--                                    EN: install security microchip (Beta clearance) -->
+	<SecurityClearanceInstallImplant_Beta.label>установить микрочип доступа (допуск «Бета»)</SecurityClearanceInstallImplant_Beta.label>
+	<!--                                          EN: Install and program a security microchip implant to grant semi-permanent Beta clearance. -->
+	<SecurityClearanceInstallImplant_Beta.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Бета».</SecurityClearanceInstallImplant_Beta.description>
+	
+	<!--                                         EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Gamma.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Gamma.jobString>
+	<!--                                     EN: install security microchip (Gamma clearance) -->
+	<SecurityClearanceInstallImplant_Gamma.label>установить микрочип доступа (допуск «Гамма»)</SecurityClearanceInstallImplant_Gamma.label>
+	<!--                                           EN: Install and program a security microchip implant to grant semi-permanent Gamma clearance. -->
+	<SecurityClearanceInstallImplant_Gamma.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Гамма».</SecurityClearanceInstallImplant_Gamma.description>
+	
+	<!--                                         EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Delta.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Delta.jobString>
+	<!--                                     EN: install security microchip (Delta clearance) -->
+	<SecurityClearanceInstallImplant_Delta.label>установить микрочип доступа (допуск «Дельта»)</SecurityClearanceInstallImplant_Delta.label>
+	<!--                                           EN: Install and program a security microchip implant to grant semi-permanent Delta clearance. -->
+	<SecurityClearanceInstallImplant_Delta.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Дельта».</SecurityClearanceInstallImplant_Delta.description>
+	
+	<!--                                           EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Epsilon.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Epsilon.jobString>
+	<!--                                       EN: install security microchip (Epsilon clearance) -->
+	<SecurityClearanceInstallImplant_Epsilon.label>установить микрочип доступа (допуск «Эпсилон»)</SecurityClearanceInstallImplant_Epsilon.label>
+	<!--                                             EN: Install and program a security microchip implant to grant semi-permanent Epsilon clearance. -->
+	<SecurityClearanceInstallImplant_Epsilon.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Эпсилон».</SecurityClearanceInstallImplant_Epsilon.description>
+	
+	<!--                                         EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Theta.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Theta.jobString>
+	<!--                                     EN: install security microchip (Theta special clearance) -->
+	<SecurityClearanceInstallImplant_Theta.label>установить микрочип доступа (особый допуск «Тета»)</SecurityClearanceInstallImplant_Theta.label>
+	<!--                                           EN: Install and program a security microchip implant to grant semi-permanent Theta special clearance. -->
+	<SecurityClearanceInstallImplant_Theta.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный особый допуск «Тета».</SecurityClearanceInstallImplant_Theta.description>
+	
+	<!--                                          EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Lambda.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Lambda.jobString>
+	<!--                                      EN: install security microchip (Lambda special clearance) -->
+	<SecurityClearanceInstallImplant_Lambda.label>установить микрочип доступа (особый допуск «Лямбда»)</SecurityClearanceInstallImplant_Lambda.label>
+	<!--                                            EN: Install and program a security microchip implant to grant semi-permanent Lambda special clearance. -->
+	<SecurityClearanceInstallImplant_Lambda.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный особый допуск «Лямбда».</SecurityClearanceInstallImplant_Lambda.description>
+	
+	<!--                                       EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Tau.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Tau.jobString>
+	<!--                                   EN: install security microchip (Tau special clearance) -->
+	<SecurityClearanceInstallImplant_Tau.label>установить микрочип доступа (особый допуск «Тау»)</SecurityClearanceInstallImplant_Tau.label>
+	<!--                                         EN: Install and program a security microchip implant to grant semi-permanent Tau special clearance. -->
+	<SecurityClearanceInstallImplant_Tau.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный особый допуск «Тау».</SecurityClearanceInstallImplant_Tau.description>
+	
+	<!--                                       EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Phi.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Phi.jobString>
+	<!--                                   EN: install security microchip (Phi special clearance) -->
+	<SecurityClearanceInstallImplant_Phi.label>установить микрочип доступа (особый допуск «Фи»)</SecurityClearanceInstallImplant_Phi.label>
+	<!--                                         EN: Install and program a security microchip implant to grant semi-permanent Phi special clearance. -->
+	<SecurityClearanceInstallImplant_Phi.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный особый допуск «Фи».</SecurityClearanceInstallImplant_Phi.description>
+	
+	<!--                                         EN: Installing programmable security microchip. -->
+	<SecurityClearanceInstallImplant_Omega.jobString>Установка программируемого микрочипа доступа.</SecurityClearanceInstallImplant_Omega.jobString>
+	<!--                                     EN: install security microchip (Omega clearance) -->
+	<SecurityClearanceInstallImplant_Omega.label>установить микрочип доступа (допуск «Омега»)</SecurityClearanceInstallImplant_Omega.label>
+	<!--                                           EN: Install and program a security microchip implant to grant semi-permanent Omega clearance. -->
+	<SecurityClearanceInstallImplant_Omega.description>Установить и запрограммировать микрочип доступа, предоставляющий полупостоянный допуск «Омега».</SecurityClearanceInstallImplant_Omega.description>
+	
+	<!--                                        EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Alpha.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Alpha.jobString>
+	<!--                                    EN: remove security microchip (Alpha clearance) -->
+	<SecurityClearanceRemoveImplant_Alpha.label>удалить микрочип доступа (допуск «Альфа»)</SecurityClearanceRemoveImplant_Alpha.label>
+	<!--                                          EN: Remove a programmable security microchip to revoke Alpha clearance. -->
+	<SecurityClearanceRemoveImplant_Alpha.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Альфа».</SecurityClearanceRemoveImplant_Alpha.description>
+	
+	<!--                                       EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Beta.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Beta.jobString>
+	<!--                                   EN: remove security microchip (Beta clearance) -->
+	<SecurityClearanceRemoveImplant_Beta.label>удалить микрочип доступа (допуск «Бета»)</SecurityClearanceRemoveImplant_Beta.label>
+	<!--                                         EN: Remove a programmable security microchip to revoke Beta clearance. -->
+	<SecurityClearanceRemoveImplant_Beta.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Бета».</SecurityClearanceRemoveImplant_Beta.description>
+	
+	<!--                                        EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Gamma.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Gamma.jobString>
+	<!--                                    EN: remove security microchip (Gamma clearance) -->
+	<SecurityClearanceRemoveImplant_Gamma.label>удалить микрочип доступа (допуск «Гамма»)</SecurityClearanceRemoveImplant_Gamma.label>
+	<!--                                          EN: Remove a programmable security microchip to revoke Gamma clearance. -->
+	<SecurityClearanceRemoveImplant_Gamma.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Гамма».</SecurityClearanceRemoveImplant_Gamma.description>
+	
+	<!--                                        EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Delta.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Delta.jobString>
+	<!--                                    EN: remove security microchip (Delta clearance) -->
+	<SecurityClearanceRemoveImplant_Delta.label>удалить микрочип доступа (допуск «Дельта»)</SecurityClearanceRemoveImplant_Delta.label>
+	<!--                                          EN: Remove a programmable security microchip to revoke Delta clearance. -->
+	<SecurityClearanceRemoveImplant_Delta.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Дельта».</SecurityClearanceRemoveImplant_Delta.description>
+	
+	<!--                                          EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Epsilon.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Epsilon.jobString>
+	<!--                                      EN: remove security microchip (Epsilon clearance) -->
+	<SecurityClearanceRemoveImplant_Epsilon.label>удалить микрочип доступа (допуск «Эпсилон»)</SecurityClearanceRemoveImplant_Epsilon.label>
+	<!--                                            EN: Remove a programmable security microchip to revoke Epsilon clearance. -->
+	<SecurityClearanceRemoveImplant_Epsilon.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Эпсилон».</SecurityClearanceRemoveImplant_Epsilon.description>
+	
+	<!--                                        EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Theta.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Theta.jobString>
+	<!--                                    EN: remove security microchip (Theta special clearance) -->
+	<SecurityClearanceRemoveImplant_Theta.label>удалить микрочип доступа (особый допуск «Тета»)</SecurityClearanceRemoveImplant_Theta.label>
+	<!--                                          EN: Remove a programmable security microchip to revoke Theta special clearance. -->
+	<SecurityClearanceRemoveImplant_Theta.description>Удалить программируемый микрочип доступа, чтобы отозвать особый допуск «Тета».</SecurityClearanceRemoveImplant_Theta.description>
+	
+	<!--                                         EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Lambda.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Lambda.jobString>
+	<!--                                     EN: remove security microchip (Lambda special clearance) -->
+	<SecurityClearanceRemoveImplant_Lambda.label>удалить микрочип доступа (особый допуск «Лямбда»)</SecurityClearanceRemoveImplant_Lambda.label>
+	<!--                                           EN: Remove a programmable security microchip to revoke Lambda special clearance. -->
+	<SecurityClearanceRemoveImplant_Lambda.description>Удалить программируемый микрочип доступа, чтобы отозвать особый допуск «Лямбда».</SecurityClearanceRemoveImplant_Lambda.description>
+	
+	<!--                                      EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Tau.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Tau.jobString>
+	<!--                                  EN: remove security microchip (Tau special clearance) -->
+	<SecurityClearanceRemoveImplant_Tau.label>удалить микрочип доступа (особый допуск «Тау»)</SecurityClearanceRemoveImplant_Tau.label>
+	<!--                                        EN: Remove a programmable security microchip to revoke Tau special clearance. -->
+	<SecurityClearanceRemoveImplant_Tau.description>Удалить программируемый микрочип доступа, чтобы отозвать особый допуск «Тау».</SecurityClearanceRemoveImplant_Tau.description>
+	
+	<!--                                      EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Phi.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Phi.jobString>
+	<!--                                  EN: remove security microchip (Phi special clearance) -->
+	<SecurityClearanceRemoveImplant_Phi.label>удалить микрочип доступа (особый допуск «Фи»)</SecurityClearanceRemoveImplant_Phi.label>
+	<!--                                        EN: Remove a programmable security microchip to revoke Phi special clearance. -->
+	<SecurityClearanceRemoveImplant_Phi.description>Удалить программируемый микрочип доступа, чтобы отозвать особый допуск «Фи».</SecurityClearanceRemoveImplant_Phi.description>
+	
+	<!--                                        EN: Removing programmable security microchip. -->
+	<SecurityClearanceRemoveImplant_Omega.jobString>Удаление программируемого микрочипа доступа.</SecurityClearanceRemoveImplant_Omega.jobString>
+	<!--                                    EN: remove security microchip (Omega clearance) -->
+	<SecurityClearanceRemoveImplant_Omega.label>удалить микрочип доступа (допуск «Омега»)</SecurityClearanceRemoveImplant_Omega.label>
+	<!--                                          EN: Remove a programmable security microchip to revoke Omega clearance. -->
+	<SecurityClearanceRemoveImplant_Omega.description>Удалить программируемый микрочип доступа, чтобы отозвать допуск «Омега».</SecurityClearanceRemoveImplant_Omega.description>
+</LanguageData>

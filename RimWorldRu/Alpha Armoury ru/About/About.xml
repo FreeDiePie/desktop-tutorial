@@ -1,0 +1,32 @@
+<ModMetaData>
+	<name>Alpha Armoury ru</name>
+	<author>FreeDiePie</author>
+	<packageId>FDP.sarg.alphaarmoury</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/FDPLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>sarg.alphaarmoury</packageId>
+			<displayName>Alpha Armoury</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3622294464</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>sarg.alphaarmoury</li>
+	</loadAfter>
+	<description>Перевод Альфа Арсенал
+
+Альфа Арсенал расширяет систему уникального оружия, впервые представленного в Odyssey:
+
+Добавляет около 100 новых оружейных черт — от обычных до совершенно безумных.
+
+Добавляет возможность влияния оружейных черт на внешний вид уникального оружия.
+Теперь винтовка с подствольным гранатомётом действительно будет выглядеть так, будто он у неё есть подствольник.
+
+Добавляет наборы модификации оружия, позволяющие изменять и перенастраивать уникальное оружие.
+
+Добавляет ОЧЕНЬ много параметров мода для тонкой настройки вашего опыта взаимодействия с уникальным оружием.
+</description>
+</ModMetaData>

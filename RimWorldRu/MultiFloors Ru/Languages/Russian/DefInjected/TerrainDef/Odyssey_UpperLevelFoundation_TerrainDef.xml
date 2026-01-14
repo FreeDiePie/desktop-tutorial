@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\Odyssey\Defs\TerrainDefs\Odyssey_UpperLevelFoundation.xml -->
+	<!--                                       EN: supported vacstone foundation -->
+	<MF_SurfaceStonyRoofedFoundationVacstone.label>поддерживаемый вакстоуновый фундамент</MF_SurfaceStonyRoofedFoundationVacstone.label>
+	<!--                                             EN: A vacstone platform built atop the roof of a lower level. It distributes weight and stabilizes the surface, making it safe to construct buildings and additional flooring above. If it breaks, buildings on top of it fall to the lower level. -->
+	<MF_SurfaceStonyRoofedFoundationVacstone.description>Вакстоуновая платформа, построенная поверх крыши нижнего уровня. Распределяет вес и стабилизирует поверхность, делая безопасным строительство зданий и дополнительных полов сверху. При разрушении здания на ней падают на нижний уровень.</MF_SurfaceStonyRoofedFoundationVacstone.description>
+</LanguageData>

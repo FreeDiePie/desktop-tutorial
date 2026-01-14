@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Must be built on the same cell as grav engine. -->
+	<MF_MustBeBuiltOnGroundGravEngineCell>Должен быть построен на той же клетке, что и гравитационный двигатель.</MF_MustBeBuiltOnGroundGravEngineCell>
+	<!-- EN: Must be built within valid substructures of grav engine on the ground. -->
+	<MF_MustBeBuiltWithinGroundValidSubstructure>Должен быть построен в пределах допустимых подконструкций гравитационного двигателя на земле.</MF_MustBeBuiltWithinGroundValidSubstructure>
+
+	<!-- EN: [MultiFloors] Dangling upper levels with no entrance will be deleted. Deleting them will permanently remove things on those levels and all branches from them. Proceed? -->
+	<MF_DeleteDanglingUpperLevelsOnGravshipLaunch>[MultiFloors] Висячие верхние уровни без входа будут удалены. Их удаление навсегда уничтожит предметы на этих уровнях и все ответвления от них. Продолжить?</MF_DeleteDanglingUpperLevelsOnGravshipLaunch>
+</LanguageData>

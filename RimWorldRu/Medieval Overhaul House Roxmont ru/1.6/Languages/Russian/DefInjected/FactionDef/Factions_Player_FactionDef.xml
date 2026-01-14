@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\FactionDefs\Factions_Player.xml -->
+	<!--                      EN: New Kingdom -->
+	<DankPyon_LoneRoxKnight.label>Новое Королевство</DankPyon_LoneRoxKnight.label>
+	<!--                            EN: A small kingdom. -->
+	<DankPyon_LoneRoxKnight.description>Маленькое королевство.</DankPyon_LoneRoxKnight.description>
+	<!--                             EN: subject -->
+	<DankPyon_LoneRoxKnight.pawnSingular>подданный</DankPyon_LoneRoxKnight.pawnSingular>
+	<!--                            EN: subjects -->
+	<DankPyon_LoneRoxKnight.pawnsPlural>подданные</DankPyon_LoneRoxKnight.pawnsPlural>
+	<!--                            EN: лидер -->
+	<DankPyon_LoneRoxKnight.leaderTitle>лидер</DankPyon_LoneRoxKnight.leaderTitle>
+</LanguageData>

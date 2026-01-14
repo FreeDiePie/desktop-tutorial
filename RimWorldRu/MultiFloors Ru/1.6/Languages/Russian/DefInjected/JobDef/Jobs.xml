@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_ChangeLevelThroughStair.reportString>перемещается между уровнями</MF_ChangeLevelThroughStair.reportString>
+  <MF_DeliverResourcesAcrossLevel.reportString>доставляет ресурсы между уровнями</MF_DeliverResourcesAcrossLevel.reportString>
+  <MF_ChangeLevelThroughStairDelivering.reportString>доставляет ресурсы между уровнями</MF_ChangeLevelThroughStairDelivering.reportString>
+  <MF_DeliverToContainer.reportString>доставляет</MF_DeliverToContainer.reportString>
+  <MF_HaulDesignatedThingToDestMap.reportString>переносит между уровнями</MF_HaulDesignatedThingToDestMap.reportString>
+  <MF_ChangeLevelThroughStairHauling.reportString>переносит между уровнями</MF_ChangeLevelThroughStairHauling.reportString>
+  <MF_UnloadInventory.reportString>разгружает</MF_UnloadInventory.reportString>
+  <MF_TransferEntityAcrossLevel.reportString>перемещает объект между уровнями</MF_TransferEntityAcrossLevel.reportString>
+  <MF_ChangeLevelThroughStairTransferringEntity.reportString>перемещает объект между уровнями</MF_ChangeLevelThroughStairTransferringEntity.reportString>
+  <MF_TakeToGround.reportString>относит {0} в подвал</MF_TakeToGround.reportString>
+  <MF_TakeKidnapeeToGround.reportString>похищает {0}</MF_TakeKidnapeeToGround.reportString>
+  <MF_FixBrokenDownBuildingAcrossLevel.reportString>чинит сломанное здание</MF_FixBrokenDownBuildingAcrossLevel.reportString>
+  <MF_FixBrokenDownBuilding.reportString>чинит сломанное здание</MF_FixBrokenDownBuilding.reportString>
+  <MF_RescueToOtherLevel.reportString>спасает TargetA.</MF_RescueToOtherLevel.reportString>
+  <MF_CaptureToOtherLevel.reportString>захватывает TargetA.</MF_CaptureToOtherLevel.reportString>
+  <MF_ArrestToOtherLevel.reportString>арестовывает TargetA.</MF_ArrestToOtherLevel.reportString>
+
+
+</LanguageData>

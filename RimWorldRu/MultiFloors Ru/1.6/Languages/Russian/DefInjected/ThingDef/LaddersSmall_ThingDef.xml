@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\LaddersSmall.xml -->
+	<!--             EN: small ladder up -->
+	<MF_LadderSUpA.label>малая лестница вверх</MF_LadderSUpA.label>
+	<!--                   EN: A compact entrance leading to the upper level. Requires an indoor, roofed room. Cannot be built underground. -->
+	<MF_LadderSUpA.description>Компактный вход, ведущий на верхний уровень. Требует крытого внутреннего помещения. Нельзя строить под землёй.</MF_LadderSUpA.description>
+	
+	<!--               EN: small ladder down -->
+	<MF_LadderSDownA.label>малая лестница вниз</MF_LadderSDownA.label>
+	<!--                     EN: A compact entrance leading to the lower level. Cannot be built on upper levels. -->
+	<MF_LadderSDownA.description>Компактный вход, ведущий на нижний уровень. Нельзя строить на верхних уровнях.</MF_LadderSDownA.description>
+	
+	<!--               EN: small ladder exit -->
+	<MF_LadderSExitA.label>выход с малой лестницы</MF_LadderSExitA.label>
+	<!--                     EN: The endpoint of a small ladder. -->
+	<MF_LadderSExitA.description>Конечная точка малой лестницы.</MF_LadderSExitA.description>
+</LanguageData>

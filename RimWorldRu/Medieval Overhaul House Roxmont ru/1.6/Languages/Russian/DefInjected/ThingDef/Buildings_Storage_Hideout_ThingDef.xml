@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\Buildings_Storage_Hideout.xml -->
+	<!--                   EN: Presser -->
+	<DankPyon_PresserRox.label>Пресс</DankPyon_PresserRox.label>
+	<!--                         EN: A wooden contraption to press selected items. Either to bring the juice out or whey from curds. -->
+	<DankPyon_PresserRox.description>Деревянное приспособление для отжима определённых предметов. Используется для получения сока или сыворотки из творога.</DankPyon_PresserRox.description>
+	<!--                                    EN: barrel -->
+	<DankPyon_HideoutRusticBarrelStackRox.label>бочка</DankPyon_HideoutRusticBarrelStackRox.label>
+	<!--                                          EN: A cylindrical barrel for general storage. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+	<DankPyon_HideoutRusticBarrelStackRox.description>Цилиндрическая бочка для общего хранения. Предметы внутри не влияют на красоту комнаты и не портятся, даже на улице.</DankPyon_HideoutRusticBarrelStackRox.description>
+	<!--                                    EN: (R) meat stall -->
+	<DankPyon_HideoutTableMarket_MeatsRox.label>(Р) мясной прилавок</DankPyon_HideoutTableMarket_MeatsRox.label>
+	<!--                                    EN: (R) dairy stall -->
+	<DankPyon_HideoutTableMarket_DairyRox.label>(Р) молочный прилавок</DankPyon_HideoutTableMarket_DairyRox.label>
+	<!--                                          EN: A table filled to display dairy goods. -->
+	<DankPyon_HideoutTableMarket_DairyRox.description>Стол, заполненный для демонстрации молочных продуктов.</DankPyon_HideoutTableMarket_DairyRox.description>
+	<!--                                 EN: (R) -->
+	<DankPyon_HideoutDryingRack_BigRox.label>(Р)</DankPyon_HideoutDryingRack_BigRox.label>
+	<!--                              EN: (R) -->
+	<DankPyon_HideoutTanningRackRox.label>(Р)</DankPyon_HideoutTanningRackRox.label>
+	<!--                           EN: bundled sack -->
+	<DankPyon_BundledSack1x1cRox.label>связанный мешок</DankPyon_BundledSack1x1cRox.label>
+	<!--                                 EN: A robust fabric bag designed to store resources in an efficient manner. Items stored inside will not affect room beauty and will never deteriorate, even if outside. -->
+	<DankPyon_BundledSack1x1cRox.description>Прочная тканевая сумка для эффективного хранения ресурсов. Предметы внутри не влияют на красоту комнаты и никогда не портятся, даже на улице.</DankPyon_BundledSack1x1cRox.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_HandrailStairsSUpA.label>маленькая лестница с перилами вверх</MF_HandrailStairsSUpA.label>
+  <MF_HandrailStairsSUpA.description>Узкие лестницы с простыми перилами для подъема. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_HandrailStairsSUpA.description>
+
+  <MF_HandrailStairsSDownA.label>маленькая лестница с перилами вниз</MF_HandrailStairsSDownA.label>
+  <MF_HandrailStairsSDownA.description>Узкие лестницы с простыми перилами для спуска. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_HandrailStairsSDownA.description>
+
+  <MF_HandrailStairsSExitA.label>выход маленькой лестницы с перилами</MF_HandrailStairsSExitA.label>
+  <MF_HandrailStairsSExitA.description>Конечная маленькой лестницы с перилами.</MF_HandrailStairsSExitA.description>
+
+
+</LanguageData>

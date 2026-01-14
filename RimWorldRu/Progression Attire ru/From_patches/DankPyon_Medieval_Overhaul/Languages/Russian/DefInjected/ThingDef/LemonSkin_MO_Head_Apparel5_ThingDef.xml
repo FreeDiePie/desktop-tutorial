@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\LemonSkin_MO_Head_Apparel5.xml -->
+	<!--                            EN: red bandana -->
+	<DankPyon_Headgear_RedBandana.label>red bandana</DankPyon_Headgear_RedBandana.label>
+	<!--                      EN: winter hood -->
+	<DankPyon_Headgear_Hood.label>winter hood</DankPyon_Headgear_Hood.label>
+	<!--                           EN: arming cap -->
+	<DankPyon_Headgear_ArmingCap.label>arming cap</DankPyon_Headgear_ArmingCap.label>
+	<!--                             EN: cultist hood -->
+	<DankPyon_Headgear_CultistHood.label>cultist hood</DankPyon_Headgear_CultistHood.label>
+	<!--                                EN: zweihander hat -->
+	<DankPyon_Headgear_ZweihandersHat.label>zweihander hat</DankPyon_Headgear_ZweihandersHat.label>
+	<!--                                    EN: padded kettle helm -->
+	<DankPyon_Headgear_PaddedKettleHelmet.label>padded kettle helm</DankPyon_Headgear_PaddedKettleHelmet.label>
+	<!--                                     EN: padded flat-top helm -->
+	<DankPyon_Headgear_PaddedFlatTopHelmet.label>padded flat-top helm</DankPyon_Headgear_PaddedFlatTopHelmet.label>
+	<!--                                 EN: chain coif (closed) -->
+	<DankPyon_Headgear_ChainCoifClosed.label>chain coif (closed)</DankPyon_Headgear_ChainCoifClosed.label>
+	<!--                                     EN: chain flat-top helm -->
+	<DankPyon_Headgear_Chain_FlatTopHelmet.label>chain flat-top helm</DankPyon_Headgear_Chain_FlatTopHelmet.label>
+	<!--                                           EN: chain flat-top helm (closed) -->
+	<DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>chain flat-top helm (closed)</DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>
+	<!--                                          EN: chainveil helm -->
+	<DankPyon_Headgear_ChainClosedFlatTopHelmet.label>chainveil helm</DankPyon_Headgear_ChainClosedFlatTopHelmet.label>
+	<!--                               EN: heavy barbute -->
+	<DankPyon_Headgear_HeavyBarbrute.label>heavy barbute</DankPyon_Headgear_HeavyBarbrute.label>
+	<!--                              EN: open bascinet -->
+	<DankPyon_Headgear_OpenBascinet.label>open bascinet</DankPyon_Headgear_OpenBascinet.label>
+	<!--                                EN: zweihander helm -->
+	<DankPyon_Headgear_ZweihanderHelm.label>zweihander helm</DankPyon_Headgear_ZweihanderHelm.label>
+	<!--                                 EN: hounskull helm -->
+	<DankPyon_Headgear_HounskullHelmet.label>hounskull helm</DankPyon_Headgear_HounskullHelmet.label>
+</LanguageData>

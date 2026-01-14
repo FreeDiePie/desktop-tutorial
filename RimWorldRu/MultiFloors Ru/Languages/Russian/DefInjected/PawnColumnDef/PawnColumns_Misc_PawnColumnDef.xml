@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\PawnColumnDef\PawnColumns_Misc.xml -->
+	<!--              EN: living -->
+	<MF_LivingLevel.label>проживание</MF_LivingLevel.label>
+	<!--            EN: diet -->
+	<MF_DietLevel.label>питание</MF_DietLevel.label>
+	<!--           EN: joy -->
+	<MF_JoyLevel.label>развлечения</MF_JoyLevel.label>
+	<!--                EN: meditate -->
+	<MF_MeditateLevel.label>медитация</MF_MeditateLevel.label>
+	<!--               EN: current -->
+	<MF_CurrentLevel.label>текущий</MF_CurrentLevel.label>
+	<!--                   EN: lock -->
+	<MF_StayOnCurrentMap.label>закреп.</MF_StayOnCurrentMap.label>
+	<!--                                 EN: priority -->
+	<MF_CrossLevelWorkScanningPriority.label>приоритет</MF_CrossLevelWorkScanningPriority.label>
+</LanguageData>

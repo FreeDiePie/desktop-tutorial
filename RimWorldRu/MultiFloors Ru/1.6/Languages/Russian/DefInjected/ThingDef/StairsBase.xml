@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_StairEntranceBase.label>вход на лестницу</MF_StairEntranceBase.label>
+  <MF_StairEntranceBase.description>Заглушка.</MF_StairEntranceBase.description>
+
+  <MF_StairExitBase.label>лестничный выход</MF_StairExitBase.label>
+  <MF_StairExitBase.description>Заглушка.</MF_StairExitBase.description>
+
+
+</LanguageData>

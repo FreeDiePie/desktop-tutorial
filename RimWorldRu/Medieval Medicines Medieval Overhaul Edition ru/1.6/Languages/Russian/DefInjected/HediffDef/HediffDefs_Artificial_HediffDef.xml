@@ -1,0 +1,69 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\HediffDefs_Artificial.xml -->
+	<!--                 EN: artificial hand -->
+	<ArtificialMedHand.label>искусственная кисть</ArtificialMedHand.label>
+	<!--                     EN: an artificial hand -->
+	<ArtificialMedHand.labelNoun>искусственная кисть</ArtificialMedHand.labelNoun>
+	<!--                       EN: An installed artificial hand. -->
+	<ArtificialMedHand.description>Установленная искусственная кисть.</ArtificialMedHand.description>
+	<!--                                 EN: artificial hand -->
+	<ArtificialMedHand.comps.0.tools.0.label>искусственная кисть</ArtificialMedHand.comps.0.tools.0.label>
+	
+	<!--                EN: artificial arm -->
+	<ArtificialMedArm.label>искусственная рука</ArtificialMedArm.label>
+	<!--                    EN: an artificial arm -->
+	<ArtificialMedArm.labelNoun>искусственная рука</ArtificialMedArm.labelNoun>
+	<!--                      EN: An installed artificial arm. -->
+	<ArtificialMedArm.description>Установленная искусственная рука.</ArtificialMedArm.description>
+	<!--                                EN: artificial arm -->
+	<ArtificialMedArm.comps.0.tools.0.label>искусственная рука</ArtificialMedArm.comps.0.tools.0.label>
+	
+	<!--                EN: artificial leg -->
+	<ArtificialMedLeg.label>искусственная нога</ArtificialMedLeg.label>
+	<!--                    EN: an artificial leg -->
+	<ArtificialMedLeg.labelNoun>искусственная нога</ArtificialMedLeg.labelNoun>
+	<!--                      EN: An installed artificial leg. -->
+	<ArtificialMedLeg.description>Установленная искусственная нога.</ArtificialMedLeg.description>
+	
+	<!--                 EN: artificial foot -->
+	<ArtificialMedFoot.label>искусственная стопа</ArtificialMedFoot.label>
+	<!--                     EN: a artificial foot -->
+	<ArtificialMedFoot.labelNoun>искусственная стопа</ArtificialMedFoot.labelNoun>
+	<!--                       EN: An installed artificial foot. -->
+	<ArtificialMedFoot.description>Установленная искусственная стопа.</ArtificialMedFoot.description>
+	
+	<!--                EN: artificial toe -->
+	<ArtificialMedToe.label>искусственный палец ноги</ArtificialMedToe.label>
+	<!--                    EN: an artificial toe -->
+	<ArtificialMedToe.labelNoun>искусственный палец ноги</ArtificialMedToe.labelNoun>
+	<!--                      EN: An installed artificial toe. -->
+	<ArtificialMedToe.description>Установленный искусственный палец ноги.</ArtificialMedToe.description>
+	
+	<!--                   EN: artificial finger -->
+	<ArtificialMedFinger.label>искусственный палец</ArtificialMedFinger.label>
+	<!--                       EN: an artificial finger -->
+	<ArtificialMedFinger.labelNoun>искусственный палец</ArtificialMedFinger.labelNoun>
+	<!--                         EN: An installed artificial finger. -->
+	<ArtificialMedFinger.description>Установленный искусственный палец.</ArtificialMedFinger.description>
+	
+	<!--                 EN: artificial nose -->
+	<ArtificialMedNose.label>искусственный нос</ArtificialMedNose.label>
+	<!--                     EN: an artificial nose -->
+	<ArtificialMedNose.labelNoun>искусственный нос</ArtificialMedNose.labelNoun>
+	<!--                       EN: An installed artificial nose. -->
+	<ArtificialMedNose.description>Установленный искусственный нос.</ArtificialMedNose.description>
+	
+	<!--                EN: artificial eye -->
+	<ArtificialMedEye.label>искусственный глаз</ArtificialMedEye.label>
+	<!--                    EN: an artificial eye -->
+	<ArtificialMedEye.labelNoun>искусственный глаз</ArtificialMedEye.labelNoun>
+	<!--                      EN: An installed artificial eye. -->
+	<ArtificialMedEye.description>Установленный искусственный глаз.</ArtificialMedEye.description>
+	
+	<!--                EN: artificial ear -->
+	<ArtificialMedEar.label>искусственное ухо</ArtificialMedEar.label>
+	<!--                    EN: an artificial ear -->
+	<ArtificialMedEar.labelNoun>искусственное ухо</ArtificialMedEar.labelNoun>
+	<!--                      EN: An installed artificial ear. -->
+	<ArtificialMedEar.description>Установленное искусственное ухо.</ArtificialMedEar.description>
+</LanguageData>

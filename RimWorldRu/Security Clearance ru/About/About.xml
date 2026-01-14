@@ -1,0 +1,39 @@
+<ModMetaData>
+	<name>Security Clearance ru</name>
+	<author>FreeDiePie</author>
+	<packageId>FDP.7f.SecurityClearance</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/FDPLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>7f.SecurityClearance</packageId>
+			<displayName>Security Clearance</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3634353108</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>7f.SecurityClearance</li>
+	</loadAfter>
+	<description>
+		Ещё один мод для блокировки дверей под все ваши [ДАННЫЕ УДАЛЕНЫ] нужды, во многом вдохновлённый Card Doors.
+
+		Добавляет несколько типов и уровней допуска для ключ-карт и позволяет ограничивать любую дверь с питанием (например, автодвери и охранные двери) доступом определённого уровня. А именно, мод добавляет:
+
+		Пять «стандартных» уровней допуска — от Альфы до Эпсилона.
+		Каждый из них может открывать двери своего уровня и ниже
+		(например, ключ-карта Гамма может открыть двери Гамма, Дельта и Эпсилон).
+
+		Четыре «специальных» уровня допуска: Тета, Лямбда, Тау и Фи.
+		Каждый из них может открывать только соответствующую ему дверь
+		(например, только ключ-карта Тета может открыть дверь Тета).
+
+		И, наконец, уровень допуска Омега, который открывает абсолютно всё.
+		Двери уровня Омега могут быть открыты только ключ-картами Омега.
+
+		Исходный код:
+		https://codeberg.org/azey/rw-security-clearance
+	</description>
+</ModMetaData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- 1.6\Defs\ChemicalDefs\ChemicalDef_HealingPotion.xml -->
+	
+	<!--                      EN: healing potion addiction -->
+	<HealingPotionAddiction.label>зависимость от лечебного зелья</HealingPotionAddiction.label>
+	<!--                            EN: A chemical addiction to healing potion. Long-term presence of healing potion has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+		
+Without regular doses of healing potion, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+	<HealingPotionAddiction.description>Химическая зависимость от лечебного зелья. Длительное присутствие лечебного зелья вызвало неврологические адаптации на клеточном уровне, из-за чего мозг больше не может нормально функционировать без этого вещества.
+
+Без регулярных доз лечебного зелья начнут проявляться симптомы ломки. Однако продолжительное воздержание заставит мозг вернуться к нормальному состоянию, устранив зависимость.</HealingPotionAddiction.description>
+	<!--                               EN: withdrawal -->
+	<HealingPotionAddiction.stages.0.label>ломка</HealingPotionAddiction.stages.0.label>
+	
+	<!--                      EN: healing potion tolerance -->
+	<HealingPotionTolerance.label>толерантность к лечебному зелью</HealingPotionTolerance.label>
+	<!--                            EN: A built-up tolerance to healing potion. The more severe this tolerance is, the more healing potion it takes to get the same effect. -->
+	<HealingPotionTolerance.description>Выработанная толерантность к лечебному зелью. Чем сильнее выражена эта толерантность, тем больше лечебного зелья требуется для достижения того же эффекта.</HealingPotionTolerance.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\ThoughtDef_Cheese.xml -->
+	<!--                              EN: ate awful rox cheese -->
+	<DankPyon_AteRoxCheese.stages.0.label>отведал ужасный рокс-сыр</DankPyon_AteRoxCheese.stages.0.label>
+	<!--                                    EN: I had the unfortunate experience of eating awful-quality rox cheese. The taste was dissapointing and the taste still lingers in my mouth. -->
+	<DankPyon_AteRoxCheese.stages.0.description>Мне не повезло попробовать рокс-сыр ужасного качества. Вкус был разочаровывающим и до сих пор не выветривается.</DankPyon_AteRoxCheese.stages.0.description>
+	<!--                              EN: ate poor rox cheese -->
+	<DankPyon_AteRoxCheese.stages.1.label>отведал плохой рокс-сыр</DankPyon_AteRoxCheese.stages.1.label>
+	<!--                                    EN: I ate some poor-quality rox cheese. The taste was average but palateable -->
+	<DankPyon_AteRoxCheese.stages.1.description>Я отведал рокс-сыр плохого качества. Вкус был средним, но приемлемым.</DankPyon_AteRoxCheese.stages.1.description>
+	<!--                              EN: ate normal rox cheese -->
+	<DankPyon_AteRoxCheese.stages.2.label>отведал обычный рокс-сыр</DankPyon_AteRoxCheese.stages.2.label>
+	<!--                                    EN: I ate rox cheese. It was tasty and filling. -->
+	<DankPyon_AteRoxCheese.stages.2.description>Я отведал рокс-сыр. Он был вкусным и сытным.</DankPyon_AteRoxCheese.stages.2.description>
+	<!--                              EN: ate good rox cheese -->
+	<DankPyon_AteRoxCheese.stages.3.label>отведал хороший рокс-сыр</DankPyon_AteRoxCheese.stages.3.label>
+	<!--                                    EN: The taste of the good-quality rox cheese you just ate lingers on your palate, bringing a smile to your face. -->
+	<DankPyon_AteRoxCheese.stages.3.description>Вкус только что съеденного хорошего рокс-сыра ещё долго будет на языке, вызывая улыбку на лице.</DankPyon_AteRoxCheese.stages.3.description>
+	<!--                              EN: ate excellent rox cheese -->
+	<DankPyon_AteRoxCheese.stages.4.label>отведал отличный рокс-сыр</DankPyon_AteRoxCheese.stages.4.label>
+	<!--                                    EN: The incredible taste of the excellent-quality rox cheese you just indulged in has left you in a state of pure culinary delight -->
+	<DankPyon_AteRoxCheese.stages.4.description>Невероятный вкус только что отведанного превосходного рокс-сыра оставил вас в состоянии чистого кулинарного восторга.</DankPyon_AteRoxCheese.stages.4.description>
+	<!--                              EN: ate masterwork rox cheese -->
+	<DankPyon_AteRoxCheese.stages.5.label>отведал шедевральный рокс-сыр</DankPyon_AteRoxCheese.stages.5.label>
+	<!--                                    EN: The unparalleled taste of the masterwork-quality rox cheese you just savored has transported you to a realm of gustatory ecstasy. -->
+	<DankPyon_AteRoxCheese.stages.5.description>Бесподобный вкус только что отведанного шедеврального рокс-сыра перенёс вас в царство вкусового экстаза.</DankPyon_AteRoxCheese.stages.5.description>
+	<!--                              EN: ate legendary rox cheese -->
+	<DankPyon_AteRoxCheese.stages.6.label>отведал легендарный рокс-сыр</DankPyon_AteRoxCheese.stages.6.label>
+	<!--                                    EN: The divine taste of the legendary-quality rox cheese you just experienced has forever altered your perception of culinary perfection. -->
+	<DankPyon_AteRoxCheese.stages.6.description>Божественный вкус только что испробованного легендарного рокс-сыра навсегда изменил ваше представление о кулинарном совершенстве.</DankPyon_AteRoxCheese.stages.6.description>
+</LanguageData>

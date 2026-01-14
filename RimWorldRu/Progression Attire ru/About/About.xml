@@ -1,0 +1,29 @@
+<ModMetaData>
+	<name>Progression: Attire rus</name>
+	<author>Kamikadza13</author>
+	<packageId>Kamikadza13.ferny.progressionattire</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>ferny.progressionattire</packageId>
+			<displayName>Progression: Attire</displayName>
+			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=3634874325</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>ferny.progressionattire</li>
+	</loadAfter>
+	<description>Перевод Progression: Attire
+
+Tweaks research requirements and de-duplicates attire from various mods.
+https:/steamcommunity.com/sharedfiles/filedetails/?id=3634874325
+
+Если вы заметили что-то не переведенное, то напишите об этом в комментариях под переводом ^_^
+
+Также мой перевод кучи мелких QOL модов
+QOL rus
+https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039
+(зайдите посмотрите, там много вкусного)</description>
+</ModMetaData>

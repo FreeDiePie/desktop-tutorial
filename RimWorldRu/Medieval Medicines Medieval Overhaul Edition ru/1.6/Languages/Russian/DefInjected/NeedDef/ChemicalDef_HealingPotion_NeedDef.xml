@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Defs\ChemicalDefs\ChemicalDef_HealingPotion.xml -->
+	
+	<!--                      EN: healing potion -->
+	<Chemical_HealingPotion.label>лечебное зелье</Chemical_HealingPotion.label>
+	<!--                            EN: Because of a healing potion addiction, this person needs to regularly consume healing potion to avoid withdrawal symptoms. -->
+	<Chemical_HealingPotion.description>Из-за зависимости от лечебного зелья этому персонажу необходимо регулярно употреблять лечебное зелье, чтобы избежать симптомов ломки.</Chemical_HealingPotion.description>
+</LanguageData>

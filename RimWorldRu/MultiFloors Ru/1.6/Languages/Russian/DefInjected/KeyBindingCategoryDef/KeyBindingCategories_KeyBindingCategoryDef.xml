@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\KeyBindings\KeyBindingCategories.xml -->
+	<!--                 EN: Multi Floor -->
+	<MultiFloorHotKeys.label>Многоэтажность</MultiFloorHotKeys.label>
+	<!--                       EN: Shortcut for switching levels in multi floor mod. -->
+	<MultiFloorHotKeys.description>Горячие клавиши для переключения уровней в моде многоэтажности.</MultiFloorHotKeys.description>
+</LanguageData>

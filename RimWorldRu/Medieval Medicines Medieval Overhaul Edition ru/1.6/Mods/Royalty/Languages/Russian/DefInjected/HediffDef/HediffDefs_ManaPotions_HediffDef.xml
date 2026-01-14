@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- 1.6\Mods\Royalty\Defs\HediffDefs_ManaPotions.xml -->
+	<!--                    EN: Improved Arcane Load Dispersal -->
+	<Joe_LesserArcaneLoad.label>Улучшенное рассеивание арканической нагрузки</Joe_LesserArcaneLoad.label>
+	<!--                        EN: Improved Arcane Load Dispersal -->
+	<Joe_LesserArcaneLoad.labelNoun>Улучшенное рассеивание арканической нагрузки</Joe_LesserArcaneLoad.labelNoun>
+	<!--                          EN: Improved Arcane Load Dispersal rate gained by imbibing a Lesser Mana Potion. -->
+	<Joe_LesserArcaneLoad.description>Повышенная скорость рассеивания арканической нагрузки, получаемая при употреблении малого зелья маны.</Joe_LesserArcaneLoad.description>
+	
+	<!--                   EN: Improved Arcane Load Dispersal -->
+	<Joe_MinorArcaneLoad.label>Улучшенное рассеивание арканической нагрузки</Joe_MinorArcaneLoad.label>
+	<!--                       EN: Improved Arcane Load Dispersal -->
+	<Joe_MinorArcaneLoad.labelNoun>Улучшенное рассеивание арканической нагрузки</Joe_MinorArcaneLoad.labelNoun>
+	<!--                         EN: Improved Arcane Load Dispersal rate gained by imbibing a Minor Mana Potion. -->
+	<Joe_MinorArcaneLoad.description>Повышенная скорость рассеивания арканической нагрузки, получаемая при употреблении слабого зелья маны.</Joe_MinorArcaneLoad.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\MapGeneration\BasementMapGenerator.xml -->
+	<!--                EN: basement -->
+	<MF_BasementBiome.label>подвал</MF_BasementBiome.label>
+	<!--                      EN: Placeholder. -->
+	<MF_BasementBiome.description>Заполнитель.</MF_BasementBiome.description>
+</LanguageData>

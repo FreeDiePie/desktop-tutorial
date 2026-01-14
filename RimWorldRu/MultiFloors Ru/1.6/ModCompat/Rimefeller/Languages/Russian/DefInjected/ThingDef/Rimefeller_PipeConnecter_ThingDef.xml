@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\ModCompat\Rimefeller\Defs\ThingDefs_Buildings\Rimefeller_PipeConnecter.xml -->
+	<!--                      EN: chemfuel pipe connector -->
+	<MF_RFFuelPipeConnector.label>соединитель труб для химического топлива</MF_RFFuelPipeConnector.label>
+	<!--                            EN: Connect chemfuel pipes on two levels together. (For chemfuel pipe network in Rimefeller) -->
+	<MF_RFFuelPipeConnector.description>Соединяет трубы для химического топлива на двух уровнях. (Для сети труб химического топлива в Rimefeller)</MF_RFFuelPipeConnector.description>
+</LanguageData>

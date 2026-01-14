@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\ThoughtDefs_MinorHealing.xml -->
+	<!--                                EN: humours out of balance -->
+	<Joe_MinorHealingThought.stages.0.label>дисбаланс гуморов</Joe_MinorHealingThought.stages.0.label>
+	<!--                                      EN: My humours seem to be out of balance. I am angry and irritable, with a bitter taste in my mouth. It must be due to that minor healing potion I consumed. -->
+	<Joe_MinorHealingThought.stages.0.description>Похоже, мои гуморы вышли из равновесия. Я зол и раздражителен, во рту ощущается горький привкус. Должно быть, это из-за слабого лечебного зелья, которое я выпил.</Joe_MinorHealingThought.stages.0.description>
+</LanguageData>

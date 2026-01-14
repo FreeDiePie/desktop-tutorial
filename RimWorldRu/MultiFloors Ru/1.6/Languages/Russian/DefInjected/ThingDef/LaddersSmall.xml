@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_LadderSUpA.label>маленькая лестница вверх</MF_LadderSUpA.label>
+  <MF_LadderSUpA.description>Компактный вход на верхний уровень. Требуется крытое помещение не менее 25 клеток. Нельзя строить под землей или в одной комнате с другими лестницами вверх.</MF_LadderSUpA.description>
+
+  <MF_LadderSDownA.label>маленькая лестница вниз</MF_LadderSDownA.label>
+  <MF_LadderSDownA.description>Компактный вход на нижний уровень. Требуется помещение не менее 25 клеток. Нельзя строить на верхних уровнях или в одной комнате с другими лестницами вниз.</MF_LadderSDownA.description>
+
+  <MF_LadderSExitA.label>конечная маленькой лестницы</MF_LadderSExitA.label>
+  <MF_LadderSExitA.description>Конечная точка маленькой лестницы.</MF_LadderSExitA.description>
+
+
+</LanguageData>

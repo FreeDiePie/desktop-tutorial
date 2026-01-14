@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Items\Items_Resource_AnimalProduct.xml -->
+	<!--                EN: rox milk -->
+	<DankPyon_RoxMilk.label>рокс-молоко</DankPyon_RoxMilk.label>
+	<!--                      EN: Milk from a Rox. -->
+	<DankPyon_RoxMilk.description>Молоко рокса.</DankPyon_RoxMilk.description>
+</LanguageData>

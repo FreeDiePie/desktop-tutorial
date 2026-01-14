@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Recipes_Alcoholics.xml -->
+	<!--                                EN: make roxberry stout wort -->
+	<DankPyon_Make_Wort_RoxberryStout.label>сделать затор роксберийского стаута</DankPyon_Make_Wort_RoxberryStout.label>
+	<!--                                      EN: Make roxberry stout wort by crushing griffon berries. Needs to undergo fermentation in order to become ale. -->
+	<DankPyon_Make_Wort_RoxberryStout.description>Сделать затор роксберийского стаута, измельчая ягоды грифона. Должен пройти ферментацию, чтобы стать элем.</DankPyon_Make_Wort_RoxberryStout.description>
+	<!--                                    EN: Making roxberry stout wort. -->
+	<DankPyon_Make_Wort_RoxberryStout.jobString>Изготавливает затор роксберийского стаута.</DankPyon_Make_Wort_RoxberryStout.jobString>
+</LanguageData>
